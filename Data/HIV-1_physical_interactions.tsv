@@ -1,0 +1,3990 @@
+HIV.1_Prot_Name	Human_GeneId	Keywords	evidence.number
+Envelope surface glycoprotein gp120	920	binds(105)/complexes with(  8)/interacts with( 52)	165
+Envelope surface glycoprotein gp120	1234	associates with( 1)/binds(21)/complexes with( 7)/interacts with(27)	56
+Envelope surface glycoprotein gp120	7852	binds(19)/complexes with( 4)/interacts with(31)	54
+Tat	904	associates with( 1)/binds(16)/complexes with(12)/interacts with(22)/recruited by( 1)	52
+integrase	11168	binds(18)/complexes with( 6)/fractionates with( 1)/interacts with(24)	49
+Vif	60489	binds(16)/complexes with( 1)/interacts with(28)	45
+Tat	1025	associates with( 1)/binds(10)/complexes with(12)/interacts with(17)/phosphorylates( 1)/recruited by( 1)	42
+Envelope surface glycoprotein gp120	30835	binds(21)/complexes with( 1)/interacts with(14)	36
+Vif	865	binds( 7)/complexes with( 9)/interacts( 1)/interacts with(16)	33
+capsid	5478	binds(18)/interacts with(11)/isomerized by( 1)	30
+Vif	8065	binds( 2)/complexes with( 9)/interacts with(14)	25
+Vpu	684	binds( 3)/interacts with(22)	25
+Nef	3055	associates with( 2)/binds(14)/complexes with( 5)/interacts with( 3)	24
+Vpr	9730	binds(9)/complexes with(3)/interacts with(8)	20
+Vif	200316	binds(10)/interacts with( 9)	19
+capsid	4600	binds(10)/interacts with( 8)	18
+Envelope surface glycoprotein gp160, precursor	920	binds(10)/complexes with( 2)/interacts with( 6)	18
+Envelope transmembrane glycoprotein gp41	920	binds( 5)/complexes with( 1)/interacts with(12)	18
+Vif	6921	binds(2)/complexes with(8)/interacts with(8)	18
+capsid	11052	associates with( 1)/binds(13)/interacts with( 2)	16
+Envelope surface glycoprotein gp120	3676	binds(8)/complexes with(2)/interacts with(5)	15
+Rev	7514	associates with(1)/binds(5)/complexes with(1)/interacts with(8)	15
+Vif	6923	binds(2)/complexes with(8)/interacts with(4)	14
+Pr55(Gag)	7251	binds(5)/interacts with(8)	13
+Envelope surface glycoprotein gp120	3695	binds(7)/complexes with(2)/interacts with(3)	12
+Nef	5062	associates with(7)/binds(2)/complexes with(1)/interacts with(2)	12
+Nef	8907	binds(2)/complexes with(2)/interacts with(8)	12
+p6	10015	binds(5)/interacts with(7)	12
+Vpu	8945	binds(3)/interacts with(9)	12
+Pr55(Gag)	10015	binds(3)/interacts with(8)	11
+Tat	3690	binds( 1)/interacts with(10)	11
+Vpr	1642	binds(2)/complexes with(2)/interacts with(7)	11
+capsid	23534	binds(2)/interacts with(8)	10
+Nef	3105	binds(3)/complexes with(2)/interacts with(5)	10
+Nef	3932	binds(3)/complexes with(3)/interacts with(4)	10
+p6	7251	binds(6)/complexes with(1)/interacts with(3)	10
+Tat	3685	binds(1)/interacts with(9)	10
+Envelope surface glycoprotein gp120	3458	interacts with(9)	9
+integrase	6598	binds(3)/complexes with(1)/interacts with(5)	9
+Nef	920	binds(3)/complexes with(1)/interacts with(5)	9
+Tat	3688	binds(1)/interacts with(8)	9
+Tat	6908	binds(2)/interacts with(7)	9
+Vpr	8451	binds(1)/complexes with(2)/interacts with(6)	9
+capsid	5903	binds(1)/interacts with(7)	8
+Envelope surface glycoprotein gp120	4153	binds(4)/complexes with(3)/interacts with(1)	8
+nucleocapsid	60489	associates with(1)/complexes with(2)/interacts with(5)	8
+Tat	4790	acetylates(1)/binds(1)/interacts with(6)	8
+Tat	5970	acetylates(1)/binds(2)/interacts with(5)	8
+Vpr	7374	binds(5)/complexes with(2)/interacts with(1)	8
+Vpu	920	binds(2)/interacts with(6)	8
+capsid	85363	binds(4)/complexes with(1)/interacts with(2)	7
+Envelope surface glycoprotein gp120	1232	binds(6)/interacts with(1)	7
+Envelope surface glycoprotein gp120	7841	complexes with(1)/glycosylated by(1)/interacts with(1)/processed by(4)	7
+integrase	23534	binds(5)/complexes with(1)/interacts with(1)	7
+Pr55(Gag)	6780	complexes with(2)/interacts with(5)	7
+Rev	1653	binds(1)/interacts with(6)	7
+Tat	8850	acetylated by(2)/binds(2)/complexes with(1)/interacts with(2)	7
+capsid	9972	binds(4)/interacts with(2)	6
+Envelope surface glycoprotein gp120	355	interacts with(6)	6
+Envelope surface glycoprotein gp120	1432	interacts with(6)	6
+Envelope surface glycoprotein gp120	4790	interacts with(6)	6
+Envelope surface glycoprotein gp120	7124	interacts with(6)	6
+Envelope surface glycoprotein gp120	23193	glycosylated by(1)/interacts with(1)/processed by(4)	6
+Envelope transmembrane glycoprotein gp41	1234	complexes with(3)/interacts with(3)	6
+Pr55(Gag)	4734	binds(1)/interacts with(2)/ubiquitinated by(3)	6
+Pr55(Gag)	6059	associates with(3)/interacts with(3)	6
+Rev	1984	binds(3)/interacts with(3)	6
+Tat	1017	binds(1)/interacts with(2)/phosphorylated by(3)	6
+Tat	5610	binds(1)/interacts with(2)/phosphorylated by(3)	6
+Tat	6667	binds(1)/interacts with(5)	6
+Tat	27125	binds(1)/complexes with(3)/interacts with(2)	6
+Envelope surface glycoprotein gp120	213	binds(4)/interacts with(1)	5
+Envelope surface glycoprotein gp120	718	binds(3)/interacts with(2)	5
+Envelope surface glycoprotein gp120	2548	glycosylated by(1)/processed by(4)	5
+Envelope surface glycoprotein gp120	2595	glycosylated by(1)/processed by(4)	5
+Envelope surface glycoprotein gp120	3107	complexes with(1)/interacts with(4)	5
+Envelope surface glycoprotein gp120	5578	interacts with(5)	5
+Envelope surface glycoprotein gp120	5579	interacts with(5)	5
+Envelope surface glycoprotein gp120	5580	interacts with(5)	5
+Envelope surface glycoprotein gp120	5581	interacts with(5)	5
+Envelope surface glycoprotein gp120	5582	interacts with(5)	5
+Envelope surface glycoprotein gp120	5583	interacts with(5)	5
+Envelope surface glycoprotein gp120	5584	interacts with(5)	5
+Envelope surface glycoprotein gp120	5588	interacts with(5)	5
+Envelope surface glycoprotein gp120	5590	interacts with(5)	5
+Envelope surface glycoprotein gp160, precursor	821	binds(2)/interacts with(3)	5
+Envelope transmembrane glycoprotein gp41	7852	complexes with(2)/interacts with(3)	5
+integrase	3840	binds(3)/complexes with(1)/interacts with(1)	5
+matrix	801	binds(4)/interacts with(1)	5
+matrix	3577	binds(3)/interacts with(2)	5
+matrix	3579	binds(3)/interacts with(2)	5
+Nef	160	binds(5)	5
+Nef	1915	binds(1)/complexes with(3)/interacts with(1)	5
+Nef	3106	binds(1)/complexes with(1)/interacts with(3)	5
+Nef	55690	binds(3)/interacts with(2)	5
+Pr55(Gag)	60	binds(1)/complexes with(1)/interacts with(3)	5
+Pr55(Gag)	3106	associates with(1)/interacts with(4)	5
+Pr55(Gag)	5594	interacts with(2)/phosphorylated by(3)	5
+Rev	4869	associates with(1)/binds(2)/interacts with(2)	5
+reverse transcriptase	60489	binds(2)/interacts with(3)	5
+Tat	1022	binds(2)/interacts with(3)	5
+Tat	1387	acetylated by(1)/associates with(1)/binds(2)/interacts with(1)	5
+Tat	2033	acetylated by(1)/binds(1)/complexes with(1)/interacts with(2)	5
+Tat	2959	binds(1)/interacts with(4)	5
+Tat	3458	interacts with(5)	5
+Tat	7124	interacts with(5)	5
+Tat	51574	complexes with(2)/interacts with(3)	5
+Tat	56257	complexes with(2)/interacts with(3)	5
+Vif	9616	complexes with(2)/interacts with(3)	5
+Vpr	3836	binds(2)/interacts with(3)	5
+Vpr	3838	binds(3)/interacts with(2)	5
+Vpr	5886	binds(4)/complexes with(1)	5
+Vpr	10980	binds(1)/interacts with(4)	5
+capsid	3735	binds(2)/interacts with(2)	4
+Envelope surface glycoprotein gp120	356	interacts with(4)	4
+Envelope surface glycoprotein gp120	721	binds(3)/interacts with(1)	4
+Envelope surface glycoprotein gp120	1755	binds(2)/interacts with(2)	4
+Envelope surface glycoprotein gp120	1803	interacts with(4)	4
+Envelope surface glycoprotein gp120	3383	interacts with(4)	4
+Envelope surface glycoprotein gp120	3683	interacts with(4)	4
+Envelope surface glycoprotein gp120	3998	binds(4)	4
+Envelope surface glycoprotein gp120	4360	binds(3)/interacts with(1)	4
+Envelope surface glycoprotein gp120	6387	interacts with(4)	4
+Envelope surface glycoprotein gp120	9902	binds(3)/interacts with(1)	4
+Envelope surface glycoprotein gp160, precursor	10226	binds(3)/interacts with(1)	4
+Envelope surface glycoprotein gp160, precursor	30835	binds(4)	4
+integrase	3838	binds(1)/complexes with(1)/interacts with(2)	4
+integrase	8655	interacts with(4)	4
+integrase	9972	binds(1)/interacts with(3)	4
+integrase	60489	binds(1)/complexes with(1)/interacts with(2)	4
+matrix	5594	interacts with(1)/phosphorylated by(3)	4
+matrix	5595	interacts with(1)/phosphorylated by(3)	4
+Nef	60	associates with(1)/complexes with(1)/interacts with(2)	4
+Nef	164	binds(1)/interacts with(3)	4
+Nef	1213	complexes with(2)/interacts with(2)	4
+Nef	3107	binds(1)/complexes with(1)/interacts with(2)	4
+Nef	3190	complexes with(3)/interacts with(1)	4
+Nef	3313	binds(1)/complexes with(1)/interacts with(2)	4
+Nef	5058	associates with(2)/interacts with(2)	4
+Nef	5295	associates with(1)/binds(1)/complexes with(1)/interacts with(1)	4
+Nef	6714	binds(2)/interacts with(2)	4
+Nef	7852	interacts with(4)	4
+Nef	10005	binds(2)/interacts with(2)	4
+Nef	55770	binds(1)/interacts with(3)	4
+p6	4734	interacts with(1)/ubiquitinated by(3)	4
+Pr55(Gag)	1915	binds(3)/complexes with(1)	4
+Pr55(Gag)	1938	binds(1)/interacts with(3)	4
+Pr55(Gag)	3105	binds(1)/interacts with(3)	4
+Pr55(Gag)	3107	complexes with(1)/interacts with(3)	4
+Pr55(Gag)	3735	binds(2)/interacts with(2)	4
+Pr55(Gag)	60489	associates with(1)/binds(1)/interacts with(2)	4
+Pr55(Gag)	92140	interacts with(4)	4
+Pr55(Gag)	128866	interacts with(4)	4
+Rev	1457	binds(1)/interacts with(1)/phosphorylated by(2)	4
+Rev	1459	binds(1)/interacts with(1)/phosphorylated by(2)	4
+Rev	1460	binds(1)/interacts with(1)/phosphorylated by(2)	4
+Rev	5901	binds(3)/interacts with(1)	4
+Tat	902	binds(2)/interacts with(2)	4
+Tat	1051	associates with(1)/binds(1)/interacts with(2)	4
+Tat	3678	binds(1)/interacts with(3)	4
+Tat	5290	interacts with(4)	4
+Tat	5291	interacts with(4)	4
+Tat	5293	interacts with(4)	4
+Tat	5294	interacts with(4)	4
+Tat	6872	binds(2)/interacts with(2)	4
+Tat	6878	binds(1)/interacts with(3)	4
+Tat	8148	binds(1)/interacts with(3)	4
+Tat	9733	complexes with(1)/interacts with(3)	4
+Vif	9978	complexes with(2)/interacts with(2)	4
+Vif	27350	binds(1)/interacts with(3)	4
+Vif	54476	binds(3)/interacts with(1)	4
+Vpr	995	binds(2)/complexes with(1)/interacts with(1)	4
+Vpr	5518	binds(1)/interacts with(3)	4
+capsid	914	interacts with(3)	3
+capsid	11168	fractionates with(1)/interacts with(2)	3
+Envelope surface glycoprotein gp120	572	interacts with(3)	3
+Envelope surface glycoprotein gp120	836	associates with(1)/interacts with(2)	3
+Envelope surface glycoprotein gp120	966	interacts with(3)	3
+Envelope surface glycoprotein gp120	1237	associates with(1)/binds(1)/interacts with(1)	3
+Envelope surface glycoprotein gp120	2316	binds(1)/complexes with(1)/interacts with(1)	3
+Envelope surface glycoprotein gp120	2770	complexes with(1)/interacts with(2)	3
+Envelope surface glycoprotein gp120	2771	complexes with(1)/interacts with(2)	3
+Envelope surface glycoprotein gp120	2773	complexes with(1)/interacts with(2)	3
+Envelope surface glycoprotein gp120	3122	interacts with(3)	3
+Envelope surface glycoprotein gp120	3123	interacts with(3)	3
+Envelope surface glycoprotein gp120	3125	interacts with(3)	3
+Envelope surface glycoprotein gp120	3126	interacts with(3)	3
+Envelope surface glycoprotein gp120	3127	interacts with(3)	3
+Envelope surface glycoprotein gp120	3133	complexes with(1)/interacts with(2)	3
+Envelope surface glycoprotein gp120	3689	interacts with(3)	3
+Envelope surface glycoprotein gp120	3932	interacts with(3)	3
+Envelope surface glycoprotein gp120	6348	interacts with(3)	3
+Envelope surface glycoprotein gp120	6375	interacts with(3)	3
+Envelope surface glycoprotein gp120	7157	interacts with(3)	3
+Envelope surface glycoprotein gp120	8459	interacts with(2)/sulfated by(1)	3
+Envelope surface glycoprotein gp120	9368	interacts with(3)	3
+Envelope surface glycoprotein gp120	10332	binds(3)	3
+Envelope surface glycoprotein gp120	10663	binds(1)/interacts with(2)	3
+Envelope surface glycoprotein gp120	10954	interacts with(3)	3
+Envelope surface glycoprotein gp120	11253	interacts with(1)/processed by(2)	3
+Envelope surface glycoprotein gp120	50856	binds(3)	3
+Envelope surface glycoprotein gp120	57704	glycosylated by(1)/processed by(2)	3
+Envelope surface glycoprotein gp120	57733	glycosylated by(1)/processed by(2)	3
+Envelope surface glycoprotein gp120	116443	binds(1)/interacts with(2)	3
+Envelope surface glycoprotein gp120	116444	binds(1)/interacts with(2)	3
+Envelope surface glycoprotein gp120	729230	associates with(1)/binds(1)/interacts with(1)	3
+Envelope surface glycoprotein gp160, precursor	2530	interacts with(2)/processed by(1)	3
+Envelope surface glycoprotein gp160, precursor	2923	interacts with(2)/processed by(1)	3
+Envelope surface glycoprotein gp160, precursor	3683	interacts with(3)	3
+Envelope surface glycoprotein gp160, precursor	23193	interacts with(1)/processed by(2)	3
+Envelope surface glycoprotein gp160, precursor	64714	binds(1)/interacts with(1)/processed by(1)	3
+Envelope transmembrane glycoprotein gp41	712	binds(2)/interacts with(1)	3
+Envelope transmembrane glycoprotein gp41	713	binds(2)/interacts with(1)	3
+Envelope transmembrane glycoprotein gp41	714	binds(2)/interacts with(1)	3
+Envelope transmembrane glycoprotein gp41	7097	binds(2)/interacts with(1)	3
+Envelope transmembrane glycoprotein gp41	8907	interacts with(3)	3
+Envelope transmembrane glycoprotein gp41	10053	interacts with(3)	3
+integrase	1915	binds(2)/interacts with(1)	3
+integrase	2547	associates with(1)/binds(1)/interacts with(1)	3
+integrase	3836	binds(1)/complexes with(1)/interacts with(1)	3
+integrase	3839	binds(1)/complexes with(1)/interacts with(1)	3
+integrase	3841	binds(1)/complexes with(1)/interacts with(1)	3
+integrase	8487	binds(1)/interacts with(2)	3
+matrix	805	binds(3)	3
+matrix	808	binds(3)	3
+matrix	1915	binds(3)	3
+Nef	238	interacts with(3)	3
+Nef	801	binds(1)/interacts with(2)	3
+Nef	821	complexes with(1)/interacts with(2)	3
+Nef	941	binds(2)/interacts with(1)	3
+Nef	1173	complexes with(1)/interacts with(2)	3
+Nef	1175	binds(3)	3
+Nef	1211	complexes with(2)/interacts with(1)	3
+Nef	1212	complexes with(2)/interacts with(1)	3
+Nef	2534	binds(3)	3
+Nef	4217	binds(2)/interacts with(1)	3
+Nef	4836	interacts with(2)/myristoylated by(1)	3
+Nef	5290	complexes with(1)/interacts with(2)	3
+Nef	5291	complexes with(1)/interacts with(2)	3
+Nef	5294	complexes with(1)/interacts with(2)	3
+Nef	5296	associates with(1)/complexes with(1)/interacts with(1)	3
+Nef	5580	complexes with(3)	3
+Nef	5588	complexes with(2)/interacts with(1)	3
+Nef	7186	binds(1)/interacts with(2)	3
+Nef	7189	binds(1)/interacts with(2)	3
+Nef	7409	associates with(1)/binds(2)	3
+Nef	10015	binds(1)/interacts with(2)	3
+Nef	60412	binds(1)/interacts with(2)	3
+p6	7314	ubiquitinated by(3)	3
+p6	7316	ubiquitinated by(3)	3
+p6	23327	interacts with(3)	3
+Pr55(Gag)	58	interacts with(3)	3
+Pr55(Gag)	71	binds(1)/interacts with(2)	3
+Pr55(Gag)	967	interacts with(3)	3
+Pr55(Gag)	3458	binds(1)/interacts with(2)	3
+Pr55(Gag)	3708	associates with(1)/interacts with(2)	3
+Pr55(Gag)	3709	associates with(1)/interacts with(2)	3
+Pr55(Gag)	3710	associates with(1)/interacts with(2)	3
+Pr55(Gag)	4343	binds(1)/complexes with(1)/interacts with(1)	3
+Pr55(Gag)	4691	binds(1)/complexes with(1)/fractionates with(1)	3
+Pr55(Gag)	5584	binds(1)/interacts with(1)/phosphorylated by(1)	3
+Pr55(Gag)	5590	binds(1)/interacts with(1)/phosphorylated by(1)	3
+Pr55(Gag)	6404	associates with(3)	3
+Pr55(Gag)	6693	associates with(3)	3
+Pr55(Gag)	7329	interacts with(3)	3
+Rev	60	associates with(3)	3
+Rev	708	binds(3)	3
+Rev	1654	interacts with(3)	3
+Rev	3178	interacts with(3)	3
+Rev	3267	binds(3)	3
+Rev	3837	binds(2)/interacts with(1)	3
+reverse transcriptase	1994	interacts with(3)	3
+Tat	58	interacts with(3)	3
+Tat	142	binds(1)/interacts with(1)/modified by(1)	3
+Tat	596	interacts with(3)	3
+Tat	1269	interacts with(3)	3
+Tat	1653	binds(1)/interacts with(2)	3
+Tat	2068	binds(1)/interacts with(2)	3
+Tat	2071	binds(1)/interacts with(2)	3
+Tat	2547	interacts with(3)	3
+Tat	2648	acetylated by(1)/binds(2)	3
+Tat	2904	associates with(1)/interacts with(2)	3
+Tat	2932	interacts with(3)	3
+Tat	2965	binds(1)/interacts with(2)	3
+Tat	2966	binds(1)/interacts with(2)	3
+Tat	2967	binds(1)/interacts with(2)	3
+Tat	2968	binds(1)/interacts with(2)	3
+Tat	3693	binds(1)/interacts with(2)	3
+Tat	4299	complexes with(1)/interacts with(2)	3
+Tat	4331	binds(1)/interacts with(2)	3
+Tat	4791	binds(1)/interacts with(2)	3
+Tat	4869	binds(1)/complexes with(1)/interacts with(1)	3
+Tat	5286	interacts with(3)	3
+Tat	5287	interacts with(3)	3
+Tat	5288	interacts with(3)	3
+Tat	5289	interacts with(3)	3
+Tat	5295	interacts with(3)	3
+Tat	5296	interacts with(3)	3
+Tat	5430	complexes with(2)/interacts with(1)	3
+Tat	5496	binds(1)/complexes with(1)/interacts with(1)	3
+Tat	5499	binds(1)/interacts with(2)	3
+Tat	5500	interacts with(3)	3
+Tat	5591	binds(2)/phosphorylated by(1)	3
+Tat	6382	binds(2)/interacts with(1)	3
+Tat	6873	binds(1)/interacts with(2)	3
+Tat	6874	binds(1)/interacts with(2)	3
+Tat	6875	binds(1)/interacts with(2)	3
+Tat	6877	binds(1)/interacts with(2)	3
+Tat	6879	binds(1)/interacts with(2)	3
+Tat	6880	binds(1)/interacts with(2)	3
+Tat	6881	binds(1)/interacts with(2)	3
+Tat	6882	binds(1)/interacts with(2)	3
+Tat	6883	binds(1)/interacts with(2)	3
+Tat	6884	binds(1)/interacts with(2)	3
+Tat	7099	interacts with(3)	3
+Tat	7157	binds(2)/interacts with(1)	3
+Tat	9044	binds(1)/interacts with(2)	3
+Tat	10614	interacts with(3)	3
+Tat	23476	interacts with(3)	3
+Tat	55170	interacts with(1)/methylated by(2)	3
+Tat	83860	binds(1)/interacts with(2)	3
+Tat	129685	binds(1)/interacts with(2)	3
+Vif	4193	binds(2)/interacts with(1)	3
+Vif	10013	binds(1)/complexes with(1)/interacts with(1)	3
+Vif	11262	binds(2)/interacts with(1)	3
+Vif	81631	binds(2)/interacts with(1)	3
+Vif	84557	binds(2)/interacts with(1)	3
+Vif	140739	interacts with(3)	3
+Vif	164668	interacts with(3)	3
+Vif	440738	binds(2)/interacts with(1)	3
+Vpr	291	binds(3)	3
+Vpr	545	interacts with(3)	3
+Vpr	2033	binds(2)/interacts with(1)	3
+Vpr	2908	complexes with(1)/interacts with(2)	3
+Vpr	80198	complexes with(1)/interacts with(2)	3
+Vpr	84464	complexes with(1)/interacts with(2)	3
+Vpu	1460	phosphorylated by(3)	3
+Vpu	6449	binds(1)/interacts with(2)	3
+capsid	916	interacts with(2)	2
+capsid	917	interacts with(2)	2
+capsid	919	interacts with(2)	2
+capsid	3002	interacts with(2)	2
+capsid	3383	interacts with(2)	2
+capsid	3945	associates with(1)/interacts with(1)	2
+capsid	5479	binds(1)/interacts with(1)	2
+capsid	7097	binds(2)	2
+capsid	9638	binds(1)/interacts with(1)	2
+capsid	53840	binds(2)	2
+capsid	117854	binds(2)	2
+Envelope surface glycoprotein gp120	60	complexes with(1)/interacts with(1)	2
+Envelope surface glycoprotein gp120	187	binds(1)/interacts with(1)	2
+Envelope surface glycoprotein gp120	581	interacts with(2)	2
+Envelope surface glycoprotein gp120	712	binds(1)/interacts with(1)	2
+Envelope surface glycoprotein gp120	713	binds(1)/interacts with(1)	2
+Envelope surface glycoprotein gp120	714	binds(1)/interacts with(1)	2
+Envelope surface glycoprotein gp120	727	binds(2)	2
+Envelope surface glycoprotein gp120	821	associates with(1)/complexes with(1)	2
+Envelope surface glycoprotein gp120	834	interacts with(2)	2
+Envelope surface glycoprotein gp120	871	complexes with(1)/interacts with(1)	2
+Envelope surface glycoprotein gp120	915	interacts with(2)	2
+Envelope surface glycoprotein gp120	916	interacts with(2)	2
+Envelope surface glycoprotein gp120	917	interacts with(2)	2
+Envelope surface glycoprotein gp120	952	interacts with(2)	2
+Envelope surface glycoprotein gp120	1269	interacts with(2)	2
+Envelope surface glycoprotein gp120	1536	interacts with(2)	2
+Envelope surface glycoprotein gp120	1604	interacts with(2)	2
+Envelope surface glycoprotein gp120	1667	binds(2)	2
+Envelope surface glycoprotein gp120	2335	binds(2)	2
+Envelope surface glycoprotein gp120	2902	binds(1)/interacts with(1)	2
+Envelope surface glycoprotein gp120	2903	binds(1)/interacts with(1)	2
+Envelope surface glycoprotein gp120	2904	binds(1)/interacts with(1)	2
+Envelope surface glycoprotein gp120	2905	binds(1)/interacts with(1)	2
+Envelope surface glycoprotein gp120	2906	binds(1)/interacts with(1)	2
+Envelope surface glycoprotein gp120	2907	binds(1)/interacts with(1)	2
+Envelope surface glycoprotein gp120	2923	interacts with(2)	2
+Envelope surface glycoprotein gp120	3075	interacts with(2)	2
+Envelope surface glycoprotein gp120	3105	complexes with(1)/interacts with(1)	2
+Envelope surface glycoprotein gp120	3106	complexes with(1)/interacts with(1)	2
+Envelope surface glycoprotein gp120	3134	complexes with(1)/interacts with(1)	2
+Envelope surface glycoprotein gp120	3135	complexes with(1)/interacts with(1)	2
+Envelope surface glycoprotein gp120	3339	interacts with(2)	2
+Envelope surface glycoprotein gp120	3371	binds(2)	2
+Envelope surface glycoprotein gp120	3685	interacts with(2)	2
+Envelope surface glycoprotein gp120	3956	binds(1)/interacts with(1)	2
+Envelope surface glycoprotein gp120	4046	associates with(1)/interacts with(1)	2
+Envelope surface glycoprotein gp120	4121	processed by(2)	2
+Envelope surface glycoprotein gp120	4122	processed by(2)	2
+Envelope surface glycoprotein gp120	4123	processed by(2)	2
+Envelope surface glycoprotein gp120	4124	processed by(2)	2
+Envelope surface glycoprotein gp120	4125	processed by(2)	2
+Envelope surface glycoprotein gp120	4126	processed by(2)	2
+Envelope surface glycoprotein gp120	4247	processed by(2)	2
+Envelope surface glycoprotein gp120	4758	processed by(2)	2
+Envelope surface glycoprotein gp120	4759	processed by(2)	2
+Envelope surface glycoprotein gp120	5034	interacts with(2)	2
+Envelope surface glycoprotein gp120	5196	binds(2)	2
+Envelope surface glycoprotein gp120	5199	binds(2)	2
+Envelope surface glycoprotein gp120	5566	interacts with(2)	2
+Envelope surface glycoprotein gp120	5567	interacts with(2)	2
+Envelope surface glycoprotein gp120	5568	interacts with(2)	2
+Envelope surface glycoprotein gp120	5610	interacts with(2)	2
+Envelope surface glycoprotein gp120	5788	interacts with(2)	2
+Envelope surface glycoprotein gp120	6091	interacts with(2)	2
+Envelope surface glycoprotein gp120	6351	interacts with(2)	2
+Envelope surface glycoprotein gp120	6383	binds(2)	2
+Envelope surface glycoprotein gp120	6441	binds(2)	2
+Envelope surface glycoprotein gp120	6614	interacts with(2)	2
+Envelope surface glycoprotein gp120	7040	interacts with(2)	2
+Envelope surface glycoprotein gp120	7057	binds(2)	2
+Envelope surface glycoprotein gp120	7133	interacts with(2)	2
+Envelope surface glycoprotein gp120	7295	interacts with(1)/modified by(1)	2
+Envelope surface glycoprotein gp120	7368	binds(1)/interacts with(1)	2
+Envelope surface glycoprotein gp120	7454	associates with(1)/interacts with(1)	2
+Envelope surface glycoprotein gp120	9601	interacts with(2)	2
+Envelope surface glycoprotein gp120	10130	interacts with(2)	2
+Envelope surface glycoprotein gp120	10825	processed by(2)	2
+Envelope surface glycoprotein gp120	10905	processed by(2)	2
+Envelope surface glycoprotein gp120	23324	processed by(2)	2
+Envelope surface glycoprotein gp120	29927	complexes with(1)/interacts with(1)	2
+Envelope surface glycoprotein gp120	57134	processed by(2)	2
+Envelope surface glycoprotein gp120	64714	interacts with(2)	2
+Envelope surface glycoprotein gp120	170482	binds(1)/interacts with(1)	2
+Envelope surface glycoprotein gp120	653509	binds(1)/interacts with(1)	2
+Envelope surface glycoprotein gp160, precursor	801	binds(2)	2
+Envelope surface glycoprotein gp160, precursor	805	binds(2)	2
+Envelope surface glycoprotein gp160, precursor	808	binds(2)	2
+Envelope surface glycoprotein gp160, precursor	811	binds(1)/interacts with(1)	2
+Envelope surface glycoprotein gp160, precursor	1047	interacts with(2)	2
+Envelope surface glycoprotein gp160, precursor	2548	processed by(2)	2
+Envelope surface glycoprotein gp160, precursor	2595	processed by(2)	2
+Envelope surface glycoprotein gp160, precursor	3105	binds(1)/interacts with(1)	2
+Envelope surface glycoprotein gp160, precursor	3122	associates with(1)/interacts with(1)	2
+Envelope surface glycoprotein gp160, precursor	3123	associates with(1)/interacts with(1)	2
+Envelope surface glycoprotein gp160, precursor	3125	associates with(1)/interacts with(1)	2
+Envelope surface glycoprotein gp160, precursor	3126	associates with(1)/interacts with(1)	2
+Envelope surface glycoprotein gp160, precursor	3127	associates with(1)/interacts with(1)	2
+Envelope surface glycoprotein gp160, precursor	3133	interacts with(2)	2
+Envelope surface glycoprotein gp160, precursor	3309	interacts with(2)	2
+Envelope surface glycoprotein gp160, precursor	3371	binds(2)	2
+Envelope surface glycoprotein gp160, precursor	3383	interacts with(2)	2
+Envelope surface glycoprotein gp160, precursor	3689	interacts with(2)	2
+Envelope surface glycoprotein gp160, precursor	3998	interacts with(2)	2
+Envelope surface glycoprotein gp160, precursor	5034	interacts with(1)/processed by(1)	2
+Envelope surface glycoprotein gp160, precursor	5245	binds(1)/interacts with(1)	2
+Envelope surface glycoprotein gp160, precursor	5371	interacts with(2)	2
+Envelope surface glycoprotein gp160, precursor	6400	interacts with(2)	2
+Envelope surface glycoprotein gp160, precursor	7841	processed by(2)	2
+Envelope surface glycoprotein gp160, precursor	8907	interacts with(2)	2
+Envelope surface glycoprotein gp160, precursor	9601	interacts with(1)/processed by(1)	2
+Envelope surface glycoprotein gp160, precursor	10130	interacts with(1)/processed by(1)	2
+Envelope surface glycoprotein gp160, precursor	10211	interacts with(2)	2
+Envelope surface glycoprotein gp160, precursor	10956	interacts with(2)	2
+Envelope surface glycoprotein gp160, precursor	10960	interacts with(2)	2
+Envelope surface glycoprotein gp160, precursor	23753	interacts with(2)	2
+Envelope surface glycoprotein gp160, precursor	50856	binds(2)	2
+Envelope surface glycoprotein gp160, precursor	51290	interacts with(2)	2
+Envelope surface glycoprotein gp160, precursor	51614	interacts with(2)	2
+Envelope surface glycoprotein gp160, precursor	51726	interacts with(2)	2
+Envelope surface glycoprotein gp160, precursor	81502	interacts with(2)	2
+Envelope transmembrane glycoprotein gp41	160	interacts with(2)	2
+Envelope transmembrane glycoprotein gp41	161	interacts with(2)	2
+Envelope transmembrane glycoprotein gp41	162	interacts with(2)	2
+Envelope transmembrane glycoprotein gp41	163	interacts with(2)	2
+Envelope transmembrane glycoprotein gp41	164	interacts with(2)	2
+Envelope transmembrane glycoprotein gp41	836	interacts with(2)	2
+Envelope transmembrane glycoprotein gp41	857	binds(2)	2
+Envelope transmembrane glycoprotein gp41	972	binds(1)/interacts with(1)	2
+Envelope transmembrane glycoprotein gp41	1173	interacts with(2)	2
+Envelope transmembrane glycoprotein gp41	1174	interacts with(2)	2
+Envelope transmembrane glycoprotein gp41	1175	interacts with(2)	2
+Envelope transmembrane glycoprotein gp41	2358	interacts with(2)	2
+Envelope transmembrane glycoprotein gp41	3075	interacts with(2)	2
+Envelope transmembrane glycoprotein gp41	3998	binds(1)/interacts with(1)	2
+Envelope transmembrane glycoprotein gp41	8905	interacts with(2)	2
+Envelope transmembrane glycoprotein gp41	8906	interacts with(2)	2
+Envelope transmembrane glycoprotein gp41	9559	binds(1)/interacts with(1)	2
+Envelope transmembrane glycoprotein gp41	10226	binds(2)	2
+Envelope transmembrane glycoprotein gp41	10488	interacts with(2)	2
+Envelope transmembrane glycoprotein gp41	79694	processed by(2)	2
+Envelope transmembrane glycoprotein gp41	130340	interacts with(2)	2
+Gag-Pol	2597	complexes with(1)/interacts with(1)	2
+Gag-Pol	60489	interacts with(2)	2
+integrase	472	interacts with(2)	2
+integrase	1616	interacts with(2)	2
+integrase	2033	acetylated by(2)	2
+integrase	2648	acetylated by(1)/binds(1)	2
+integrase	3065	complexes with(2)	2
+integrase	3576	interacts with(2)	2
+integrase	3837	binds(1)/interacts with(1)	2
+integrase	5300	binds(2)	2
+integrase	5591	interacts with(2)	2
+integrase	6613	interacts with(1)/sumoylated by(1)	2
+integrase	7341	interacts with(1)/sumoylated by(1)	2
+integrase	7520	associates with(1)/interacts with(1)	2
+integrase	8726	binds(1)/interacts with(1)	2
+integrase	8815	interacts with(2)	2
+integrase	10284	binds(2)	2
+integrase	55536	binds(2)	2
+integrase	84717	interacts with(2)	2
+matrix	58	interacts with(2)	2
+matrix	4836	myristoylated by(2)	2
+matrix	5478	binds(2)	2
+matrix	7097	binds(2)	2
+matrix	8726	binds(2)	2
+matrix	8815	binds(2)	2
+matrix	8943	interacts with(2)	2
+matrix	10226	binds(2)	2
+matrix	23438	binds(1)/interacts with(1)	2
+matrix	24137	binds(1)/interacts with(1)	2
+matrix	29789	interacts with(2)	2
+Nef	19	interacts with(2)	2
+Nef	161	binds(2)	2
+Nef	162	binds(1)/interacts with(1)	2
+Nef	163	binds(1)/interacts with(1)	2
+Nef	207	interacts with(2)	2
+Nef	208	interacts with(2)	2
+Nef	375	binds(1)/complexes with(1)	2
+Nef	684	binds(1)/interacts with(1)	2
+Nef	805	interacts with(2)	2
+Nef	808	interacts with(2)	2
+Nef	916	interacts with(2)	2
+Nef	917	interacts with(2)	2
+Nef	919	interacts with(2)	2
+Nef	942	binds(2)	2
+Nef	1025	interacts with(2)	2
+Nef	1174	binds(1)/interacts with(1)	2
+Nef	1315	binds(1)/interacts with(1)	2
+Nef	1499	binds(1)/interacts with(1)	2
+Nef	1785	binds(1)/complexes with(1)	2
+Nef	1936	complexes with(1)/interacts with(1)	2
+Nef	1937	complexes with(1)/interacts with(1)	2
+Nef	3123	binds(1)/interacts with(1)	2
+Nef	3133	binds(1)/interacts with(1)	2
+Nef	3134	binds(1)/interacts with(1)	2
+Nef	3135	binds(1)/interacts with(1)	2
+Nef	3303	complexes with(1)/interacts with(1)	2
+Nef	3304	complexes with(1)/interacts with(1)	2
+Nef	3309	complexes with(1)/interacts with(1)	2
+Nef	3312	complexes with(1)/interacts with(1)	2
+Nef	3329	complexes with(1)/interacts with(1)	2
+Nef	3337	interacts with(2)	2
+Nef	3458	interacts with(2)	2
+Nef	3592	interacts with(2)	2
+Nef	3593	interacts with(2)	2
+Nef	3702	interacts with(2)	2
+Nef	4790	binds(1)/interacts with(1)	2
+Nef	5286	complexes with(1)/interacts with(1)	2
+Nef	5287	complexes with(1)/interacts with(1)	2
+Nef	5288	complexes with(1)/interacts with(1)	2
+Nef	5289	complexes with(1)/interacts with(1)	2
+Nef	5293	complexes with(1)/interacts with(1)	2
+Nef	5578	phosphorylated by(2)	2
+Nef	5879	interacts with(2)	2
+Nef	6351	interacts with(2)	2
+Nef	6598	binds(1)/interacts with(1)	2
+Nef	6774	interacts with(2)	2
+Nef	6868	interacts with(2)	2
+Nef	7157	binds(1)/interacts with(1)	2
+Nef	7188	interacts with(2)	2
+Nef	7251	associates with(1)/interacts with(1)	2
+Nef	7410	binds(2)	2
+Nef	8678	interacts with(2)	2
+Nef	8812	interacts with(2)	2
+Nef	8905	binds(1)/interacts with(1)	2
+Nef	8906	binds(1)/interacts with(1)	2
+Nef	8943	binds(1)/complexes with(1)	2
+Nef	10000	interacts with(2)	2
+Nef	10399	binds(1)/complexes with(1)	2
+Nef	10527	complexes with(1)/interacts with(1)	2
+Nef	11336	binds(1)/interacts with(1)	2
+Nef	23241	binds(2)	2
+Nef	55763	binds(1)/interacts with(1)	2
+Nef	130340	binds(1)/interacts with(1)	2
+Nef	345611	interacts with(2)	2
+nucleocapsid	58	binds(2)	2
+nucleocapsid	59	binds(2)	2
+nucleocapsid	60	binds(2)	2
+nucleocapsid	70	binds(2)	2
+nucleocapsid	71	binds(2)	2
+nucleocapsid	72	binds(2)	2
+nucleocapsid	2332	associates with(1)/interacts with(1)	2
+nucleocapsid	6780	interacts with(2)	2
+nucleocapsid	10015	binds(2)	2
+nucleocapsid	79720	binds(1)/complexes with(1)	2
+nucleocapsid	200316	interacts with(2)	2
+p6	10537	ubiquitinated by(2)	2
+p6	79720	binds(1)/complexes with(1)	2
+p6	89853	binds(1)/complexes with(1)	2
+Pol	3735	binds(1)/interacts with(1)	2
+Pr55(Gag)	59	interacts with(2)	2
+Pr55(Gag)	70	interacts with(2)	2
+Pr55(Gag)	72	interacts with(2)	2
+Pr55(Gag)	103	associates with(1)/complexes with(1)	2
+Pr55(Gag)	476	complexes with(1)/fractionates with(1)	2
+Pr55(Gag)	915	interacts with(2)	2
+Pr55(Gag)	916	interacts with(2)	2
+Pr55(Gag)	917	interacts with(2)	2
+Pr55(Gag)	919	interacts with(2)	2
+Pr55(Gag)	920	interacts with(2)	2
+Pr55(Gag)	960	associates with(2)	2
+Pr55(Gag)	1173	binds(1)/complexes with(1)	2
+Pr55(Gag)	1267	binds(1)/interacts with(1)	2
+Pr55(Gag)	1655	complexes with(1)/interacts with(1)	2
+Pr55(Gag)	1660	complexes with(1)/interacts with(1)	2
+Pr55(Gag)	1739	interacts with(2)	2
+Pr55(Gag)	2316	binds(1)/complexes with(1)	2
+Pr55(Gag)	2597	complexes with(1)/interacts with(1)	2
+Pr55(Gag)	3010	associates with(1)/interacts with(1)	2
+Pr55(Gag)	3916	interacts with(2)	2
+Pr55(Gag)	4864	interacts with(2)	2
+Pr55(Gag)	5133	interacts with(2)	2
+Pr55(Gag)	5335	interacts with(2)	2
+Pr55(Gag)	5336	interacts with(2)	2
+Pr55(Gag)	6159	complexes with(1)/interacts with(1)	2
+Pr55(Gag)	6187	complexes with(1)/interacts with(1)	2
+Pr55(Gag)	6188	complexes with(1)/interacts with(1)	2
+Pr55(Gag)	6194	complexes with(1)/interacts with(1)	2
+Pr55(Gag)	7277	complexes with(1)/interacts with(1)	2
+Pr55(Gag)	7846	complexes with(1)/interacts with(1)	2
+Pr55(Gag)	8907	interacts with(2)	2
+Pr55(Gag)	8943	complexes with(1)/interacts with(1)	2
+Pr55(Gag)	9092	complexes with(1)/interacts with(1)	2
+Pr55(Gag)	9525	associates with(1)/interacts with(1)	2
+Pr55(Gag)	10146	binds(1)/interacts with(1)	2
+Pr55(Gag)	10226	binds(2)	2
+Pr55(Gag)	10521	complexes with(1)/interacts with(1)	2
+Pr55(Gag)	10642	complexes with(1)/interacts with(1)	2
+Pr55(Gag)	11113	binds(1)/is polyubiquitinylated by(1)	2
+Pr55(Gag)	23041	interacts with(2)	2
+Pr55(Gag)	23327	associates with(1)/binds(1)	2
+Pr55(Gag)	24137	binds(1)/interacts with(1)	2
+Pr55(Gag)	27067	interacts with(2)	2
+Pr55(Gag)	27161	associates with(1)/interacts with(1)	2
+Pr55(Gag)	27183	associates with(1)/recruited by(1)	2
+Pr55(Gag)	27243	interacts with(2)	2
+Pr55(Gag)	54843	interacts with(2)	2
+Pr55(Gag)	55226	interacts with(2)	2
+Pr55(Gag)	57617	interacts with(2)	2
+Pr55(Gag)	81631	fractionates with(1)/interacts with(1)	2
+Pr55(Gag)	200316	interacts with(2)	2
+Rev	1655	interacts with(2)	2
+Rev	1660	interacts with(2)	2
+Rev	2068	interacts with(2)	2
+Rev	2071	interacts with(2)	2
+Rev	3190	interacts with(2)	2
+Rev	3192	interacts with(2)	2
+Rev	3268	binds(2)	2
+Rev	3609	interacts with(2)	2
+Rev	3842	binds(1)/interacts with(1)	2
+Rev	4673	interacts with(2)	2
+Rev	4841	associates with(1)/interacts with(1)	2
+Rev	4928	interacts with(2)	2
+Rev	6741	interacts with(2)	2
+Rev	6895	binds(1)/interacts with(1)	2
+Rev	8021	interacts with(2)	2
+Rev	8125	interacts with(2)	2
+Rev	9782	interacts with(2)	2
+Rev	10236	binds(1)/interacts with(1)	2
+Rev	10492	binds(1)/interacts with(1)	2
+Rev	10521	interacts with(2)	2
+Rev	10541	interacts with(2)	2
+Rev	11097	interacts with(2)	2
+Rev	11168	complexes with(1)/interacts with(1)	2
+Rev	26986	interacts with(2)	2
+Rev	55170	methylated by(2)	2
+Rev	57062	interacts with(2)	2
+reverse transcriptase	2185	interacts with(2)	2
+reverse transcriptase	8655	interacts with(2)	2
+reverse transcriptase p51 subunit	1915	interacts with(2)	2
+Tat	207	interacts with(2)	2
+Tat	208	interacts with(2)	2
+Tat	708	binds(2)	2
+Tat	836	interacts with(2)	2
+Tat	891	binds(1)/complexes with(1)	2
+Tat	1654	binds(1)/interacts with(1)	2
+Tat	1915	interacts with(2)	2
+Tat	2113	associates with(1)/interacts with(1)	2
+Tat	2353	interacts with(2)	2
+Tat	2902	associates with(1)/interacts with(1)	2
+Tat	2903	associates with(1)/interacts with(1)	2
+Tat	2905	associates with(1)/interacts with(1)	2
+Tat	2906	associates with(1)/interacts with(1)	2
+Tat	2963	interacts with(2)	2
+Tat	3020	binds(1)/phosphorylates(1)	2
+Tat	3189	interacts with(2)	2
+Tat	3665	interacts with(2)	2
+Tat	3725	binds(1)/interacts with(1)	2
+Tat	3791	interacts with(2)	2
+Tat	3837	binds(2)	2
+Tat	3838	binds(1)/interacts with(1)	2
+Tat	4035	binds(2)	2
+Tat	4188	binds(2)	2
+Tat	4298	complexes with(1)/interacts with(1)	2
+Tat	4627	interacts with(2)	2
+Tat	4773	binds(1)/interacts with(1)	2
+Tat	4792	binds(1)/interacts with(1)	2
+Tat	5048	interacts with(2)	2
+Tat	5347	complexes with(1)/interacts with(1)	2
+Tat	5431	complexes with(2)	2
+Tat	5432	complexes with(2)	2
+Tat	5433	complexes with(2)	2
+Tat	5434	complexes with(2)	2
+Tat	5435	complexes with(2)	2
+Tat	5436	complexes with(2)	2
+Tat	5437	complexes with(2)	2
+Tat	5438	complexes with(2)	2
+Tat	5439	complexes with(2)	2
+Tat	5440	complexes with(2)	2
+Tat	5441	complexes with(2)	2
+Tat	5501	binds(1)/interacts with(1)	2
+Tat	5588	phosphorylated by(2)	2
+Tat	5594	interacts with(1)/phosphorylated by(1)	2
+Tat	5595	interacts with(1)/phosphorylated by(1)	2
+Tat	5608	interacts with(2)	2
+Tat	5683	binds(1)/interacts with(1)	2
+Tat	5685	binds(1)/interacts with(1)	2
+Tat	5687	binds(1)/interacts with(1)	2
+Tat	5688	binds(1)/interacts with(1)	2
+Tat	5689	binds(1)/interacts with(1)	2
+Tat	5690	binds(1)/interacts with(1)	2
+Tat	5691	binds(1)/interacts with(1)	2
+Tat	5693	binds(1)/interacts with(1)	2
+Tat	5694	binds(1)/interacts with(1)	2
+Tat	5695	binds(1)/interacts with(1)	2
+Tat	5696	binds(1)/interacts with(1)	2
+Tat	5699	binds(1)/interacts with(1)	2
+Tat	5704	interacts with(2)	2
+Tat	5705	interacts with(2)	2
+Tat	5725	interacts with(2)	2
+Tat	5813	binds(2)	2
+Tat	5971	binds(1)/interacts with(1)	2
+Tat	6197	interacts with(2)	2
+Tat	6383	binds(2)	2
+Tat	6385	binds(2)	2
+Tat	6387	interacts with(2)	2
+Tat	6531	binds(2)	2
+Tat	6595	interacts with(2)	2
+Tat	6597	binds(1)/interacts with(1)	2
+Tat	6598	binds(1)/interacts with(1)	2
+Tat	6923	interacts with(2)	2
+Tat	7514	interacts with(2)	2
+Tat	8178	complexes with(1)/interacts with(1)	2
+Tat	8289	binds(1)/interacts with(1)	2
+Tat	8295	associates with(1)/interacts with(1)	2
+Tat	8337	binds(1)/interacts with(1)	2
+Tat	8338	binds(1)/interacts with(1)	2
+Tat	8349	binds(1)/interacts with(1)	2
+Tat	9672	binds(2)	2
+Tat	10000	interacts with(2)	2
+Tat	10524	binds(1)/complexes with(1)	2
+Tat	10915	associates with(2)	2
+Tat	22938	associates with(2)	2
+Tat	23411	binds(1)/interacts with(1)	2
+Tat	29969	binds(2)	2
+Tat	55193	interacts with(2)	2
+Tat	80854	binds(1)/methylated by(1)	2
+Tat	729230	binds(1)/interacts with(1)	2
+Vif	861	interacts with(2)	2
+Vif	4217	binds(2)	2
+Vif	4738	complexes with(2)	2
+Vif	7917	interacts with(2)	2
+Vif	10197	interacts with(2)	2
+Vif	140564	interacts with(2)	2
+Vpr	891	interacts with(2)	2
+Vpr	983	interacts with(2)	2
+Vpr	1778	interacts with(2)	2
+Vpr	3303	binds(1)/interacts with(1)	2
+Vpr	5478	interacts with(1)/isomerized by(1)	2
+Vpr	5566	interacts with(1)/phosphorylated by(1)	2
+Vpr	5931	complexes with(1)/interacts with(1)	2
+Vpr	5971	interacts with(2)	2
+Vpr	6667	interacts with(2)	2
+Vpr	7157	interacts with(2)	2
+Vpr	7189	interacts with(2)	2
+Vpr	7416	interacts with(2)	2
+Vpr	7465	binds(1)/interacts with(1)	2
+Vpr	7533	binds(1)/complexes with(1)	2
+Vpr	8450	complexes with(1)/interacts with(1)	2
+Vpr	8519	interacts with(2)	2
+Vpr	8520	complexes with(1)/interacts with(1)	2
+Vpr	10971	binds(1)/interacts with(1)	2
+Vpr	10992	binds(1)/interacts with(1)	2
+Vpr	11097	binds(1)/interacts with(1)	2
+Vpr	51366	complexes with(1)/interacts with(1)	2
+Vpr	146956	complexes with(1)/interacts with(1)	2
+Vpu	164	interacts with(2)	2
+Vpu	1173	interacts with(2)	2
+Vpu	1174	binds(1)/interacts with(1)	2
+Vpu	1457	phosphorylated by(2)	2
+Vpu	1459	phosphorylated by(2)	2
+Vpu	3661	complexes with(1)/interacts with(1)	2
+Vpu	3777	interacts with(2)	2
+Vpu	8907	binds(1)/interacts with(1)	2
+Vpu	9146	interacts with(2)	2
+Vpu	23291	interacts with(2)	2
+Vpu	81539	binds(1)/ubiquitinates(1)	2
+Vpu	114836	binds(1)/interacts with(1)	2
+Asp	3105	binds(1)	1
+Asp	3106	binds(1)	1
+Asp	4790	interacts with(1)	1
+Asp	7391	interacts with(1)	1
+Asp	81631	interacts with(1)	1
+capsid	308	associates with(1)	1
+capsid	509	interacts with(1)	1
+capsid	547	interacts with(1)	1
+capsid	915	interacts with(1)	1
+capsid	952	associates with(1)	1
+capsid	1155	interacts with(1)	1
+capsid	1234	interacts with(1)	1
+capsid	1350	interacts with(1)	1
+capsid	1471	interacts with(1)	1
+capsid	2332	associates with(1)	1
+capsid	2817	interacts with(1)	1
+capsid	3064	interacts with(1)	1
+capsid	3105	interacts with(1)	1
+capsid	3106	interacts with(1)	1
+capsid	3439	interacts with(1)	1
+capsid	3576	binds(1)	1
+capsid	3661	interacts with(1)	1
+capsid	3843	interacts with(1)	1
+capsid	4065	interacts with(1)	1
+capsid	4130	interacts with(1)	1
+capsid	4502	interacts with(1)	1
+capsid	4513	interacts with(1)	1
+capsid	4536	interacts with(1)	1
+capsid	4739	interacts with(1)	1
+capsid	4790	interacts with(1)	1
+capsid	4928	binds(1)	1
+capsid	5093	interacts with(1)	1
+capsid	5300	interacts with(1)	1
+capsid	5329	interacts with(1)	1
+capsid	5446	interacts with(1)	1
+capsid	5525	interacts with(1)	1
+capsid	5566	phosphorylated by(1)	1
+capsid	5567	phosphorylated by(1)	1
+capsid	5568	phosphorylated by(1)	1
+capsid	5594	phosphorylated by(1)	1
+capsid	5610	interacts with(1)	1
+capsid	5930	interacts with(1)	1
+capsid	6018	interacts with(1)	1
+capsid	6614	interacts with(1)	1
+capsid	6711	associates with(1)	1
+capsid	6717	interacts with(1)	1
+capsid	6737	binds(1)	1
+capsid	7040	interacts with(1)	1
+capsid	7092	interacts with(1)	1
+capsid	7132	interacts with(1)	1
+capsid	7314	ubiquitinated by(1)	1
+capsid	7316	ubiquitinated by(1)	1
+capsid	7453	interacts with(1)	1
+capsid	7536	interacts with(1)	1
+capsid	7574	interacts with(1)	1
+capsid	8519	interacts with(1)	1
+capsid	8540	interacts with(1)	1
+capsid	8655	interacts with(1)	1
+capsid	9120	interacts with(1)	1
+capsid	9187	interacts with(1)	1
+capsid	9631	interacts with(1)	1
+capsid	10105	interacts with(1)	1
+capsid	10450	interacts with(1)	1
+capsid	10537	ubiquitinated by(1)	1
+capsid	10749	interacts with(1)	1
+capsid	10942	interacts with(1)	1
+capsid	10987	interacts with(1)	1
+capsid	23095	interacts with(1)	1
+capsid	25927	interacts with(1)	1
+capsid	25939	associates with(1)	1
+capsid	27075	interacts with(1)	1
+capsid	51667	interacts with(1)	1
+capsid	51703	interacts with(1)	1
+capsid	53354	interacts with(1)	1
+capsid	55201	interacts with(1)	1
+capsid	57480	interacts with(1)	1
+capsid	79814	interacts with(1)	1
+capsid	84449	interacts with(1)	1
+capsid	118987	binds(1)	1
+capsid	126129	interacts with(1)	1
+capsid	147179	interacts with(1)	1
+capsid	148741	interacts with(1)	1
+capsid	200316	interacts with(1)	1
+Envelope surface glycoprotein gp120	47	complexes with(1)	1
+Envelope surface glycoprotein gp120	58	interacts with(1)	1
+Envelope surface glycoprotein gp120	59	interacts with(1)	1
+Envelope surface glycoprotein gp120	70	interacts with(1)	1
+Envelope surface glycoprotein gp120	71	interacts with(1)	1
+Envelope surface glycoprotein gp120	72	interacts with(1)	1
+Envelope surface glycoprotein gp120	103	complexes with(1)	1
+Envelope surface glycoprotein gp120	174	interacts with(1)	1
+Envelope surface glycoprotein gp120	292	complexes with(1)	1
+Envelope surface glycoprotein gp120	302	interacts with(1)	1
+Envelope surface glycoprotein gp120	348	interacts with(1)	1
+Envelope surface glycoprotein gp120	378	complexes with(1)	1
+Envelope surface glycoprotein gp120	381	complexes with(1)	1
+Envelope surface glycoprotein gp120	382	complexes with(1)	1
+Envelope surface glycoprotein gp120	387	interacts with(1)	1
+Envelope surface glycoprotein gp120	400	complexes with(1)	1
+Envelope surface glycoprotein gp120	462	binds(1)	1
+Envelope surface glycoprotein gp120	476	complexes with(1)	1
+Envelope surface glycoprotein gp120	498	complexes with(1)	1
+Envelope surface glycoprotein gp120	509	complexes with(1)	1
+Envelope surface glycoprotein gp120	539	complexes with(1)	1
+Envelope surface glycoprotein gp120	598	interacts with(1)	1
+Envelope surface glycoprotein gp120	627	interacts with(1)	1
+Envelope surface glycoprotein gp120	735	binds(1)	1
+Envelope surface glycoprotein gp120	790	complexes with(1)	1
+Envelope surface glycoprotein gp120	811	interacts with(1)	1
+Envelope surface glycoprotein gp120	813	interacts with(1)	1
+Envelope surface glycoprotein gp120	914	interacts with(1)	1
+Envelope surface glycoprotein gp120	939	interacts with(1)	1
+Envelope surface glycoprotein gp120	940	interacts with(1)	1
+Envelope surface glycoprotein gp120	965	interacts with(1)	1
+Envelope surface glycoprotein gp120	988	complexes with(1)	1
+Envelope surface glycoprotein gp120	1047	interacts with(1)	1
+Envelope surface glycoprotein gp120	1072	interacts with(1)	1
+Envelope surface glycoprotein gp120	1073	interacts with(1)	1
+Envelope surface glycoprotein gp120	1134	binds(1)	1
+Envelope surface glycoprotein gp120	1140	binds(1)	1
+Envelope surface glycoprotein gp120	1141	binds(1)	1
+Envelope surface glycoprotein gp120	1173	complexes with(1)	1
+Envelope surface glycoprotein gp120	1176	complexes with(1)	1
+Envelope surface glycoprotein gp120	1179	interacts with(1)	1
+Envelope surface glycoprotein gp120	1213	complexes with(1)	1
+Envelope surface glycoprotein gp120	1230	associates with(1)	1
+Envelope surface glycoprotein gp120	1233	binds(1)	1
+Envelope surface glycoprotein gp120	1238	binds(1)	1
+Envelope surface glycoprotein gp120	1240	interacts with(1)	1
+Envelope surface glycoprotein gp120	1268	interacts with(1)	1
+Envelope surface glycoprotein gp120	1314	complexes with(1)	1
+Envelope surface glycoprotein gp120	1366	interacts with(1)	1
+Envelope surface glycoprotein gp120	1380	binds(1)	1
+Envelope surface glycoprotein gp120	1509	modified by(1)	1
+Envelope surface glycoprotein gp120	1510	processed by(1)	1
+Envelope surface glycoprotein gp120	1524	associates with(1)	1
+Envelope surface glycoprotein gp120	1571	interacts with(1)	1
+Envelope surface glycoprotein gp120	1615	complexes with(1)	1
+Envelope surface glycoprotein gp120	1650	complexes with(1)	1
+Envelope surface glycoprotein gp120	1653	complexes with(1)	1
+Envelope surface glycoprotein gp120	1654	complexes with(1)	1
+Envelope surface glycoprotein gp120	1655	complexes with(1)	1
+Envelope surface glycoprotein gp120	1656	interacts with(1)	1
+Envelope surface glycoprotein gp120	1660	complexes with(1)	1
+Envelope surface glycoprotein gp120	1665	complexes with(1)	1
+Envelope surface glycoprotein gp120	1668	binds(1)	1
+Envelope surface glycoprotein gp120	1669	binds(1)	1
+Envelope surface glycoprotein gp120	1673	binds(1)	1
+Envelope surface glycoprotein gp120	1717	complexes with(1)	1
+Envelope surface glycoprotein gp120	1785	complexes with(1)	1
+Envelope surface glycoprotein gp120	1861	interacts with(1)	1
+Envelope surface glycoprotein gp120	1915	complexes with(1)	1
+Envelope surface glycoprotein gp120	1936	complexes with(1)	1
+Envelope surface glycoprotein gp120	1937	complexes with(1)	1
+Envelope surface glycoprotein gp120	1973	complexes with(1)	1
+Envelope surface glycoprotein gp120	1994	complexes with(1)	1
+Envelope surface glycoprotein gp120	2023	complexes with(1)	1
+Envelope surface glycoprotein gp120	2058	complexes with(1)	1
+Envelope surface glycoprotein gp120	2099	interacts with(1)	1
+Envelope surface glycoprotein gp120	2100	interacts with(1)	1
+Envelope surface glycoprotein gp120	2109	complexes with(1)	1
+Envelope surface glycoprotein gp120	2181	complexes with(1)	1
+Envelope surface glycoprotein gp120	2194	complexes with(1)	1
+Envelope surface glycoprotein gp120	2202	interacts with(1)	1
+Envelope surface glycoprotein gp120	2209	binds(1)	1
+Envelope surface glycoprotein gp120	2210	binds(1)	1
+Envelope surface glycoprotein gp120	2212	binds(1)	1
+Envelope surface glycoprotein gp120	2213	binds(1)	1
+Envelope surface glycoprotein gp120	2214	binds(1)	1
+Envelope surface glycoprotein gp120	2215	binds(1)	1
+Envelope surface glycoprotein gp120	2220	interacts with(1)	1
+Envelope surface glycoprotein gp120	2247	interacts with(1)	1
+Envelope surface glycoprotein gp120	2280	binds(1)	1
+Envelope surface glycoprotein gp120	2317	binds(1)	1
+Envelope surface glycoprotein gp120	2318	binds(1)	1
+Envelope surface glycoprotein gp120	2353	interacts with(1)	1
+Envelope surface glycoprotein gp120	2358	interacts with(1)	1
+Envelope surface glycoprotein gp120	2597	complexes with(1)	1
+Envelope surface glycoprotein gp120	2670	interacts with(1)	1
+Envelope surface glycoprotein gp120	2825	interacts with(1)	1
+Envelope surface glycoprotein gp120	2838	interacts with(1)	1
+Envelope surface glycoprotein gp120	2932	interacts with(1)	1
+Envelope surface glycoprotein gp120	3091	interacts with(1)	1
+Envelope surface glycoprotein gp120	3108	interacts with(1)	1
+Envelope surface glycoprotein gp120	3109	interacts with(1)	1
+Envelope surface glycoprotein gp120	3111	interacts with(1)	1
+Envelope surface glycoprotein gp120	3112	interacts with(1)	1
+Envelope surface glycoprotein gp120	3113	interacts with(1)	1
+Envelope surface glycoprotein gp120	3115	interacts with(1)	1
+Envelope surface glycoprotein gp120	3117	interacts with(1)	1
+Envelope surface glycoprotein gp120	3118	interacts with(1)	1
+Envelope surface glycoprotein gp120	3119	interacts with(1)	1
+Envelope surface glycoprotein gp120	3120	interacts with(1)	1
+Envelope surface glycoprotein gp120	3178	complexes with(1)	1
+Envelope surface glycoprotein gp120	3181	complexes with(1)	1
+Envelope surface glycoprotein gp120	3182	complexes with(1)	1
+Envelope surface glycoprotein gp120	3183	complexes with(1)	1
+Envelope surface glycoprotein gp120	3184	complexes with(1)	1
+Envelope surface glycoprotein gp120	3185	complexes with(1)	1
+Envelope surface glycoprotein gp120	3187	complexes with(1)	1
+Envelope surface glycoprotein gp120	3188	complexes with(1)	1
+Envelope surface glycoprotein gp120	3189	complexes with(1)	1
+Envelope surface glycoprotein gp120	3190	complexes with(1)	1
+Envelope surface glycoprotein gp120	3192	complexes with(1)	1
+Envelope surface glycoprotein gp120	3295	complexes with(1)	1
+Envelope surface glycoprotein gp120	3303	complexes with(1)	1
+Envelope surface glycoprotein gp120	3304	complexes with(1)	1
+Envelope surface glycoprotein gp120	3305	complexes with(1)	1
+Envelope surface glycoprotein gp120	3309	complexes with(1)	1
+Envelope surface glycoprotein gp120	3310	interacts with(1)	1
+Envelope surface glycoprotein gp120	3312	complexes with(1)	1
+Envelope surface glycoprotein gp120	3313	complexes with(1)	1
+Envelope surface glycoprotein gp120	3329	complexes with(1)	1
+Envelope surface glycoprotein gp120	3376	complexes with(1)	1
+Envelope surface glycoprotein gp120	3385	interacts with(1)	1
+Envelope surface glycoprotein gp120	3419	complexes with(1)	1
+Envelope surface glycoprotein gp120	3439	interacts with(1)	1
+Envelope surface glycoprotein gp120	3440	interacts with(1)	1
+Envelope surface glycoprotein gp120	3441	interacts with(1)	1
+Envelope surface glycoprotein gp120	3442	interacts with(1)	1
+Envelope surface glycoprotein gp120	3443	interacts with(1)	1
+Envelope surface glycoprotein gp120	3444	interacts with(1)	1
+Envelope surface glycoprotein gp120	3445	interacts with(1)	1
+Envelope surface glycoprotein gp120	3446	interacts with(1)	1
+Envelope surface glycoprotein gp120	3447	interacts with(1)	1
+Envelope surface glycoprotein gp120	3448	interacts with(1)	1
+Envelope surface glycoprotein gp120	3449	interacts with(1)	1
+Envelope surface glycoprotein gp120	3451	interacts with(1)	1
+Envelope surface glycoprotein gp120	3452	interacts with(1)	1
+Envelope surface glycoprotein gp120	3552	interacts with(1)	1
+Envelope surface glycoprotein gp120	3558	interacts with(1)	1
+Envelope surface glycoprotein gp120	3565	interacts with(1)	1
+Envelope surface glycoprotein gp120	3574	interacts with(1)	1
+Envelope surface glycoprotein gp120	3603	interacts with(1)	1
+Envelope surface glycoprotein gp120	3608	complexes with(1)	1
+Envelope surface glycoprotein gp120	3609	complexes with(1)	1
+Envelope surface glycoprotein gp120	3646	complexes with(1)	1
+Envelope surface glycoprotein gp120	3678	interacts with(1)	1
+Envelope surface glycoprotein gp120	3684	interacts with(1)	1
+Envelope surface glycoprotein gp120	3687	interacts with(1)	1
+Envelope surface glycoprotein gp120	3688	interacts with(1)	1
+Envelope surface glycoprotein gp120	3690	interacts with(1)	1
+Envelope surface glycoprotein gp120	3693	interacts with(1)	1
+Envelope surface glycoprotein gp120	3694	interacts with(1)	1
+Envelope surface glycoprotein gp120	3725	interacts with(1)	1
+Envelope surface glycoprotein gp120	3778	interacts with(1)	1
+Envelope surface glycoprotein gp120	3780	interacts with(1)	1
+Envelope surface glycoprotein gp120	3781	interacts with(1)	1
+Envelope surface glycoprotein gp120	3782	interacts with(1)	1
+Envelope surface glycoprotein gp120	3783	interacts with(1)	1
+Envelope surface glycoprotein gp120	3837	complexes with(1)	1
+Envelope surface glycoprotein gp120	3939	complexes with(1)	1
+Envelope surface glycoprotein gp120	3945	complexes with(1)	1
+Envelope surface glycoprotein gp120	3949	interacts with(1)	1
+Envelope surface glycoprotein gp120	3976	interacts with(1)	1
+Envelope surface glycoprotein gp120	3984	interacts with(1)	1
+Envelope surface glycoprotein gp120	3985	interacts with(1)	1
+Envelope surface glycoprotein gp120	4057	binds(1)	1
+Envelope surface glycoprotein gp120	4069	complexes with(1)	1
+Envelope surface glycoprotein gp120	4076	complexes with(1)	1
+Envelope surface glycoprotein gp120	4092	interacts with(1)	1
+Envelope surface glycoprotein gp120	4099	binds(1)	1
+Envelope surface glycoprotein gp120	4176	complexes with(1)	1
+Envelope surface glycoprotein gp120	4218	complexes with(1)	1
+Envelope surface glycoprotein gp120	4296	interacts with(1)	1
+Envelope surface glycoprotein gp120	4312	interacts with(1)	1
+Envelope surface glycoprotein gp120	4314	interacts with(1)	1
+Envelope surface glycoprotein gp120	4318	interacts with(1)	1
+Envelope surface glycoprotein gp120	4343	complexes with(1)	1
+Envelope surface glycoprotein gp120	4478	binds(1)	1
+Envelope surface glycoprotein gp120	4670	complexes with(1)	1
+Envelope surface glycoprotein gp120	4691	complexes with(1)	1
+Envelope surface glycoprotein gp120	4733	complexes with(1)	1
+Envelope surface glycoprotein gp120	4841	complexes with(1)	1
+Envelope surface glycoprotein gp120	4842	interacts with(1)	1
+Envelope surface glycoprotein gp120	4869	complexes with(1)	1
+Envelope surface glycoprotein gp120	4904	complexes with(1)	1
+Envelope surface glycoprotein gp120	4905	complexes with(1)	1
+Envelope surface glycoprotein gp120	4942	complexes with(1)	1
+Envelope surface glycoprotein gp120	4986	interacts with(1)	1
+Envelope surface glycoprotein gp120	5004	binds(1)	1
+Envelope surface glycoprotein gp120	5005	binds(1)	1
+Envelope surface glycoprotein gp120	5023	interacts with(1)	1
+Envelope surface glycoprotein gp120	5027	interacts with(1)	1
+Envelope surface glycoprotein gp120	5093	complexes with(1)	1
+Envelope surface glycoprotein gp120	5162	complexes with(1)	1
+Envelope surface glycoprotein gp120	5245	complexes with(1)	1
+Envelope surface glycoprotein gp120	5315	complexes with(1)	1
+Envelope surface glycoprotein gp120	5358	complexes with(1)	1
+Envelope surface glycoprotein gp120	5445	interacts with(1)	1
+Envelope surface glycoprotein gp120	5573	interacts with(1)	1
+Envelope surface glycoprotein gp120	5576	interacts with(1)	1
+Envelope surface glycoprotein gp120	5589	interacts with(1)	1
+Envelope surface glycoprotein gp120	5591	complexes with(1)	1
+Envelope surface glycoprotein gp120	5694	interacts with(1)	1
+Envelope surface glycoprotein gp120	5706	complexes with(1)	1
+Envelope surface glycoprotein gp120	5708	complexes with(1)	1
+Envelope surface glycoprotein gp120	5713	interacts with(1)	1
+Envelope surface glycoprotein gp120	5717	interacts with(1)	1
+Envelope surface glycoprotein gp120	5742	interacts with(1)	1
+Envelope surface glycoprotein gp120	5743	interacts with(1)	1
+Envelope surface glycoprotein gp120	5786	interacts with(1)	1
+Envelope surface glycoprotein gp120	5787	interacts with(1)	1
+Envelope surface glycoprotein gp120	5800	interacts with(1)	1
+Envelope surface glycoprotein gp120	5818	interacts with(1)	1
+Envelope surface glycoprotein gp120	5832	complexes with(1)	1
+Envelope surface glycoprotein gp120	5836	complexes with(1)	1
+Envelope surface glycoprotein gp120	5878	complexes with(1)	1
+Envelope surface glycoprotein gp120	5894	interacts with(1)	1
+Envelope surface glycoprotein gp120	5901	complexes with(1)	1
+Envelope surface glycoprotein gp120	5955	interacts with(1)	1
+Envelope surface glycoprotein gp120	5970	interacts with(1)	1
+Envelope surface glycoprotein gp120	5976	complexes with(1)	1
+Envelope surface glycoprotein gp120	6093	interacts with(1)	1
+Envelope surface glycoprotein gp120	6122	complexes with(1)	1
+Envelope surface glycoprotein gp120	6124	complexes with(1)	1
+Envelope surface glycoprotein gp120	6125	complexes with(1)	1
+Envelope surface glycoprotein gp120	6128	complexes with(1)	1
+Envelope surface glycoprotein gp120	6129	complexes with(1)	1
+Envelope surface glycoprotein gp120	6130	complexes with(1)	1
+Envelope surface glycoprotein gp120	6132	complexes with(1)	1
+Envelope surface glycoprotein gp120	6133	complexes with(1)	1
+Envelope surface glycoprotein gp120	6134	complexes with(1)	1
+Envelope surface glycoprotein gp120	6137	complexes with(1)	1
+Envelope surface glycoprotein gp120	6139	complexes with(1)	1
+Envelope surface glycoprotein gp120	6141	complexes with(1)	1
+Envelope surface glycoprotein gp120	6143	complexes with(1)	1
+Envelope surface glycoprotein gp120	6152	complexes with(1)	1
+Envelope surface glycoprotein gp120	6159	complexes with(1)	1
+Envelope surface glycoprotein gp120	6175	complexes with(1)	1
+Envelope surface glycoprotein gp120	6184	complexes with(1)	1
+Envelope surface glycoprotein gp120	6187	complexes with(1)	1
+Envelope surface glycoprotein gp120	6188	complexes with(1)	1
+Envelope surface glycoprotein gp120	6191	complexes with(1)	1
+Envelope surface glycoprotein gp120	6194	complexes with(1)	1
+Envelope surface glycoprotein gp120	6202	complexes with(1)	1
+Envelope surface glycoprotein gp120	6203	complexes with(1)	1
+Envelope surface glycoprotein gp120	6294	complexes with(1)	1
+Envelope surface glycoprotein gp120	6347	interacts with(1)	1
+Envelope surface glycoprotein gp120	6352	binds(1)	1
+Envelope surface glycoprotein gp120	6382	binds(1)	1
+Envelope surface glycoprotein gp120	6385	binds(1)	1
+Envelope surface glycoprotein gp120	6388	interacts with(1)	1
+Envelope surface glycoprotein gp120	6421	complexes with(1)	1
+Envelope surface glycoprotein gp120	6426	complexes with(1)	1
+Envelope surface glycoprotein gp120	6429	complexes with(1)	1
+Envelope surface glycoprotein gp120	6432	complexes with(1)	1
+Envelope surface glycoprotein gp120	6506	interacts with(1)	1
+Envelope surface glycoprotein gp120	6545	binds(1)	1
+Envelope surface glycoprotein gp120	6688	interacts with(1)	1
+Envelope surface glycoprotein gp120	6693	interacts with(1)	1
+Envelope surface glycoprotein gp120	6709	complexes with(1)	1
+Envelope surface glycoprotein gp120	6730	complexes with(1)	1
+Envelope surface glycoprotein gp120	6731	complexes with(1)	1
+Envelope surface glycoprotein gp120	6780	complexes with(1)	1
+Envelope surface glycoprotein gp120	6782	interacts with(1)	1
+Envelope surface glycoprotein gp120	6950	complexes with(1)	1
+Envelope surface glycoprotein gp120	7047	interacts with(1)	1
+Envelope surface glycoprotein gp120	7051	interacts with(1)	1
+Envelope surface glycoprotein gp120	7052	interacts with(1)	1
+Envelope surface glycoprotein gp120	7053	interacts with(1)	1
+Envelope surface glycoprotein gp120	7097	binds(1)	1
+Envelope surface glycoprotein gp120	7099	binds(1)	1
+Envelope surface glycoprotein gp120	7153	interacts with(1)	1
+Envelope surface glycoprotein gp120	7277	complexes with(1)	1
+Envelope surface glycoprotein gp120	7421	deglycosylates(1)	1
+Envelope surface glycoprotein gp120	7430	binds(1)	1
+Envelope surface glycoprotein gp120	7431	complexes with(1)	1
+Envelope surface glycoprotein gp120	7448	interacts with(1)	1
+Envelope surface glycoprotein gp120	7535	interacts with(1)	1
+Envelope surface glycoprotein gp120	7846	complexes with(1)	1
+Envelope surface glycoprotein gp120	7919	complexes with(1)	1
+Envelope surface glycoprotein gp120	8106	complexes with(1)	1
+Envelope surface glycoprotein gp120	8243	complexes with(1)	1
+Envelope surface glycoprotein gp120	8350	interacts with(1)	1
+Envelope surface glycoprotein gp120	8402	complexes with(1)	1
+Envelope surface glycoprotein gp120	8460	interacts with(1)	1
+Envelope surface glycoprotein gp120	8519	interacts with(1)	1
+Envelope surface glycoprotein gp120	8570	complexes with(1)	1
+Envelope surface glycoprotein gp120	8661	complexes with(1)	1
+Envelope surface glycoprotein gp120	8664	complexes with(1)	1
+Envelope surface glycoprotein gp120	8743	interacts with(1)	1
+Envelope surface glycoprotein gp120	8761	complexes with(1)	1
+Envelope surface glycoprotein gp120	8826	complexes with(1)	1
+Envelope surface glycoprotein gp120	8895	complexes with(1)	1
+Envelope surface glycoprotein gp120	8943	complexes with(1)	1
+Envelope surface glycoprotein gp120	8974	interacts with(1)	1
+Envelope surface glycoprotein gp120	9045	complexes with(1)	1
+Envelope surface glycoprotein gp120	9092	complexes with(1)	1
+Envelope surface glycoprotein gp120	9114	complexes with(1)	1
+Envelope surface glycoprotein gp120	9118	complexes with(1)	1
+Envelope surface glycoprotein gp120	9131	complexes with(1)	1
+Envelope surface glycoprotein gp120	9188	complexes with(1)	1
+Envelope surface glycoprotein gp120	9333	interacts with(1)	1
+Envelope surface glycoprotein gp120	9416	complexes with(1)	1
+Envelope surface glycoprotein gp120	9475	interacts with(1)	1
+Envelope surface glycoprotein gp120	9588	complexes with(1)	1
+Envelope surface glycoprotein gp120	9631	complexes with(1)	1
+Envelope surface glycoprotein gp120	9635	interacts with(1)	1
+Envelope surface glycoprotein gp120	9672	binds(1)	1
+Envelope surface glycoprotein gp120	9730	interacts with(1)	1
+Envelope surface glycoprotein gp120	9775	complexes with(1)	1
+Envelope surface glycoprotein gp120	9782	complexes with(1)	1
+Envelope surface glycoprotein gp120	9791	complexes with(1)	1
+Envelope surface glycoprotein gp120	9908	interacts with(1)	1
+Envelope surface glycoprotein gp120	10036	interacts with(1)	1
+Envelope surface glycoprotein gp120	10093	complexes with(1)	1
+Envelope surface glycoprotein gp120	10109	associates with(1)	1
+Envelope surface glycoprotein gp120	10128	complexes with(1)	1
+Envelope surface glycoprotein gp120	10146	interacts with(1)	1
+Envelope surface glycoprotein gp120	10155	complexes with(1)	1
+Envelope surface glycoprotein gp120	10189	complexes with(1)	1
+Envelope surface glycoprotein gp120	10236	complexes with(1)	1
+Envelope surface glycoprotein gp120	10242	interacts with(1)	1
+Envelope surface glycoprotein gp120	10262	complexes with(1)	1
+Envelope surface glycoprotein gp120	10381	binds(1)	1
+Envelope surface glycoprotein gp120	10399	complexes with(1)	1
+Envelope surface glycoprotein gp120	10410	interacts with(1)	1
+Envelope surface glycoprotein gp120	10423	complexes with(1)	1
+Envelope surface glycoprotein gp120	10492	complexes with(1)	1
+Envelope surface glycoprotein gp120	10514	complexes with(1)	1
+Envelope surface glycoprotein gp120	10521	complexes with(1)	1
+Envelope surface glycoprotein gp120	10525	interacts with(1)	1
+Envelope surface glycoprotein gp120	10527	complexes with(1)	1
+Envelope surface glycoprotein gp120	10572	interacts with(1)	1
+Envelope surface glycoprotein gp120	10575	complexes with(1)	1
+Envelope surface glycoprotein gp120	10576	complexes with(1)	1
+Envelope surface glycoprotein gp120	10581	interacts with(1)	1
+Envelope surface glycoprotein gp120	10594	complexes with(1)	1
+Envelope surface glycoprotein gp120	10642	complexes with(1)	1
+Envelope surface glycoprotein gp120	10643	complexes with(1)	1
+Envelope surface glycoprotein gp120	10670	complexes with(1)	1
+Envelope surface glycoprotein gp120	10772	complexes with(1)	1
+Envelope surface glycoprotein gp120	10808	interacts with(1)	1
+Envelope surface glycoprotein gp120	10890	complexes with(1)	1
+Envelope surface glycoprotein gp120	10949	complexes with(1)	1
+Envelope surface glycoprotein gp120	10971	interacts with(1)	1
+Envelope surface glycoprotein gp120	10992	complexes with(1)	1
+Envelope surface glycoprotein gp120	11051	complexes with(1)	1
+Envelope surface glycoprotein gp120	11103	complexes with(1)	1
+Envelope surface glycoprotein gp120	11331	complexes with(1)	1
+Envelope surface glycoprotein gp120	22794	interacts with(1)	1
+Envelope surface glycoprotein gp120	22802	interacts with(1)	1
+Envelope surface glycoprotein gp120	22818	complexes with(1)	1
+Envelope surface glycoprotein gp120	22907	complexes with(1)	1
+Envelope surface glycoprotein gp120	23020	complexes with(1)	1
+Envelope surface glycoprotein gp120	23071	interacts with(1)	1
+Envelope surface glycoprotein gp120	23118	interacts with(1)	1
+Envelope surface glycoprotein gp120	23127	processed by(1)	1
+Envelope surface glycoprotein gp120	23416	binds(1)	1
+Envelope surface glycoprotein gp120	23435	complexes with(1)	1
+Envelope surface glycoprotein gp120	23451	complexes with(1)	1
+Envelope surface glycoprotein gp120	23753	interacts with(1)	1
+Envelope surface glycoprotein gp120	24145	interacts with(1)	1
+Envelope surface glycoprotein gp120	25870	interacts with(1)	1
+Envelope surface glycoprotein gp120	26986	complexes with(1)	1
+Envelope surface glycoprotein gp120	27036	binds(1)	1
+Envelope surface glycoprotein gp120	27094	interacts with(1)	1
+Envelope surface glycoprotein gp120	27316	complexes with(1)	1
+Envelope surface glycoprotein gp120	27345	interacts with(1)	1
+Envelope surface glycoprotein gp120	29894	complexes with(1)	1
+Envelope surface glycoprotein gp120	50489	binds(1)	1
+Envelope surface glycoprotein gp120	50507	interacts with(1)	1
+Envelope surface glycoprotein gp120	51150	interacts with(1)	1
+Envelope surface glycoprotein gp120	51466	interacts with(1)	1
+Envelope surface glycoprotein gp120	51495	complexes with(1)	1
+Envelope surface glycoprotein gp120	51520	complexes with(1)	1
+Envelope surface glycoprotein gp120	51561	interacts with(1)	1
+Envelope surface glycoprotein gp120	51631	complexes with(1)	1
+Envelope surface glycoprotein gp120	51663	complexes with(1)	1
+Envelope surface glycoprotein gp120	51726	interacts with(1)	1
+Envelope surface glycoprotein gp120	55037	complexes with(1)	1
+Envelope surface glycoprotein gp120	55379	complexes with(1)	1
+Envelope surface glycoprotein gp120	55658	interacts with(1)	1
+Envelope surface glycoprotein gp120	55660	complexes with(1)	1
+Envelope surface glycoprotein gp120	55661	complexes with(1)	1
+Envelope surface glycoprotein gp120	55830	processed by(1)	1
+Envelope surface glycoprotein gp120	55894	binds(1)	1
+Envelope surface glycoprotein gp120	55922	complexes with(1)	1
+Envelope surface glycoprotein gp120	56254	complexes with(1)	1
+Envelope surface glycoprotein gp120	57187	complexes with(1)	1
+Envelope surface glycoprotein gp120	58477	complexes with(1)	1
+Envelope surface glycoprotein gp120	65109	complexes with(1)	1
+Envelope surface glycoprotein gp120	79188	interacts with(1)	1
+Envelope surface glycoprotein gp120	79709	processed by(1)	1
+Envelope surface glycoprotein gp120	79868	processed by(1)	1
+Envelope surface glycoprotein gp120	79869	complexes with(1)	1
+Envelope surface glycoprotein gp120	80267	interacts with(1)	1
+Envelope surface glycoprotein gp120	81567	interacts with(1)	1
+Envelope surface glycoprotein gp120	81608	complexes with(1)	1
+Envelope surface glycoprotein gp120	81929	interacts with(1)	1
+Envelope surface glycoprotein gp120	83468	processed by(1)	1
+Envelope surface glycoprotein gp120	84061	interacts with(1)	1
+Envelope surface glycoprotein gp120	84331	interacts with(1)	1
+Envelope surface glycoprotein gp120	94081	complexes with(1)	1
+Envelope surface glycoprotein gp120	116179	interacts with(1)	1
+Envelope surface glycoprotein gp120	124801	interacts with(1)	1
+Envelope surface glycoprotein gp120	125950	complexes with(1)	1
+Envelope surface glycoprotein gp120	144423	processed by(1)	1
+Envelope surface glycoprotein gp120	220972	binds(1)	1
+Envelope surface glycoprotein gp120	220988	complexes with(1)	1
+Envelope surface glycoprotein gp120	283464	processed by(1)	1
+Envelope surface glycoprotein gp120	339390	binds(1)	1
+Envelope surface glycoprotein gp120	343641	interacts with(1)	1
+Envelope surface glycoprotein gp120	360203	processed by(1)	1
+Envelope surface glycoprotein gp120	727897	modified by(1)	1
+Envelope surface glycoprotein gp160, precursor	58	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	59	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	60	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	70	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	71	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	72	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	102	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	351	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	355	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	389	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	444	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	472	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	488	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	489	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	598	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	836	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	915	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	916	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	940	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	1075	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	1234	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	1327	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	1362	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	1374	palmitoylated by(1)	1
+Envelope surface glycoprotein gp160, precursor	1375	palmitoylated by(1)	1
+Envelope surface glycoprotein gp160, precursor	1376	palmitoylated by(1)	1
+Envelope surface glycoprotein gp160, precursor	1380	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	1471	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	1509	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	1521	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	1627	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	1636	processed by(1)	1
+Envelope surface glycoprotein gp160, precursor	1718	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	1727	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	1825	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	1861	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	2010	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	2137	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	2335	binds(1)	1
+Envelope surface glycoprotein gp160, precursor	2683	processed by(1)	1
+Envelope surface glycoprotein gp160, precursor	2734	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	2882	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	3106	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	3107	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	3108	associates with(1)	1
+Envelope surface glycoprotein gp160, precursor	3109	associates with(1)	1
+Envelope surface glycoprotein gp160, precursor	3111	associates with(1)	1
+Envelope surface glycoprotein gp160, precursor	3112	associates with(1)	1
+Envelope surface glycoprotein gp160, precursor	3113	associates with(1)	1
+Envelope surface glycoprotein gp160, precursor	3115	associates with(1)	1
+Envelope surface glycoprotein gp160, precursor	3117	associates with(1)	1
+Envelope surface glycoprotein gp160, precursor	3118	associates with(1)	1
+Envelope surface glycoprotein gp160, precursor	3119	associates with(1)	1
+Envelope surface glycoprotein gp160, precursor	3120	associates with(1)	1
+Envelope surface glycoprotein gp160, precursor	3134	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	3135	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	3385	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	3482	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	3561	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	3574	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	3586	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	3592	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	3593	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	3615	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	3676	binds(1)	1
+Envelope surface glycoprotein gp160, precursor	3688	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	3695	binds(1)	1
+Envelope surface glycoprotein gp160, precursor	3932	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	3949	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	4001	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	4065	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	4121	processed by(1)	1
+Envelope surface glycoprotein gp160, precursor	4122	processed by(1)	1
+Envelope surface glycoprotein gp160, precursor	4123	processed by(1)	1
+Envelope surface glycoprotein gp160, precursor	4124	processed by(1)	1
+Envelope surface glycoprotein gp160, precursor	4125	processed by(1)	1
+Envelope surface glycoprotein gp160, precursor	4126	processed by(1)	1
+Envelope surface glycoprotein gp160, precursor	4166	processed by(1)	1
+Envelope surface glycoprotein gp160, precursor	4247	processed by(1)	1
+Envelope surface glycoprotein gp160, precursor	4851	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	5033	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	5230	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	5265	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	5315	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	5351	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	5445	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	5447	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	5578	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	5579	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	5580	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	5581	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	5582	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	5583	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	5584	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	5588	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	5589	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	5590	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	5611	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	5694	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	5702	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	5707	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	5717	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	5719	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	5788	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	5878	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	5954	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	6035	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	6048	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	6050	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	6272	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	6388	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	6422	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	6441	binds(1)	1
+Envelope surface glycoprotein gp160, precursor	6482	processed by(1)	1
+Envelope surface glycoprotein gp160, precursor	6483	processed by(1)	1
+Envelope surface glycoprotein gp160, precursor	6484	processed by(1)	1
+Envelope surface glycoprotein gp160, precursor	6487	processed by(1)	1
+Envelope surface glycoprotein gp160, precursor	6520	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	6585	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	6748	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	6782	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	6786	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	6868	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	6891	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	6892	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	7037	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	7040	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	7059	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	7184	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	7277	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	7278	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	7280	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	7283	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	7284	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	7314	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	7415	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	7416	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	7417	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	7846	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	7852	binds(1)	1
+Envelope surface glycoprotein gp160, precursor	7879	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	7920	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	7991	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	8140	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	8534	processed by(1)	1
+Envelope surface glycoprotein gp160, precursor	8607	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	8702	processed by(1)	1
+Envelope surface glycoprotein gp160, precursor	8703	processed by(1)	1
+Envelope surface glycoprotein gp160, precursor	8704	processed by(1)	1
+Envelope surface glycoprotein gp160, precursor	8705	processed by(1)	1
+Envelope surface glycoprotein gp160, precursor	8706	processed by(1)	1
+Envelope surface glycoprotein gp160, precursor	8707	processed by(1)	1
+Envelope surface glycoprotein gp160, precursor	8708	processed by(1)	1
+Envelope surface glycoprotein gp160, precursor	8766	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	9276	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	9331	processed by(1)	1
+Envelope surface glycoprotein gp160, precursor	9435	processed by(1)	1
+Envelope surface glycoprotein gp160, precursor	9445	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	9469	processed by(1)	1
+Envelope surface glycoprotein gp160, precursor	9486	processed by(1)	1
+Envelope surface glycoprotein gp160, precursor	9554	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	9730	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	10026	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	10036	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	10164	processed by(1)	1
+Envelope surface glycoprotein gp160, precursor	10317	processed by(1)	1
+Envelope surface glycoprotein gp160, precursor	10376	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	10381	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	10382	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	10383	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	10410	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	10525	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	10548	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	10581	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	10694	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	10808	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	10856	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	10857	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	10890	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	10905	processed by(1)	1
+Envelope surface glycoprotein gp160, precursor	10947	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	10954	processed by(1)	1
+Envelope surface glycoprotein gp160, precursor	10961	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	10970	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	10972	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	11073	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	11230	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	11253	processed by(1)	1
+Envelope surface glycoprotein gp160, precursor	11282	processed by(1)	1
+Envelope surface glycoprotein gp160, precursor	11320	processed by(1)	1
+Envelope surface glycoprotein gp160, precursor	11331	binds(1)	1
+Envelope surface glycoprotein gp160, precursor	23184	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	23225	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	23240	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	23306	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	23324	processed by(1)	1
+Envelope surface glycoprotein gp160, precursor	23353	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	23452	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	23563	processed by(1)	1
+Envelope surface glycoprotein gp160, precursor	23646	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	25834	processed by(1)	1
+Envelope surface glycoprotein gp160, precursor	25870	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	26998	binds(1)	1
+Envelope surface glycoprotein gp160, precursor	27035	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	27248	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	29927	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	29968	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	30001	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	50489	binds(1)	1
+Envelope surface glycoprotein gp160, precursor	50507	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	50508	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	51162	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	51284	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	51311	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	51552	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	51752	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	54106	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	54431	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	54480	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	54495	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	54814	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	54982	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	55080	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	55151	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	55170	methylated by(1)	1
+Envelope surface glycoprotein gp160, precursor	55746	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	55761	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	55768	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	55969	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	56255	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	56548	processed by(1)	1
+Envelope surface glycoprotein gp160, precursor	56681	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	56886	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	57134	processed by(1)	1
+Envelope surface glycoprotein gp160, precursor	57222	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	57326	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	57704	processed by(1)	1
+Envelope surface glycoprotein gp160, precursor	57733	processed by(1)	1
+Envelope surface glycoprotein gp160, precursor	64167	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	64222	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	64374	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	64377	processed by(1)	1
+Envelope surface glycoprotein gp160, precursor	64399	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	64746	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	64755	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	66005	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	79400	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	79573	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	79694	processed by(1)	1
+Envelope surface glycoprotein gp160, precursor	80267	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	81542	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	81567	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	81929	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	83539	processed by(1)	1
+Envelope surface glycoprotein gp160, precursor	84790	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	85450	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	114882	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	115908	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	121457	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	126129	palmitoylated by(1)	1
+Envelope surface glycoprotein gp160, precursor	146664	processed by(1)	1
+Envelope surface glycoprotein gp160, precursor	163590	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	203068	interacts with(1)	1
+Envelope surface glycoprotein gp160, precursor	375056	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	174	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	213	binds(1)	1
+Envelope transmembrane glycoprotein gp41	302	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	389	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	801	binds(1)	1
+Envelope transmembrane glycoprotein gp41	805	binds(1)	1
+Envelope transmembrane glycoprotein gp41	808	binds(1)	1
+Envelope transmembrane glycoprotein gp41	925	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	1232	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	1237	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	1327	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	1340	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	1495	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	1496	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	1667	binds(1)	1
+Envelope transmembrane glycoprotein gp41	1678	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	1785	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	1803	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	1991	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	2335	binds(1)	1
+Envelope transmembrane glycoprotein gp41	2548	processed by(1)	1
+Envelope transmembrane glycoprotein gp41	2595	processed by(1)	1
+Envelope transmembrane glycoprotein gp41	2923	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	3107	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	3329	binds(1)	1
+Envelope transmembrane glycoprotein gp41	3458	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	3553	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	3569	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	3676	complexes with(1)	1
+Envelope transmembrane glycoprotein gp41	3695	complexes with(1)	1
+Envelope transmembrane glycoprotein gp41	3916	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	4121	processed by(1)	1
+Envelope transmembrane glycoprotein gp41	4122	processed by(1)	1
+Envelope transmembrane glycoprotein gp41	4123	processed by(1)	1
+Envelope transmembrane glycoprotein gp41	4124	processed by(1)	1
+Envelope transmembrane glycoprotein gp41	4125	processed by(1)	1
+Envelope transmembrane glycoprotein gp41	4126	processed by(1)	1
+Envelope transmembrane glycoprotein gp41	4247	processed by(1)	1
+Envelope transmembrane glycoprotein gp41	4707	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	5023	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	5027	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	5199	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	5245	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	5357	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	5589	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	6400	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	6441	binds(1)	1
+Envelope transmembrane glycoprotein gp41	6836	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	6885	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	7047	modified by(1)	1
+Envelope transmembrane glycoprotein gp41	7051	modified by(1)	1
+Envelope transmembrane glycoprotein gp41	7052	modified by(1)	1
+Envelope transmembrane glycoprotein gp41	7053	modified by(1)	1
+Envelope transmembrane glycoprotein gp41	7095	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	7096	binds(1)	1
+Envelope transmembrane glycoprotein gp41	7415	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	7416	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	7417	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	7419	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	7841	processed by(1)	1
+Envelope transmembrane glycoprotein gp41	8519	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	9138	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	9185	binds(1)	1
+Envelope transmembrane glycoprotein gp41	9218	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	9333	modified by(1)	1
+Envelope transmembrane glycoprotein gp41	9377	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	9730	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	9789	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	10134	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	10211	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	10410	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	10452	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	10549	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	10567	binds(1)	1
+Envelope transmembrane glycoprotein gp41	10572	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	10581	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	10615	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	10857	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	10905	processed by(1)	1
+Envelope transmembrane glycoprotein gp41	10947	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	10960	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	10970	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	11079	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	11253	processed by(1)	1
+Envelope transmembrane glycoprotein gp41	11282	processed by(1)	1
+Envelope transmembrane glycoprotein gp41	11320	processed by(1)	1
+Envelope transmembrane glycoprotein gp41	11331	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	23052	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	23065	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	23193	processed by(1)	1
+Envelope transmembrane glycoprotein gp41	23324	processed by(1)	1
+Envelope transmembrane glycoprotein gp41	23443	processed by(1)	1
+Envelope transmembrane glycoprotein gp41	25834	processed by(1)	1
+Envelope transmembrane glycoprotein gp41	26270	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	26517	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	26521	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	26762	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	27248	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	29119	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	29924	binds(1)	1
+Envelope transmembrane glycoprotein gp41	30968	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	51495	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	55151	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	55737	binds(1)	1
+Envelope transmembrane glycoprotein gp41	55768	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	55904	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	56886	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	57134	processed by(1)	1
+Envelope transmembrane glycoprotein gp41	57704	processed by(1)	1
+Envelope transmembrane glycoprotein gp41	57733	processed by(1)	1
+Envelope transmembrane glycoprotein gp41	60559	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	81567	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	90231	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	93380	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	114548	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	116179	modified by(1)	1
+Envelope transmembrane glycoprotein gp41	143187	interacts with(1)	1
+Envelope transmembrane glycoprotein gp41	146664	processed by(1)	1
+Envelope transmembrane glycoprotein gp41	343641	modified by(1)	1
+Gag-Pol	47	complexes with(1)	1
+Gag-Pol	60	complexes with(1)	1
+Gag-Pol	103	complexes with(1)	1
+Gag-Pol	292	complexes with(1)	1
+Gag-Pol	378	complexes with(1)	1
+Gag-Pol	381	complexes with(1)	1
+Gag-Pol	382	complexes with(1)	1
+Gag-Pol	400	complexes with(1)	1
+Gag-Pol	476	complexes with(1)	1
+Gag-Pol	498	complexes with(1)	1
+Gag-Pol	509	complexes with(1)	1
+Gag-Pol	539	complexes with(1)	1
+Gag-Pol	790	complexes with(1)	1
+Gag-Pol	821	complexes with(1)	1
+Gag-Pol	871	complexes with(1)	1
+Gag-Pol	988	complexes with(1)	1
+Gag-Pol	1173	complexes with(1)	1
+Gag-Pol	1176	complexes with(1)	1
+Gag-Pol	1213	complexes with(1)	1
+Gag-Pol	1314	complexes with(1)	1
+Gag-Pol	1615	complexes with(1)	1
+Gag-Pol	1650	complexes with(1)	1
+Gag-Pol	1653	complexes with(1)	1
+Gag-Pol	1654	complexes with(1)	1
+Gag-Pol	1655	complexes with(1)	1
+Gag-Pol	1660	complexes with(1)	1
+Gag-Pol	1665	complexes with(1)	1
+Gag-Pol	1717	complexes with(1)	1
+Gag-Pol	1785	complexes with(1)	1
+Gag-Pol	1915	complexes with(1)	1
+Gag-Pol	1936	complexes with(1)	1
+Gag-Pol	1937	complexes with(1)	1
+Gag-Pol	1973	complexes with(1)	1
+Gag-Pol	1994	complexes with(1)	1
+Gag-Pol	2023	complexes with(1)	1
+Gag-Pol	2058	complexes with(1)	1
+Gag-Pol	2109	complexes with(1)	1
+Gag-Pol	2181	complexes with(1)	1
+Gag-Pol	2194	complexes with(1)	1
+Gag-Pol	2316	complexes with(1)	1
+Gag-Pol	3178	complexes with(1)	1
+Gag-Pol	3181	complexes with(1)	1
+Gag-Pol	3182	complexes with(1)	1
+Gag-Pol	3183	complexes with(1)	1
+Gag-Pol	3184	complexes with(1)	1
+Gag-Pol	3185	complexes with(1)	1
+Gag-Pol	3187	complexes with(1)	1
+Gag-Pol	3188	complexes with(1)	1
+Gag-Pol	3189	complexes with(1)	1
+Gag-Pol	3190	complexes with(1)	1
+Gag-Pol	3192	complexes with(1)	1
+Gag-Pol	3295	complexes with(1)	1
+Gag-Pol	3303	complexes with(1)	1
+Gag-Pol	3304	complexes with(1)	1
+Gag-Pol	3305	complexes with(1)	1
+Gag-Pol	3309	complexes with(1)	1
+Gag-Pol	3312	complexes with(1)	1
+Gag-Pol	3313	complexes with(1)	1
+Gag-Pol	3329	complexes with(1)	1
+Gag-Pol	3376	complexes with(1)	1
+Gag-Pol	3419	complexes with(1)	1
+Gag-Pol	3608	complexes with(1)	1
+Gag-Pol	3609	complexes with(1)	1
+Gag-Pol	3646	complexes with(1)	1
+Gag-Pol	3735	associates with(1)	1
+Gag-Pol	3837	complexes with(1)	1
+Gag-Pol	3939	complexes with(1)	1
+Gag-Pol	3945	complexes with(1)	1
+Gag-Pol	4069	complexes with(1)	1
+Gag-Pol	4076	complexes with(1)	1
+Gag-Pol	4176	complexes with(1)	1
+Gag-Pol	4218	complexes with(1)	1
+Gag-Pol	4343	complexes with(1)	1
+Gag-Pol	4670	complexes with(1)	1
+Gag-Pol	4691	complexes with(1)	1
+Gag-Pol	4733	complexes with(1)	1
+Gag-Pol	4841	complexes with(1)	1
+Gag-Pol	4869	complexes with(1)	1
+Gag-Pol	4904	complexes with(1)	1
+Gag-Pol	4905	complexes with(1)	1
+Gag-Pol	4942	complexes with(1)	1
+Gag-Pol	5093	complexes with(1)	1
+Gag-Pol	5162	complexes with(1)	1
+Gag-Pol	5245	complexes with(1)	1
+Gag-Pol	5315	complexes with(1)	1
+Gag-Pol	5358	complexes with(1)	1
+Gag-Pol	5591	complexes with(1)	1
+Gag-Pol	5706	complexes with(1)	1
+Gag-Pol	5708	complexes with(1)	1
+Gag-Pol	5832	complexes with(1)	1
+Gag-Pol	5836	complexes with(1)	1
+Gag-Pol	5878	complexes with(1)	1
+Gag-Pol	5901	complexes with(1)	1
+Gag-Pol	5976	complexes with(1)	1
+Gag-Pol	6122	complexes with(1)	1
+Gag-Pol	6124	complexes with(1)	1
+Gag-Pol	6125	complexes with(1)	1
+Gag-Pol	6128	complexes with(1)	1
+Gag-Pol	6129	complexes with(1)	1
+Gag-Pol	6130	complexes with(1)	1
+Gag-Pol	6132	complexes with(1)	1
+Gag-Pol	6133	complexes with(1)	1
+Gag-Pol	6134	complexes with(1)	1
+Gag-Pol	6137	complexes with(1)	1
+Gag-Pol	6139	complexes with(1)	1
+Gag-Pol	6141	complexes with(1)	1
+Gag-Pol	6143	complexes with(1)	1
+Gag-Pol	6152	complexes with(1)	1
+Gag-Pol	6159	complexes with(1)	1
+Gag-Pol	6175	complexes with(1)	1
+Gag-Pol	6184	complexes with(1)	1
+Gag-Pol	6187	complexes with(1)	1
+Gag-Pol	6188	complexes with(1)	1
+Gag-Pol	6191	complexes with(1)	1
+Gag-Pol	6194	complexes with(1)	1
+Gag-Pol	6202	complexes with(1)	1
+Gag-Pol	6203	complexes with(1)	1
+Gag-Pol	6294	complexes with(1)	1
+Gag-Pol	6421	complexes with(1)	1
+Gag-Pol	6426	complexes with(1)	1
+Gag-Pol	6429	complexes with(1)	1
+Gag-Pol	6432	complexes with(1)	1
+Gag-Pol	6709	complexes with(1)	1
+Gag-Pol	6730	complexes with(1)	1
+Gag-Pol	6731	complexes with(1)	1
+Gag-Pol	6780	complexes with(1)	1
+Gag-Pol	6895	interacts with(1)	1
+Gag-Pol	6950	complexes with(1)	1
+Gag-Pol	7277	complexes with(1)	1
+Gag-Pol	7431	complexes with(1)	1
+Gag-Pol	7841	complexes with(1)	1
+Gag-Pol	7846	complexes with(1)	1
+Gag-Pol	7919	complexes with(1)	1
+Gag-Pol	8106	complexes with(1)	1
+Gag-Pol	8243	complexes with(1)	1
+Gag-Pol	8402	complexes with(1)	1
+Gag-Pol	8570	complexes with(1)	1
+Gag-Pol	8661	complexes with(1)	1
+Gag-Pol	8664	complexes with(1)	1
+Gag-Pol	8761	complexes with(1)	1
+Gag-Pol	8826	complexes with(1)	1
+Gag-Pol	8895	complexes with(1)	1
+Gag-Pol	8943	complexes with(1)	1
+Gag-Pol	9045	complexes with(1)	1
+Gag-Pol	9092	complexes with(1)	1
+Gag-Pol	9114	complexes with(1)	1
+Gag-Pol	9118	complexes with(1)	1
+Gag-Pol	9131	complexes with(1)	1
+Gag-Pol	9188	complexes with(1)	1
+Gag-Pol	9416	complexes with(1)	1
+Gag-Pol	9588	complexes with(1)	1
+Gag-Pol	9631	complexes with(1)	1
+Gag-Pol	9775	complexes with(1)	1
+Gag-Pol	9782	complexes with(1)	1
+Gag-Pol	9791	complexes with(1)	1
+Gag-Pol	10075	interacts with(1)	1
+Gag-Pol	10093	complexes with(1)	1
+Gag-Pol	10128	complexes with(1)	1
+Gag-Pol	10155	complexes with(1)	1
+Gag-Pol	10189	complexes with(1)	1
+Gag-Pol	10236	complexes with(1)	1
+Gag-Pol	10262	complexes with(1)	1
+Gag-Pol	10399	complexes with(1)	1
+Gag-Pol	10423	complexes with(1)	1
+Gag-Pol	10492	complexes with(1)	1
+Gag-Pol	10514	complexes with(1)	1
+Gag-Pol	10521	complexes with(1)	1
+Gag-Pol	10527	complexes with(1)	1
+Gag-Pol	10575	complexes with(1)	1
+Gag-Pol	10576	complexes with(1)	1
+Gag-Pol	10594	complexes with(1)	1
+Gag-Pol	10642	complexes with(1)	1
+Gag-Pol	10643	complexes with(1)	1
+Gag-Pol	10670	complexes with(1)	1
+Gag-Pol	10772	complexes with(1)	1
+Gag-Pol	10890	complexes with(1)	1
+Gag-Pol	10949	complexes with(1)	1
+Gag-Pol	10992	complexes with(1)	1
+Gag-Pol	11051	complexes with(1)	1
+Gag-Pol	11103	complexes with(1)	1
+Gag-Pol	11331	complexes with(1)	1
+Gag-Pol	22818	complexes with(1)	1
+Gag-Pol	22907	complexes with(1)	1
+Gag-Pol	23020	complexes with(1)	1
+Gag-Pol	23435	complexes with(1)	1
+Gag-Pol	23451	complexes with(1)	1
+Gag-Pol	26986	complexes with(1)	1
+Gag-Pol	27316	complexes with(1)	1
+Gag-Pol	29894	complexes with(1)	1
+Gag-Pol	29927	complexes with(1)	1
+Gag-Pol	51495	complexes with(1)	1
+Gag-Pol	51520	complexes with(1)	1
+Gag-Pol	51631	complexes with(1)	1
+Gag-Pol	51663	complexes with(1)	1
+Gag-Pol	55037	complexes with(1)	1
+Gag-Pol	55379	complexes with(1)	1
+Gag-Pol	55660	complexes with(1)	1
+Gag-Pol	55661	complexes with(1)	1
+Gag-Pol	55922	complexes with(1)	1
+Gag-Pol	56254	complexes with(1)	1
+Gag-Pol	57187	complexes with(1)	1
+Gag-Pol	58477	complexes with(1)	1
+Gag-Pol	65109	complexes with(1)	1
+Gag-Pol	79869	complexes with(1)	1
+Gag-Pol	81608	complexes with(1)	1
+Gag-Pol	94081	complexes with(1)	1
+Gag-Pol	125950	complexes with(1)	1
+Gag-Pol	220988	complexes with(1)	1
+integrase	250	interacts with(1)	1
+integrase	355	interacts with(1)	1
+integrase	545	interacts with(1)	1
+integrase	689	binds(1)	1
+integrase	1026	complexes with(1)	1
+integrase	1159	interacts with(1)	1
+integrase	1387	interacts with(1)	1
+integrase	1427	interacts with(1)	1
+integrase	1434	binds(1)	1
+integrase	1471	interacts with(1)	1
+integrase	1656	interacts with(1)	1
+integrase	1832	interacts with(1)	1
+integrase	1937	interacts with(1)	1
+integrase	2010	interacts with(1)	1
+integrase	3151	binds(1)	1
+integrase	3181	binds(1)	1
+integrase	3336	interacts with(1)	1
+integrase	3553	interacts with(1)	1
+integrase	3574	interacts with(1)	1
+integrase	3842	binds(1)	1
+integrase	3843	binds(1)	1
+integrase	3925	binds(1)	1
+integrase	4175	interacts with(1)	1
+integrase	4297	binds(1)	1
+integrase	4600	interacts with(1)	1
+integrase	4670	interacts with(1)	1
+integrase	5019	interacts with(1)	1
+integrase	5105	binds(1)	1
+integrase	5243	interacts with(1)	1
+integrase	5351	interacts with(1)	1
+integrase	5352	interacts with(1)	1
+integrase	5371	interacts with(1)	1
+integrase	5594	interacts with(1)	1
+integrase	5599	phosphorylated by(1)	1
+integrase	5903	interacts with(1)	1
+integrase	6612	sumoylated by(1)	1
+integrase	6777	interacts with(1)	1
+integrase	7109	interacts with(1)	1
+integrase	7277	interacts with(1)	1
+integrase	7278	interacts with(1)	1
+integrase	7317	interacts with(1)	1
+integrase	7322	interacts with(1)	1
+integrase	7329	interacts with(1)	1
+integrase	7374	binds(1)	1
+integrase	7411	binds(1)	1
+integrase	7528	binds(1)	1
+integrase	7529	interacts with(1)	1
+integrase	7531	interacts with(1)	1
+integrase	7532	interacts with(1)	1
+integrase	7534	interacts with(1)	1
+integrase	7846	interacts with(1)	1
+integrase	7903	interacts with(1)	1
+integrase	7994	acetylated by(1)	1
+integrase	8502	interacts with(1)	1
+integrase	8667	binds(1)	1
+integrase	8801	interacts with(1)	1
+integrase	9349	binds(1)	1
+integrase	9391	interacts with(1)	1
+integrase	9601	interacts with(1)	1
+integrase	9793	interacts with(1)	1
+integrase	9967	binds(1)	1
+integrase	10048	binds(1)	1
+integrase	10075	interacts with(1)	1
+integrase	10128	associates with(1)	1
+integrase	10155	interacts with(1)	1
+integrase	10376	interacts with(1)	1
+integrase	10390	interacts with(1)	1
+integrase	10527	binds(1)	1
+integrase	10575	binds(1)	1
+integrase	10673	interacts with(1)	1
+integrase	10738	interacts with(1)	1
+integrase	11100	interacts with(1)	1
+integrase	11143	acetylated by(1)	1
+integrase	22806	interacts with(1)	1
+integrase	22920	binds(1)	1
+integrase	23066	interacts with(1)	1
+integrase	23126	binds(1)	1
+integrase	23522	acetylated by(1)	1
+integrase	23633	binds(1)	1
+integrase	23636	binds(1)	1
+integrase	26005	interacts with(1)	1
+integrase	26953	interacts with(1)	1
+integrase	29890	interacts with(1)	1
+integrase	51020	interacts with(1)	1
+integrase	51567	interacts with(1)	1
+integrase	51647	interacts with(1)	1
+integrase	51807	interacts with(1)	1
+integrase	55127	interacts with(1)	1
+integrase	55677	binds(1)	1
+integrase	55898	interacts with(1)	1
+integrase	56852	interacts with(1)	1
+integrase	57496	interacts with(1)	1
+integrase	60468	interacts with(1)	1
+integrase	79711	interacts with(1)	1
+integrase	79932	interacts with(1)	1
+integrase	80336	interacts with(1)	1
+integrase	80349	interacts with(1)	1
+integrase	81573	interacts with(1)	1
+integrase	84148	acetylated by(1)	1
+integrase	84790	interacts with(1)	1
+integrase	90416	binds(1)	1
+integrase	112714	interacts with(1)	1
+integrase	113457	interacts with(1)	1
+integrase	114548	interacts with(1)	1
+integrase	127124	interacts with(1)	1
+integrase	148867	interacts with(1)	1
+integrase	150280	interacts with(1)	1
+integrase	161835	interacts with(1)	1
+integrase	200316	interacts with(1)	1
+integrase	219743	interacts with(1)	1
+integrase	253980	interacts with(1)	1
+integrase	440275	binds(1)	1
+integrase	548596	interacts with(1)	1
+matrix	59	interacts with(1)	1
+matrix	60	interacts with(1)	1
+matrix	70	interacts with(1)	1
+matrix	71	interacts with(1)	1
+matrix	72	interacts with(1)	1
+matrix	207	interacts with(1)	1
+matrix	966	interacts with(1)	1
+matrix	1457	phosphorylated by(1)	1
+matrix	1459	phosphorylated by(1)	1
+matrix	1460	phosphorylated by(1)	1
+matrix	1615	interacts with(1)	1
+matrix	2058	interacts with(1)	1
+matrix	2353	interacts with(1)	1
+matrix	2547	interacts with(1)	1
+matrix	3105	interacts with(1)	1
+matrix	3106	interacts with(1)	1
+matrix	3159	associates with(1)	1
+matrix	3376	interacts with(1)	1
+matrix	3383	interacts with(1)	1
+matrix	3458	binds(1)	1
+matrix	3576	binds(1)	1
+matrix	3726	interacts with(1)	1
+matrix	3735	interacts with(1)	1
+matrix	4141	interacts with(1)	1
+matrix	4691	fractionates with(1)	1
+matrix	4904	interacts with(1)	1
+matrix	5062	phosphorylated by(1)	1
+matrix	5566	phosphorylated by(1)	1
+matrix	5567	phosphorylated by(1)	1
+matrix	5568	phosphorylated by(1)	1
+matrix	5571	phosphorylated by(1)	1
+matrix	5573	phosphorylated by(1)	1
+matrix	5575	phosphorylated by(1)	1
+matrix	5576	phosphorylated by(1)	1
+matrix	5577	phosphorylated by(1)	1
+matrix	5578	phosphorylated by(1)	1
+matrix	5579	phosphorylated by(1)	1
+matrix	5580	phosphorylated by(1)	1
+matrix	5581	phosphorylated by(1)	1
+matrix	5582	phosphorylated by(1)	1
+matrix	5583	phosphorylated by(1)	1
+matrix	5584	phosphorylated by(1)	1
+matrix	5588	phosphorylated by(1)	1
+matrix	5590	phosphorylated by(1)	1
+matrix	5829	interacts with(1)	1
+matrix	5859	interacts with(1)	1
+matrix	5917	interacts with(1)	1
+matrix	6363	interacts with(1)	1
+matrix	6383	interacts with(1)	1
+matrix	6386	interacts with(1)	1
+matrix	6711	associates with(1)	1
+matrix	6774	interacts with(1)	1
+matrix	6897	interacts with(1)	1
+matrix	7018	associates with(1)	1
+matrix	7094	interacts with(1)	1
+matrix	7096	binds(1)	1
+matrix	7314	ubiquitinated by(1)	1
+matrix	7316	ubiquitinated by(1)	1
+matrix	7414	interacts with(1)	1
+matrix	7430	interacts with(1)	1
+matrix	7520	interacts with(1)	1
+matrix	7965	interacts with(1)	1
+matrix	8651	binds(1)	1
+matrix	9221	interacts with(1)	1
+matrix	9255	interacts with(1)	1
+matrix	9397	myristoylated by(1)	1
+matrix	9521	interacts with(1)	1
+matrix	9669	binds(1)	1
+matrix	10128	associates with(1)	1
+matrix	10204	complexes with(1)	1
+matrix	10318	binds(1)	1
+matrix	10410	associates with(1)	1
+matrix	10537	ubiquitinated by(1)	1
+matrix	10806	interacts with(1)	1
+matrix	10856	interacts with(1)	1
+matrix	26088	interacts with(1)	1
+matrix	27246	interacts with(1)	1
+matrix	27350	interacts with(1)	1
+matrix	51091	interacts with(1)	1
+matrix	51422	phosphorylated by(1)	1
+matrix	51520	interacts with(1)	1
+matrix	79731	interacts with(1)	1
+matrix	83660	interacts with(1)	1
+matrix	83987	interacts with(1)	1
+matrix	84717	interacts with(1)	1
+matrix	118987	binds(1)	1
+Nef	43	interacts with(1)	1
+Nef	47	complexes with(1)	1
+Nef	58	interacts with(1)	1
+Nef	71	associates with(1)	1
+Nef	102	associates with(1)	1
+Nef	103	complexes with(1)	1
+Nef	292	complexes with(1)	1
+Nef	378	complexes with(1)	1
+Nef	381	complexes with(1)	1
+Nef	382	complexes with(1)	1
+Nef	400	complexes with(1)	1
+Nef	476	complexes with(1)	1
+Nef	498	complexes with(1)	1
+Nef	509	complexes with(1)	1
+Nef	539	complexes with(1)	1
+Nef	660	interacts with(1)	1
+Nef	695	interacts with(1)	1
+Nef	790	complexes with(1)	1
+Nef	857	interacts with(1)	1
+Nef	871	complexes with(1)	1
+Nef	909	interacts with(1)	1
+Nef	915	interacts with(1)	1
+Nef	921	interacts with(1)	1
+Nef	975	interacts with(1)	1
+Nef	988	complexes with(1)	1
+Nef	998	interacts with(1)	1
+Nef	1029	interacts with(1)	1
+Nef	1050	interacts with(1)	1
+Nef	1054	interacts with(1)	1
+Nef	1123	interacts with(1)	1
+Nef	1176	complexes with(1)	1
+Nef	1314	complexes with(1)	1
+Nef	1386	interacts with(1)	1
+Nef	1432	interacts with(1)	1
+Nef	1436	deglycosylates(1)	1
+Nef	1437	interacts with(1)	1
+Nef	1535	associates with(1)	1
+Nef	1615	complexes with(1)	1
+Nef	1650	complexes with(1)	1
+Nef	1653	complexes with(1)	1
+Nef	1654	complexes with(1)	1
+Nef	1655	complexes with(1)	1
+Nef	1660	complexes with(1)	1
+Nef	1665	complexes with(1)	1
+Nef	1717	complexes with(1)	1
+Nef	1794	interacts with(1)	1
+Nef	1973	complexes with(1)	1
+Nef	1994	complexes with(1)	1
+Nef	2023	complexes with(1)	1
+Nef	2058	complexes with(1)	1
+Nef	2109	complexes with(1)	1
+Nef	2181	complexes with(1)	1
+Nef	2194	complexes with(1)	1
+Nef	2316	complexes with(1)	1
+Nef	2317	interacts with(1)	1
+Nef	2353	interacts with(1)	1
+Nef	2597	complexes with(1)	1
+Nef	2623	binds(1)	1
+Nef	2625	binds(1)	1
+Nef	2771	interacts with(1)	1
+Nef	2775	binds(1)	1
+Nef	2823	interacts with(1)	1
+Nef	2824	interacts with(1)	1
+Nef	2833	interacts with(1)	1
+Nef	3122	binds(1)	1
+Nef	3125	binds(1)	1
+Nef	3126	binds(1)	1
+Nef	3127	binds(1)	1
+Nef	3162	interacts with(1)	1
+Nef	3178	complexes with(1)	1
+Nef	3181	complexes with(1)	1
+Nef	3182	complexes with(1)	1
+Nef	3183	complexes with(1)	1
+Nef	3184	complexes with(1)	1
+Nef	3185	complexes with(1)	1
+Nef	3187	complexes with(1)	1
+Nef	3188	complexes with(1)	1
+Nef	3189	complexes with(1)	1
+Nef	3192	complexes with(1)	1
+Nef	3295	complexes with(1)	1
+Nef	3297	interacts with(1)	1
+Nef	3305	complexes with(1)	1
+Nef	3306	interacts with(1)	1
+Nef	3308	interacts with(1)	1
+Nef	3310	interacts with(1)	1
+Nef	3376	complexes with(1)	1
+Nef	3383	interacts with(1)	1
+Nef	3419	complexes with(1)	1
+Nef	3553	interacts with(1)	1
+Nef	3558	interacts with(1)	1
+Nef	3600	interacts with(1)	1
+Nef	3608	complexes with(1)	1
+Nef	3609	complexes with(1)	1
+Nef	3646	complexes with(1)	1
+Nef	3683	interacts with(1)	1
+Nef	3684	interacts with(1)	1
+Nef	3688	interacts with(1)	1
+Nef	3708	interacts with(1)	1
+Nef	3725	interacts with(1)	1
+Nef	3837	complexes with(1)	1
+Nef	3916	interacts with(1)	1
+Nef	3937	associates with(1)	1
+Nef	3939	complexes with(1)	1
+Nef	3945	complexes with(1)	1
+Nef	4067	interacts with(1)	1
+Nef	4069	complexes with(1)	1
+Nef	4076	complexes with(1)	1
+Nef	4118	interacts with(1)	1
+Nef	4176	complexes with(1)	1
+Nef	4204	interacts with(1)	1
+Nef	4218	complexes with(1)	1
+Nef	4237	binds(1)	1
+Nef	4343	complexes with(1)	1
+Nef	4670	complexes with(1)	1
+Nef	4690	associates with(1)	1
+Nef	4691	complexes with(1)	1
+Nef	4733	complexes with(1)	1
+Nef	4841	complexes with(1)	1
+Nef	4869	complexes with(1)	1
+Nef	4904	complexes with(1)	1
+Nef	4905	complexes with(1)	1
+Nef	4942	complexes with(1)	1
+Nef	5037	interacts with(1)	1
+Nef	5093	complexes with(1)	1
+Nef	5162	complexes with(1)	1
+Nef	5245	complexes with(1)	1
+Nef	5315	complexes with(1)	1
+Nef	5358	complexes with(1)	1
+Nef	5478	binds(1)	1
+Nef	5566	phosphorylated by(1)	1
+Nef	5567	phosphorylated by(1)	1
+Nef	5568	phosphorylated by(1)	1
+Nef	5573	phosphorylated by(1)	1
+Nef	5575	phosphorylated by(1)	1
+Nef	5576	phosphorylated by(1)	1
+Nef	5577	phosphorylated by(1)	1
+Nef	5583	associates with(1)	1
+Nef	5591	complexes with(1)	1
+Nef	5594	binds(1)	1
+Nef	5603	interacts with(1)	1
+Nef	5610	interacts with(1)	1
+Nef	5692	binds(1)	1
+Nef	5706	complexes with(1)	1
+Nef	5708	complexes with(1)	1
+Nef	5728	interacts with(1)	1
+Nef	5817	interacts with(1)	1
+Nef	5832	complexes with(1)	1
+Nef	5836	complexes with(1)	1
+Nef	5868	interacts with(1)	1
+Nef	5878	complexes with(1)	1
+Nef	5880	interacts with(1)	1
+Nef	5894	binds(1)	1
+Nef	5901	complexes with(1)	1
+Nef	5970	interacts with(1)	1
+Nef	5976	complexes with(1)	1
+Nef	6122	complexes with(1)	1
+Nef	6124	complexes with(1)	1
+Nef	6125	complexes with(1)	1
+Nef	6128	complexes with(1)	1
+Nef	6129	complexes with(1)	1
+Nef	6130	complexes with(1)	1
+Nef	6132	complexes with(1)	1
+Nef	6133	complexes with(1)	1
+Nef	6134	complexes with(1)	1
+Nef	6137	complexes with(1)	1
+Nef	6139	complexes with(1)	1
+Nef	6141	complexes with(1)	1
+Nef	6143	complexes with(1)	1
+Nef	6152	complexes with(1)	1
+Nef	6159	complexes with(1)	1
+Nef	6175	complexes with(1)	1
+Nef	6184	complexes with(1)	1
+Nef	6187	complexes with(1)	1
+Nef	6188	complexes with(1)	1
+Nef	6191	complexes with(1)	1
+Nef	6194	complexes with(1)	1
+Nef	6202	complexes with(1)	1
+Nef	6203	complexes with(1)	1
+Nef	6204	interacts with(1)	1
+Nef	6224	binds(1)	1
+Nef	6294	complexes with(1)	1
+Nef	6389	interacts with(1)	1
+Nef	6421	complexes with(1)	1
+Nef	6426	complexes with(1)	1
+Nef	6429	complexes with(1)	1
+Nef	6432	complexes with(1)	1
+Nef	6640	interacts with(1)	1
+Nef	6641	interacts with(1)	1
+Nef	6645	interacts with(1)	1
+Nef	6709	complexes with(1)	1
+Nef	6730	complexes with(1)	1
+Nef	6731	complexes with(1)	1
+Nef	6780	complexes with(1)	1
+Nef	6885	interacts with(1)	1
+Nef	6950	complexes with(1)	1
+Nef	7006	interacts with(1)	1
+Nef	7102	interacts with(1)	1
+Nef	7124	interacts with(1)	1
+Nef	7277	complexes with(1)	1
+Nef	7431	complexes with(1)	1
+Nef	7791	interacts with(1)	1
+Nef	7841	complexes with(1)	1
+Nef	7846	complexes with(1)	1
+Nef	7879	interacts with(1)	1
+Nef	7919	complexes with(1)	1
+Nef	8106	complexes with(1)	1
+Nef	8243	complexes with(1)	1
+Nef	8402	complexes with(1)	1
+Nef	8570	complexes with(1)	1
+Nef	8661	complexes with(1)	1
+Nef	8664	complexes with(1)	1
+Nef	8726	binds(1)	1
+Nef	8761	complexes with(1)	1
+Nef	8826	complexes with(1)	1
+Nef	8895	complexes with(1)	1
+Nef	9045	complexes with(1)	1
+Nef	9071	interacts with(1)	1
+Nef	9092	complexes with(1)	1
+Nef	9114	complexes with(1)	1
+Nef	9118	complexes with(1)	1
+Nef	9131	complexes with(1)	1
+Nef	9188	complexes with(1)	1
+Nef	9276	interacts with(1)	1
+Nef	9397	myristoylated by(1)	1
+Nef	9416	complexes with(1)	1
+Nef	9482	interacts with(1)	1
+Nef	9588	complexes with(1)	1
+Nef	9625	interacts with(1)	1
+Nef	9631	complexes with(1)	1
+Nef	9648	binds(1)	1
+Nef	9775	complexes with(1)	1
+Nef	9782	complexes with(1)	1
+Nef	9791	complexes with(1)	1
+Nef	9844	interacts with(1)	1
+Nef	10093	complexes with(1)	1
+Nef	10128	complexes with(1)	1
+Nef	10134	interacts with(1)	1
+Nef	10155	complexes with(1)	1
+Nef	10189	complexes with(1)	1
+Nef	10236	complexes with(1)	1
+Nef	10262	complexes with(1)	1
+Nef	10318	binds(1)	1
+Nef	10423	complexes with(1)	1
+Nef	10492	complexes with(1)	1
+Nef	10514	complexes with(1)	1
+Nef	10521	complexes with(1)	1
+Nef	10575	complexes with(1)	1
+Nef	10576	complexes with(1)	1
+Nef	10594	complexes with(1)	1
+Nef	10642	complexes with(1)	1
+Nef	10643	complexes with(1)	1
+Nef	10666	interacts with(1)	1
+Nef	10670	complexes with(1)	1
+Nef	10772	complexes with(1)	1
+Nef	10797	interacts with(1)	1
+Nef	10890	complexes with(1)	1
+Nef	10949	complexes with(1)	1
+Nef	10992	complexes with(1)	1
+Nef	11041	interacts with(1)	1
+Nef	11051	complexes with(1)	1
+Nef	11103	complexes with(1)	1
+Nef	11326	interacts with(1)	1
+Nef	11331	complexes with(1)	1
+Nef	22818	complexes with(1)	1
+Nef	22907	complexes with(1)	1
+Nef	23020	complexes with(1)	1
+Nef	23435	complexes with(1)	1
+Nef	23451	complexes with(1)	1
+Nef	23787	interacts with(1)	1
+Nef	26985	interacts with(1)	1
+Nef	26986	complexes with(1)	1
+Nef	27035	phosphorylates(1)	1
+Nef	27161	interacts with(1)	1
+Nef	27316	complexes with(1)	1
+Nef	29894	complexes with(1)	1
+Nef	29927	complexes with(1)	1
+Nef	30835	interacts with(1)	1
+Nef	51293	interacts with(1)	1
+Nef	51374	interacts with(1)	1
+Nef	51495	complexes with(1)	1
+Nef	51520	complexes with(1)	1
+Nef	51606	binds(1)	1
+Nef	51631	complexes with(1)	1
+Nef	51663	complexes with(1)	1
+Nef	54205	interacts with(1)	1
+Nef	54221	interacts with(1)	1
+Nef	54536	binds(1)	1
+Nef	54681	interacts with(1)	1
+Nef	54901	interacts with(1)	1
+Nef	54940	interacts with(1)	1
+Nef	55037	complexes with(1)	1
+Nef	55054	interacts with(1)	1
+Nef	55379	complexes with(1)	1
+Nef	55660	complexes with(1)	1
+Nef	55661	complexes with(1)	1
+Nef	55922	complexes with(1)	1
+Nef	56254	complexes with(1)	1
+Nef	56937	interacts with(1)	1
+Nef	57187	complexes with(1)	1
+Nef	57222	interacts with(1)	1
+Nef	58477	complexes with(1)	1
+Nef	65109	complexes with(1)	1
+Nef	79869	complexes with(1)	1
+Nef	80755	interacts with(1)	1
+Nef	80777	interacts with(1)	1
+Nef	81608	complexes with(1)	1
+Nef	89849	interacts with(1)	1
+Nef	94081	complexes with(1)	1
+Nef	112574	associates with(1)	1
+Nef	125950	complexes with(1)	1
+Nef	220988	complexes with(1)	1
+Nef	376497	interacts with(1)	1
+nucleocapsid	339	interacts with(1)	1
+nucleocapsid	1739	interacts with(1)	1
+nucleocapsid	3276	interacts with(1)	1
+nucleocapsid	4343	interacts with(1)	1
+nucleocapsid	4600	binds(1)	1
+nucleocapsid	4659	interacts with(1)	1
+nucleocapsid	4809	interacts with(1)	1
+nucleocapsid	4928	binds(1)	1
+nucleocapsid	5478	interacts with(1)	1
+nucleocapsid	6050	interacts with(1)	1
+nucleocapsid	7314	ubiquitinated by(1)	1
+nucleocapsid	7316	ubiquitinated by(1)	1
+nucleocapsid	7812	interacts with(1)	1
+nucleocapsid	8651	binds(1)	1
+nucleocapsid	9972	binds(1)	1
+nucleocapsid	10537	ubiquitinated by(1)	1
+nucleocapsid	10642	interacts with(1)	1
+nucleocapsid	11052	binds(1)	1
+nucleocapsid	11171	interacts with(1)	1
+nucleocapsid	23534	interacts with(1)	1
+nucleocapsid	25930	binds(1)	1
+nucleocapsid	29119	interacts with(1)	1
+nucleocapsid	53840	binds(1)	1
+nucleocapsid	55170	methylated by(1)	1
+nucleocapsid	55623	interacts with(1)	1
+nucleocapsid	57470	interacts with(1)	1
+nucleocapsid	65003	interacts with(1)	1
+nucleocapsid	79159	interacts with(1)	1
+nucleocapsid	85363	binds(1)	1
+nucleocapsid	89853	binds(1)	1
+nucleocapsid	114822	binds(1)	1
+nucleocapsid	117854	binds(1)	1
+nucleocapsid	164668	binds(1)	1
+nucleocapsid	253943	interacts with(1)	1
+p1	7314	ubiquitinated by(1)	1
+p1	7316	ubiquitinated by(1)	1
+p1	10537	ubiquitinated by(1)	1
+p2	7251	interacts with(1)	1
+p6	3958	associates with(1)	1
+p6	5478	binds(1)	1
+p6	5594	phosphorylated by(1)	1
+p6	5595	phosphorylated by(1)	1
+p6	7329	interacts with(1)	1
+p6	7341	interacts with(1)	1
+p6	29082	interacts with(1)	1
+p6	51160	complexes with(1)	1
+p6	60489	interacts with(1)	1
+p6	92421	interacts with(1)	1
+p6	93343	complexes with(1)	1
+p6	128866	interacts with(1)	1
+p6	137492	complexes with(1)	1
+Pol	409	interacts with(1)	1
+Pol	2235	interacts with(1)	1
+Pol	2885	interacts with(1)	1
+Pol	3105	binds(1)	1
+Pol	3329	interacts with(1)	1
+Pol	3419	interacts with(1)	1
+Pol	3646	interacts with(1)	1
+Pol	3959	interacts with(1)	1
+Pol	4173	interacts with(1)	1
+Pol	4175	interacts with(1)	1
+Pol	4176	interacts with(1)	1
+Pol	5451	interacts with(1)	1
+Pol	5452	interacts with(1)	1
+Pol	5516	interacts with(1)	1
+Pol	5954	interacts with(1)	1
+Pol	5965	interacts with(1)	1
+Pol	6241	interacts with(1)	1
+Pol	6667	interacts with(1)	1
+Pol	6670	interacts with(1)	1
+Pol	6688	interacts with(1)	1
+Pol	7306	interacts with(1)	1
+Pol	8607	interacts with(1)	1
+Pol	8661	interacts with(1)	1
+Pol	8662	interacts with(1)	1
+Pol	8663	interacts with(1)	1
+Pol	8664	interacts with(1)	1
+Pol	8665	interacts with(1)	1
+Pol	8666	interacts with(1)	1
+Pol	8667	interacts with(1)	1
+Pol	8668	interacts with(1)	1
+Pol	8801	interacts with(1)	1
+Pol	8994	interacts with(1)	1
+Pol	9601	interacts with(1)	1
+Pol	10130	interacts with(1)	1
+Pol	10527	interacts with(1)	1
+Pol	10726	interacts with(1)	1
+Pol	11168	interacts with(1)	1
+Pol	23304	interacts with(1)	1
+Pol	23352	interacts with(1)	1
+Pol	26031	interacts with(1)	1
+Pol	27247	interacts with(1)	1
+Pol	27335	interacts with(1)	1
+Pol	29882	interacts with(1)	1
+Pol	51386	interacts with(1)	1
+Pol	53918	interacts with(1)	1
+Pol	55054	interacts with(1)	1
+Pol	57805	interacts with(1)	1
+Pol	89849	interacts with(1)	1
+Pol	200316	interacts with(1)	1
+Pol	219743	interacts with(1)	1
+Pr55(Gag)	32	interacts with(1)	1
+Pr55(Gag)	47	complexes with(1)	1
+Pr55(Gag)	102	interacts with(1)	1
+Pr55(Gag)	160	binds(1)	1
+Pr55(Gag)	161	binds(1)	1
+Pr55(Gag)	163	binds(1)	1
+Pr55(Gag)	286	binds(1)	1
+Pr55(Gag)	292	complexes with(1)	1
+Pr55(Gag)	302	interacts with(1)	1
+Pr55(Gag)	350	binds(1)	1
+Pr55(Gag)	369	interacts with(1)	1
+Pr55(Gag)	375	interacts with(1)	1
+Pr55(Gag)	378	complexes with(1)	1
+Pr55(Gag)	381	complexes with(1)	1
+Pr55(Gag)	382	complexes with(1)	1
+Pr55(Gag)	400	complexes with(1)	1
+Pr55(Gag)	498	complexes with(1)	1
+Pr55(Gag)	509	complexes with(1)	1
+Pr55(Gag)	539	complexes with(1)	1
+Pr55(Gag)	790	complexes with(1)	1
+Pr55(Gag)	821	complexes with(1)	1
+Pr55(Gag)	836	interacts with(1)	1
+Pr55(Gag)	871	complexes with(1)	1
+Pr55(Gag)	928	interacts with(1)	1
+Pr55(Gag)	958	interacts with(1)	1
+Pr55(Gag)	959	interacts with(1)	1
+Pr55(Gag)	966	associates with(1)	1
+Pr55(Gag)	983	interacts with(1)	1
+Pr55(Gag)	988	complexes with(1)	1
+Pr55(Gag)	1020	interacts with(1)	1
+Pr55(Gag)	1107	interacts with(1)	1
+Pr55(Gag)	1175	binds(1)	1
+Pr55(Gag)	1176	complexes with(1)	1
+Pr55(Gag)	1213	complexes with(1)	1
+Pr55(Gag)	1314	complexes with(1)	1
+Pr55(Gag)	1615	complexes with(1)	1
+Pr55(Gag)	1650	complexes with(1)	1
+Pr55(Gag)	1653	complexes with(1)	1
+Pr55(Gag)	1654	complexes with(1)	1
+Pr55(Gag)	1656	associates with(1)	1
+Pr55(Gag)	1665	complexes with(1)	1
+Pr55(Gag)	1717	complexes with(1)	1
+Pr55(Gag)	1785	complexes with(1)	1
+Pr55(Gag)	1936	complexes with(1)	1
+Pr55(Gag)	1937	complexes with(1)	1
+Pr55(Gag)	1973	complexes with(1)	1
+Pr55(Gag)	1994	complexes with(1)	1
+Pr55(Gag)	2023	complexes with(1)	1
+Pr55(Gag)	2051	interacts with(1)	1
+Pr55(Gag)	2058	complexes with(1)	1
+Pr55(Gag)	2109	complexes with(1)	1
+Pr55(Gag)	2181	complexes with(1)	1
+Pr55(Gag)	2194	complexes with(1)	1
+Pr55(Gag)	2332	interacts with(1)	1
+Pr55(Gag)	2483	interacts with(1)	1
+Pr55(Gag)	2645	interacts with(1)	1
+Pr55(Gag)	2980	interacts with(1)	1
+Pr55(Gag)	3007	associates with(1)	1
+Pr55(Gag)	3009	associates with(1)	1
+Pr55(Gag)	3012	associates with(1)	1
+Pr55(Gag)	3123	interacts with(1)	1
+Pr55(Gag)	3178	complexes with(1)	1
+Pr55(Gag)	3181	complexes with(1)	1
+Pr55(Gag)	3182	complexes with(1)	1
+Pr55(Gag)	3183	complexes with(1)	1
+Pr55(Gag)	3184	associates with(1)	1
+Pr55(Gag)	3185	complexes with(1)	1
+Pr55(Gag)	3187	complexes with(1)	1
+Pr55(Gag)	3188	complexes with(1)	1
+Pr55(Gag)	3189	complexes with(1)	1
+Pr55(Gag)	3190	complexes with(1)	1
+Pr55(Gag)	3192	complexes with(1)	1
+Pr55(Gag)	3276	interacts with(1)	1
+Pr55(Gag)	3295	complexes with(1)	1
+Pr55(Gag)	3303	complexes with(1)	1
+Pr55(Gag)	3304	complexes with(1)	1
+Pr55(Gag)	3305	complexes with(1)	1
+Pr55(Gag)	3309	complexes with(1)	1
+Pr55(Gag)	3312	complexes with(1)	1
+Pr55(Gag)	3313	complexes with(1)	1
+Pr55(Gag)	3329	complexes with(1)	1
+Pr55(Gag)	3376	complexes with(1)	1
+Pr55(Gag)	3383	interacts with(1)	1
+Pr55(Gag)	3419	complexes with(1)	1
+Pr55(Gag)	3428	interacts with(1)	1
+Pr55(Gag)	3608	complexes with(1)	1
+Pr55(Gag)	3609	complexes with(1)	1
+Pr55(Gag)	3646	complexes with(1)	1
+Pr55(Gag)	3803	binds(1)	1
+Pr55(Gag)	3932	interacts with(1)	1
+Pr55(Gag)	3939	complexes with(1)	1
+Pr55(Gag)	3945	complexes with(1)	1
+Pr55(Gag)	3959	binds(1)	1
+Pr55(Gag)	4069	complexes with(1)	1
+Pr55(Gag)	4076	complexes with(1)	1
+Pr55(Gag)	4134	interacts with(1)	1
+Pr55(Gag)	4141	interacts with(1)	1
+Pr55(Gag)	4176	complexes with(1)	1
+Pr55(Gag)	4179	associates with(1)	1
+Pr55(Gag)	4218	complexes with(1)	1
+Pr55(Gag)	4593	interacts with(1)	1
+Pr55(Gag)	4627	interacts with(1)	1
+Pr55(Gag)	4628	interacts with(1)	1
+Pr55(Gag)	4637	interacts with(1)	1
+Pr55(Gag)	4670	complexes with(1)	1
+Pr55(Gag)	4733	complexes with(1)	1
+Pr55(Gag)	4751	interacts with(1)	1
+Pr55(Gag)	4841	complexes with(1)	1
+Pr55(Gag)	4869	complexes with(1)	1
+Pr55(Gag)	4904	complexes with(1)	1
+Pr55(Gag)	4905	complexes with(1)	1
+Pr55(Gag)	4942	complexes with(1)	1
+Pr55(Gag)	5093	complexes with(1)	1
+Pr55(Gag)	5162	complexes with(1)	1
+Pr55(Gag)	5245	complexes with(1)	1
+Pr55(Gag)	5265	interacts with(1)	1
+Pr55(Gag)	5315	complexes with(1)	1
+Pr55(Gag)	5347	interacts with(1)	1
+Pr55(Gag)	5358	complexes with(1)	1
+Pr55(Gag)	5394	interacts with(1)	1
+Pr55(Gag)	5478	binds(1)	1
+Pr55(Gag)	5586	interacts with(1)	1
+Pr55(Gag)	5591	complexes with(1)	1
+Pr55(Gag)	5601	interacts with(1)	1
+Pr55(Gag)	5603	interacts with(1)	1
+Pr55(Gag)	5610	interacts with(1)	1
+Pr55(Gag)	5681	interacts with(1)	1
+Pr55(Gag)	5706	complexes with(1)	1
+Pr55(Gag)	5708	complexes with(1)	1
+Pr55(Gag)	5832	complexes with(1)	1
+Pr55(Gag)	5836	complexes with(1)	1
+Pr55(Gag)	5859	interacts with(1)	1
+Pr55(Gag)	5878	complexes with(1)	1
+Pr55(Gag)	5901	complexes with(1)	1
+Pr55(Gag)	5917	interacts with(1)	1
+Pr55(Gag)	5976	complexes with(1)	1
+Pr55(Gag)	6122	complexes with(1)	1
+Pr55(Gag)	6124	complexes with(1)	1
+Pr55(Gag)	6125	complexes with(1)	1
+Pr55(Gag)	6128	complexes with(1)	1
+Pr55(Gag)	6129	complexes with(1)	1
+Pr55(Gag)	6130	complexes with(1)	1
+Pr55(Gag)	6132	complexes with(1)	1
+Pr55(Gag)	6133	complexes with(1)	1
+Pr55(Gag)	6134	complexes with(1)	1
+Pr55(Gag)	6135	interacts with(1)	1
+Pr55(Gag)	6137	complexes with(1)	1
+Pr55(Gag)	6139	complexes with(1)	1
+Pr55(Gag)	6141	complexes with(1)	1
+Pr55(Gag)	6143	complexes with(1)	1
+Pr55(Gag)	6152	complexes with(1)	1
+Pr55(Gag)	6157	interacts with(1)	1
+Pr55(Gag)	6158	interacts with(1)	1
+Pr55(Gag)	6164	interacts with(1)	1
+Pr55(Gag)	6168	interacts with(1)	1
+Pr55(Gag)	6173	interacts with(1)	1
+Pr55(Gag)	6175	complexes with(1)	1
+Pr55(Gag)	6184	complexes with(1)	1
+Pr55(Gag)	6191	complexes with(1)	1
+Pr55(Gag)	6193	interacts with(1)	1
+Pr55(Gag)	6199	interacts with(1)	1
+Pr55(Gag)	6202	complexes with(1)	1
+Pr55(Gag)	6203	complexes with(1)	1
+Pr55(Gag)	6217	interacts with(1)	1
+Pr55(Gag)	6294	complexes with(1)	1
+Pr55(Gag)	6351	interacts with(1)	1
+Pr55(Gag)	6421	complexes with(1)	1
+Pr55(Gag)	6426	complexes with(1)	1
+Pr55(Gag)	6429	complexes with(1)	1
+Pr55(Gag)	6432	complexes with(1)	1
+Pr55(Gag)	6449	interacts with(1)	1
+Pr55(Gag)	6614	interacts with(1)	1
+Pr55(Gag)	6651	interacts with(1)	1
+Pr55(Gag)	6709	complexes with(1)	1
+Pr55(Gag)	6727	interacts with(1)	1
+Pr55(Gag)	6730	complexes with(1)	1
+Pr55(Gag)	6731	complexes with(1)	1
+Pr55(Gag)	6737	interacts with(1)	1
+Pr55(Gag)	6850	interacts with(1)	1
+Pr55(Gag)	6949	interacts with(1)	1
+Pr55(Gag)	6950	complexes with(1)	1
+Pr55(Gag)	7037	interacts with(1)	1
+Pr55(Gag)	7048	interacts with(1)	1
+Pr55(Gag)	7124	interacts with(1)	1
+Pr55(Gag)	7157	interacts with(1)	1
+Pr55(Gag)	7278	interacts with(1)	1
+Pr55(Gag)	7280	interacts with(1)	1
+Pr55(Gag)	7283	interacts with(1)	1
+Pr55(Gag)	7431	complexes with(1)	1
+Pr55(Gag)	7444	interacts with(1)	1
+Pr55(Gag)	7706	interacts with(1)	1
+Pr55(Gag)	7841	complexes with(1)	1
+Pr55(Gag)	7919	complexes with(1)	1
+Pr55(Gag)	7965	interacts with(1)	1
+Pr55(Gag)	8087	interacts with(1)	1
+Pr55(Gag)	8106	complexes with(1)	1
+Pr55(Gag)	8243	complexes with(1)	1
+Pr55(Gag)	8358	interacts with(1)	1
+Pr55(Gag)	8402	complexes with(1)	1
+Pr55(Gag)	8500	interacts with(1)	1
+Pr55(Gag)	8570	complexes with(1)	1
+Pr55(Gag)	8651	binds(1)	1
+Pr55(Gag)	8661	complexes with(1)	1
+Pr55(Gag)	8664	complexes with(1)	1
+Pr55(Gag)	8761	complexes with(1)	1
+Pr55(Gag)	8815	binds(1)	1
+Pr55(Gag)	8826	complexes with(1)	1
+Pr55(Gag)	8888	interacts with(1)	1
+Pr55(Gag)	8895	complexes with(1)	1
+Pr55(Gag)	9045	complexes with(1)	1
+Pr55(Gag)	9114	complexes with(1)	1
+Pr55(Gag)	9118	complexes with(1)	1
+Pr55(Gag)	9131	complexes with(1)	1
+Pr55(Gag)	9188	complexes with(1)	1
+Pr55(Gag)	9255	interacts with(1)	1
+Pr55(Gag)	9416	complexes with(1)	1
+Pr55(Gag)	9588	complexes with(1)	1
+Pr55(Gag)	9631	complexes with(1)	1
+Pr55(Gag)	9636	complexes with(1)	1
+Pr55(Gag)	9669	interacts with(1)	1
+Pr55(Gag)	9730	interacts with(1)	1
+Pr55(Gag)	9775	complexes with(1)	1
+Pr55(Gag)	9782	complexes with(1)	1
+Pr55(Gag)	9791	complexes with(1)	1
+Pr55(Gag)	9967	interacts with(1)	1
+Pr55(Gag)	10059	interacts with(1)	1
+Pr55(Gag)	10093	complexes with(1)	1
+Pr55(Gag)	10128	complexes with(1)	1
+Pr55(Gag)	10155	complexes with(1)	1
+Pr55(Gag)	10189	complexes with(1)	1
+Pr55(Gag)	10198	interacts with(1)	1
+Pr55(Gag)	10211	interacts with(1)	1
+Pr55(Gag)	10236	complexes with(1)	1
+Pr55(Gag)	10253	interacts with(1)	1
+Pr55(Gag)	10262	complexes with(1)	1
+Pr55(Gag)	10346	interacts with(1)	1
+Pr55(Gag)	10376	interacts with(1)	1
+Pr55(Gag)	10381	interacts with(1)	1
+Pr55(Gag)	10382	interacts with(1)	1
+Pr55(Gag)	10383	interacts with(1)	1
+Pr55(Gag)	10399	complexes with(1)	1
+Pr55(Gag)	10423	complexes with(1)	1
+Pr55(Gag)	10492	complexes with(1)	1
+Pr55(Gag)	10514	complexes with(1)	1
+Pr55(Gag)	10527	complexes with(1)	1
+Pr55(Gag)	10553	interacts with(1)	1
+Pr55(Gag)	10575	complexes with(1)	1
+Pr55(Gag)	10576	complexes with(1)	1
+Pr55(Gag)	10577	interacts with(1)	1
+Pr55(Gag)	10594	complexes with(1)	1
+Pr55(Gag)	10625	interacts with(1)	1
+Pr55(Gag)	10643	complexes with(1)	1
+Pr55(Gag)	10644	interacts with(1)	1
+Pr55(Gag)	10670	complexes with(1)	1
+Pr55(Gag)	10772	complexes with(1)	1
+Pr55(Gag)	10890	complexes with(1)	1
+Pr55(Gag)	10949	complexes with(1)	1
+Pr55(Gag)	10992	complexes with(1)	1
+Pr55(Gag)	11051	complexes with(1)	1
+Pr55(Gag)	11074	interacts with(1)	1
+Pr55(Gag)	11103	complexes with(1)	1
+Pr55(Gag)	11224	interacts with(1)	1
+Pr55(Gag)	11267	interacts with(1)	1
+Pr55(Gag)	11273	interacts with(1)	1
+Pr55(Gag)	11331	complexes with(1)	1
+Pr55(Gag)	11345	interacts with(1)	1
+Pr55(Gag)	22803	interacts with(1)	1
+Pr55(Gag)	22818	complexes with(1)	1
+Pr55(Gag)	22907	complexes with(1)	1
+Pr55(Gag)	23020	complexes with(1)	1
+Pr55(Gag)	23086	interacts with(1)	1
+Pr55(Gag)	23215	interacts with(1)	1
+Pr55(Gag)	23367	interacts with(1)	1
+Pr55(Gag)	23405	interacts with(1)	1
+Pr55(Gag)	23435	complexes with(1)	1
+Pr55(Gag)	23451	complexes with(1)	1
+Pr55(Gag)	23524	interacts with(1)	1
+Pr55(Gag)	25939	interacts with(1)	1
+Pr55(Gag)	26523	interacts with(1)	1
+Pr55(Gag)	26986	complexes with(1)	1
+Pr55(Gag)	27044	interacts with(1)	1
+Pr55(Gag)	27246	interacts with(1)	1
+Pr55(Gag)	27316	complexes with(1)	1
+Pr55(Gag)	27350	interacts with(1)	1
+Pr55(Gag)	29789	interacts with(1)	1
+Pr55(Gag)	29890	interacts with(1)	1
+Pr55(Gag)	29894	complexes with(1)	1
+Pr55(Gag)	29927	complexes with(1)	1
+Pr55(Gag)	29959	interacts with(1)	1
+Pr55(Gag)	51091	interacts with(1)	1
+Pr55(Gag)	51191	interacts with(1)	1
+Pr55(Gag)	51421	binds(1)	1
+Pr55(Gag)	51495	complexes with(1)	1
+Pr55(Gag)	51520	complexes with(1)	1
+Pr55(Gag)	51631	complexes with(1)	1
+Pr55(Gag)	51652	interacts with(1)	1
+Pr55(Gag)	51663	complexes with(1)	1
+Pr55(Gag)	54555	interacts with(1)	1
+Pr55(Gag)	54665	interacts with(1)	1
+Pr55(Gag)	54888	interacts with(1)	1
+Pr55(Gag)	54986	interacts with(1)	1
+Pr55(Gag)	55037	complexes with(1)	1
+Pr55(Gag)	55223	interacts with(1)	1
+Pr55(Gag)	55361	interacts with(1)	1
+Pr55(Gag)	55379	complexes with(1)	1
+Pr55(Gag)	55660	complexes with(1)	1
+Pr55(Gag)	55661	complexes with(1)	1
+Pr55(Gag)	55802	interacts with(1)	1
+Pr55(Gag)	55922	complexes with(1)	1
+Pr55(Gag)	56254	complexes with(1)	1
+Pr55(Gag)	56829	interacts with(1)	1
+Pr55(Gag)	56922	interacts with(1)	1
+Pr55(Gag)	57187	complexes with(1)	1
+Pr55(Gag)	57508	interacts with(1)	1
+Pr55(Gag)	57630	interacts with(1)	1
+Pr55(Gag)	58477	complexes with(1)	1
+Pr55(Gag)	59067	interacts with(1)	1
+Pr55(Gag)	64783	interacts with(1)	1
+Pr55(Gag)	65109	complexes with(1)	1
+Pr55(Gag)	79029	interacts with(1)	1
+Pr55(Gag)	79869	complexes with(1)	1
+Pr55(Gag)	81559	interacts with(1)	1
+Pr55(Gag)	81608	complexes with(1)	1
+Pr55(Gag)	81627	interacts with(1)	1
+Pr55(Gag)	83547	processed by(1)	1
+Pr55(Gag)	83931	interacts with(1)	1
+Pr55(Gag)	83987	is polyubiquitinylated by(1)	1
+Pr55(Gag)	84313	interacts with(1)	1
+Pr55(Gag)	84365	associates with(1)	1
+Pr55(Gag)	84557	fractionates with(1)	1
+Pr55(Gag)	84790	interacts with(1)	1
+Pr55(Gag)	84868	interacts with(1)	1
+Pr55(Gag)	84991	interacts with(1)	1
+Pr55(Gag)	85364	interacts with(1)	1
+Pr55(Gag)	89870	interacts with(1)	1
+Pr55(Gag)	92421	interacts with(1)	1
+Pr55(Gag)	94081	complexes with(1)	1
+Pr55(Gag)	94120	interacts with(1)	1
+Pr55(Gag)	118987	binds(1)	1
+Pr55(Gag)	124801	interacts with(1)	1
+Pr55(Gag)	125950	complexes with(1)	1
+Pr55(Gag)	154796	binds(1)	1
+Pr55(Gag)	154810	binds(1)	1
+Pr55(Gag)	164668	interacts with(1)	1
+Pr55(Gag)	167227	associates with(1)	1
+Pr55(Gag)	196513	interacts with(1)	1
+Pr55(Gag)	203068	interacts with(1)	1
+Pr55(Gag)	220988	complexes with(1)	1
+Pr55(Gag)	222194	interacts with(1)	1
+Pr55(Gag)	285643	binds(1)	1
+Pr55(Gag)	389421	interacts with(1)	1
+retropepsin	143	interacts with(1)	1
+retropepsin	191	interacts with(1)	1
+retropepsin	409	interacts with(1)	1
+retropepsin	581	interacts with(1)	1
+retropepsin	596	interacts with(1)	1
+retropepsin	1457	phosphorylated by(1)	1
+retropepsin	1459	phosphorylated by(1)	1
+retropepsin	1460	phosphorylated by(1)	1
+retropepsin	1471	interacts with(1)	1
+retropepsin	1729	interacts with(1)	1
+retropepsin	1796	interacts with(1)	1
+retropepsin	2288	interacts with(1)	1
+retropepsin	2296	interacts with(1)	1
+retropepsin	2580	interacts with(1)	1
+retropepsin	2800	interacts with(1)	1
+retropepsin	3646	interacts with(1)	1
+retropepsin	4170	interacts with(1)	1
+retropepsin	4436	interacts with(1)	1
+retropepsin	5426	interacts with(1)	1
+retropepsin	6301	interacts with(1)	1
+retropepsin	7227	interacts with(1)	1
+retropepsin	7411	interacts with(1)	1
+retropepsin	7416	interacts with(1)	1
+retropepsin	7840	interacts with(1)	1
+retropepsin	8661	interacts with(1)	1
+retropepsin	8662	interacts with(1)	1
+retropepsin	8663	interacts with(1)	1
+retropepsin	8664	interacts with(1)	1
+retropepsin	8665	interacts with(1)	1
+retropepsin	8667	interacts with(1)	1
+retropepsin	8737	binds(1)	1
+retropepsin	8767	binds(1)	1
+retropepsin	8924	interacts with(1)	1
+retropepsin	8994	interacts with(1)	1
+retropepsin	10142	interacts with(1)	1
+retropepsin	10269	interacts with(1)	1
+retropepsin	10480	interacts with(1)	1
+retropepsin	10498	interacts with(1)	1
+retropepsin	10534	interacts with(1)	1
+retropepsin	10725	interacts with(1)	1
+retropepsin	10946	interacts with(1)	1
+retropepsin	23293	interacts with(1)	1
+retropepsin	23299	interacts with(1)	1
+retropepsin	23365	interacts with(1)	1
+retropepsin	23369	interacts with(1)	1
+retropepsin	26031	interacts with(1)	1
+retropepsin	26502	interacts with(1)	1
+retropepsin	27247	interacts with(1)	1
+retropepsin	27335	interacts with(1)	1
+retropepsin	29882	interacts with(1)	1
+retropepsin	51236	interacts with(1)	1
+retropepsin	51386	interacts with(1)	1
+retropepsin	54107	interacts with(1)	1
+retropepsin	54205	interacts with(1)	1
+retropepsin	55764	interacts with(1)	1
+retropepsin	56655	interacts with(1)	1
+retropepsin	56672	interacts with(1)	1
+retropepsin	56993	interacts with(1)	1
+retropepsin	57805	interacts with(1)	1
+retropepsin	64682	interacts with(1)	1
+retropepsin	80308	interacts with(1)	1
+retropepsin	83475	interacts with(1)	1
+retropepsin	83481	interacts with(1)	1
+retropepsin	96459	interacts with(1)	1
+retropepsin	114880	interacts with(1)	1
+retropepsin	201163	interacts with(1)	1
+retropepsin	256364	interacts with(1)	1
+Rev	23	interacts with(1)	1
+Rev	103	interacts with(1)	1
+Rev	328	interacts with(1)	1
+Rev	488	interacts with(1)	1
+Rev	811	interacts with(1)	1
+Rev	983	phosphorylated by(1)	1
+Rev	988	interacts with(1)	1
+Rev	1478	interacts with(1)	1
+Rev	1479	interacts with(1)	1
+Rev	1642	interacts with(1)	1
+Rev	1778	interacts with(1)	1
+Rev	1915	interacts with(1)	1
+Rev	1968	interacts with(1)	1
+Rev	2079	interacts with(1)	1
+Rev	2130	interacts with(1)	1
+Rev	2197	interacts with(1)	1
+Rev	2521	interacts with(1)	1
+Rev	2597	interacts with(1)	1
+Rev	3017	interacts with(1)	1
+Rev	3018	interacts with(1)	1
+Rev	3021	interacts with(1)	1
+Rev	3099	interacts with(1)	1
+Rev	3106	interacts with(1)	1
+Rev	3107	interacts with(1)	1
+Rev	3181	interacts with(1)	1
+Rev	3182	interacts with(1)	1
+Rev	3183	interacts with(1)	1
+Rev	3184	interacts with(1)	1
+Rev	3185	interacts with(1)	1
+Rev	3187	interacts with(1)	1
+Rev	3188	interacts with(1)	1
+Rev	3189	interacts with(1)	1
+Rev	3550	interacts with(1)	1
+Rev	3608	interacts with(1)	1
+Rev	3835	binds(1)	1
+Rev	3836	interacts with(1)	1
+Rev	3838	interacts with(1)	1
+Rev	3840	interacts with(1)	1
+Rev	3843	binds(1)	1
+Rev	3921	interacts with(1)	1
+Rev	3980	interacts with(1)	1
+Rev	4000	binds(1)	1
+Rev	4076	interacts with(1)	1
+Rev	4236	interacts with(1)	1
+Rev	4343	interacts with(1)	1
+Rev	4350	interacts with(1)	1
+Rev	4670	interacts with(1)	1
+Rev	4676	interacts with(1)	1
+Rev	4677	interacts with(1)	1
+Rev	4898	interacts with(1)	1
+Rev	5034	interacts with(1)	1
+Rev	5093	interacts with(1)	1
+Rev	5094	interacts with(1)	1
+Rev	5211	interacts with(1)	1
+Rev	5214	interacts with(1)	1
+Rev	5351	interacts with(1)	1
+Rev	5356	interacts with(1)	1
+Rev	5445	interacts with(1)	1
+Rev	5479	interacts with(1)	1
+Rev	5520	interacts with(1)	1
+Rev	5537	interacts with(1)	1
+Rev	5578	phosphorylated by(1)	1
+Rev	5591	interacts with(1)	1
+Rev	5594	phosphorylated by(1)	1
+Rev	5595	phosphorylated by(1)	1
+Rev	5725	interacts with(1)	1
+Rev	5757	binds(1)	1
+Rev	5813	interacts with(1)	1
+Rev	5814	interacts with(1)	1
+Rev	5905	interacts with(1)	1
+Rev	5965	interacts with(1)	1
+Rev	6122	interacts with(1)	1
+Rev	6125	interacts with(1)	1
+Rev	6128	interacts with(1)	1
+Rev	6139	interacts with(1)	1
+Rev	6155	interacts with(1)	1
+Rev	6161	interacts with(1)	1
+Rev	6165	interacts with(1)	1
+Rev	6187	interacts with(1)	1
+Rev	6189	interacts with(1)	1
+Rev	6191	interacts with(1)	1
+Rev	6193	interacts with(1)	1
+Rev	6194	interacts with(1)	1
+Rev	6218	interacts with(1)	1
+Rev	6228	interacts with(1)	1
+Rev	6230	interacts with(1)	1
+Rev	6233	interacts with(1)	1
+Rev	6294	interacts with(1)	1
+Rev	6418	interacts with(1)	1
+Rev	6421	interacts with(1)	1
+Rev	6426	interacts with(1)	1
+Rev	6625	interacts with(1)	1
+Rev	6631	interacts with(1)	1
+Rev	6635	interacts with(1)	1
+Rev	6636	interacts with(1)	1
+Rev	6637	interacts with(1)	1
+Rev	6709	interacts with(1)	1
+Rev	6711	interacts with(1)	1
+Rev	6726	interacts with(1)	1
+Rev	6729	interacts with(1)	1
+Rev	6742	interacts with(1)	1
+Rev	7184	interacts with(1)	1
+Rev	7277	interacts with(1)	1
+Rev	7280	interacts with(1)	1
+Rev	7307	interacts with(1)	1
+Rev	7314	ubiquitinated by(1)	1
+Rev	7316	ubiquitinated by(1)	1
+Rev	7846	interacts with(1)	1
+Rev	8175	interacts with(1)	1
+Rev	8341	interacts with(1)	1
+Rev	8342	interacts with(1)	1
+Rev	8345	interacts with(1)	1
+Rev	8347	interacts with(1)	1
+Rev	8349	interacts with(1)	1
+Rev	8359	interacts with(1)	1
+Rev	8450	interacts with(1)	1
+Rev	8451	interacts with(1)	1
+Rev	8575	binds(1)	1
+Rev	8607	interacts with(1)	1
+Rev	8668	interacts with(1)	1
+Rev	8683	interacts with(1)	1
+Rev	8894	interacts with(1)	1
+Rev	8899	interacts with(1)	1
+Rev	9188	interacts with(1)	1
+Rev	9319	interacts with(1)	1
+Rev	9349	interacts with(1)	1
+Rev	9410	interacts with(1)	1
+Rev	9584	interacts with(1)	1
+Rev	9972	interacts with(1)	1
+Rev	9987	interacts with(1)	1
+Rev	10075	interacts with(1)	1
+Rev	10291	interacts with(1)	1
+Rev	10376	interacts with(1)	1
+Rev	10381	interacts with(1)	1
+Rev	10382	interacts with(1)	1
+Rev	10383	interacts with(1)	1
+Rev	10399	interacts with(1)	1
+Rev	10432	associates with(1)	1
+Rev	10436	interacts with(1)	1
+Rev	10456	binds(1)	1
+Rev	10480	interacts with(1)	1
+Rev	10514	interacts with(1)	1
+Rev	10527	interacts with(1)	1
+Rev	10537	ubiquitinated by(1)	1
+Rev	10594	interacts with(1)	1
+Rev	10642	interacts with(1)	1
+Rev	10657	binds(1)	1
+Rev	10713	interacts with(1)	1
+Rev	10728	interacts with(1)	1
+Rev	10885	interacts with(1)	1
+Rev	10923	interacts with(1)	1
+Rev	10946	interacts with(1)	1
+Rev	10963	interacts with(1)	1
+Rev	10972	interacts with(1)	1
+Rev	11052	interacts with(1)	1
+Rev	11103	binds(1)	1
+Rev	11198	interacts with(1)	1
+Rev	11284	interacts with(1)	1
+Rev	11321	interacts with(1)	1
+Rev	22905	interacts with(1)	1
+Rev	22984	interacts with(1)	1
+Rev	22985	interacts with(1)	1
+Rev	23016	interacts with(1)	1
+Rev	23020	interacts with(1)	1
+Rev	23352	interacts with(1)	1
+Rev	23517	interacts with(1)	1
+Rev	23534	binds(1)	1
+Rev	23633	interacts with(1)	1
+Rev	23636	interacts with(1)	1
+Rev	24148	interacts with(1)	1
+Rev	25836	interacts with(1)	1
+Rev	26121	interacts with(1)	1
+Rev	26528	interacts with(1)	1
+Rev	27067	interacts with(1)	1
+Rev	27339	interacts with(1)	1
+Rev	28957	interacts with(1)	1
+Rev	28977	interacts with(1)	1
+Rev	29969	interacts with(1)	1
+Rev	51013	interacts with(1)	1
+Rev	51202	interacts with(1)	1
+Rev	51493	interacts with(1)	1
+Rev	51602	interacts with(1)	1
+Rev	51637	interacts with(1)	1
+Rev	51807	interacts with(1)	1
+Rev	53981	interacts with(1)	1
+Rev	54606	interacts with(1)	1
+Rev	54732	interacts with(1)	1
+Rev	54865	interacts with(1)	1
+Rev	55133	interacts with(1)	1
+Rev	55226	interacts with(1)	1
+Rev	55234	interacts with(1)	1
+Rev	55269	interacts with(1)	1
+Rev	55766	interacts with(1)	1
+Rev	55844	interacts with(1)	1
+Rev	56342	interacts with(1)	1
+Rev	56915	interacts with(1)	1
+Rev	57380	interacts with(1)	1
+Rev	64783	interacts with(1)	1
+Rev	64802	interacts with(1)	1
+Rev	64965	interacts with(1)	1
+Rev	65003	interacts with(1)	1
+Rev	65244	interacts with(1)	1
+Rev	79074	interacts with(1)	1
+Rev	79171	interacts with(1)	1
+Rev	79228	interacts with(1)	1
+Rev	79869	interacts with(1)	1
+Rev	81611	interacts with(1)	1
+Rev	81627	interacts with(1)	1
+Rev	84790	interacts with(1)	1
+Rev	94104	interacts with(1)	1
+Rev	96764	associates with(1)	1
+Rev	114034	interacts with(1)	1
+Rev	118487	interacts with(1)	1
+Rev	128312	interacts with(1)	1
+Rev	129531	interacts with(1)	1
+Rev	134430	interacts with(1)	1
+Rev	161424	interacts with(1)	1
+Rev	170506	interacts with(1)	1
+Rev	203068	interacts with(1)	1
+Rev	220988	interacts with(1)	1
+Rev	222068	interacts with(1)	1
+Rev	253725	interacts with(1)	1
+Rev	283742	interacts with(1)	1
+Rev	347733	interacts with(1)	1
+Rev	387680	interacts with(1)	1
+Rev	440689	interacts with(1)	1
+Rev	692312	interacts with(1)	1
+reverse transcriptase	58	interacts with(1)	1
+reverse transcriptase	59	interacts with(1)	1
+reverse transcriptase	60	binds(1)	1
+reverse transcriptase	70	interacts with(1)	1
+reverse transcriptase	71	interacts with(1)	1
+reverse transcriptase	72	interacts with(1)	1
+reverse transcriptase	1437	interacts with(1)	1
+reverse transcriptase	1457	phosphorylated by(1)	1
+reverse transcriptase	1459	phosphorylated by(1)	1
+reverse transcriptase	1460	phosphorylated by(1)	1
+reverse transcriptase	2332	associates with(1)	1
+reverse transcriptase	2885	interacts with(1)	1
+reverse transcriptase	3329	interacts with(1)	1
+reverse transcriptase	3383	interacts with(1)	1
+reverse transcriptase	3553	interacts with(1)	1
+reverse transcriptase	3576	interacts with(1)	1
+reverse transcriptase	3735	interacts with(1)	1
+reverse transcriptase	4691	fractionates with(1)	1
+reverse transcriptase	4830	complexes with(1)	1
+reverse transcriptase	5286	phosphorylated by(1)	1
+reverse transcriptase	5578	phosphorylated by(1)	1
+reverse transcriptase	5579	phosphorylated by(1)	1
+reverse transcriptase	5580	phosphorylated by(1)	1
+reverse transcriptase	5581	phosphorylated by(1)	1
+reverse transcriptase	5582	phosphorylated by(1)	1
+reverse transcriptase	5583	phosphorylated by(1)	1
+reverse transcriptase	5584	phosphorylated by(1)	1
+reverse transcriptase	5588	phosphorylated by(1)	1
+reverse transcriptase	5590	phosphorylated by(1)	1
+reverse transcriptase	5594	interacts with(1)	1
+reverse transcriptase	5595	interacts with(1)	1
+reverse transcriptase	5604	interacts with(1)	1
+reverse transcriptase	6300	interacts with(1)	1
+reverse transcriptase	6714	interacts with(1)	1
+reverse transcriptase	7157	interacts with(1)	1
+reverse transcriptase	7879	interacts with(1)	1
+reverse transcriptase	8165	binds(1)	1
+reverse transcriptase	8766	interacts with(1)	1
+reverse transcriptase	9368	interacts with(1)	1
+reverse transcriptase	10527	interacts with(1)	1
+reverse transcriptase	26993	associates with(1)	1
+reverse transcriptase	55054	interacts with(1)	1
+reverse transcriptase	84717	interacts with(1)	1
+reverse transcriptase	89849	interacts with(1)	1
+reverse transcriptase	114548	interacts with(1)	1
+reverse transcriptase	200316	interacts with(1)	1
+reverse transcriptase p51 subunit	1937	interacts with(1)	1
+reverse transcriptase p51 subunit	3383	interacts with(1)	1
+Tat	31	interacts with(1)	1
+Tat	59	interacts with(1)	1
+Tat	60	interacts with(1)	1
+Tat	70	interacts with(1)	1
+Tat	71	interacts with(1)	1
+Tat	72	interacts with(1)	1
+Tat	86	interacts with(1)	1
+Tat	160	interacts with(1)	1
+Tat	161	interacts with(1)	1
+Tat	163	interacts with(1)	1
+Tat	176	binds(1)	1
+Tat	191	interacts with(1)	1
+Tat	213	interacts with(1)	1
+Tat	308	associates with(1)	1
+Tat	351	binds(1)	1
+Tat	356	interacts with(1)	1
+Tat	468	interacts with(1)	1
+Tat	581	interacts with(1)	1
+Tat	637	interacts with(1)	1
+Tat	672	associates with(1)	1
+Tat	801	interacts with(1)	1
+Tat	805	interacts with(1)	1
+Tat	822	interacts with(1)	1
+Tat	832	interacts with(1)	1
+Tat	841	interacts with(1)	1
+Tat	842	interacts with(1)	1
+Tat	890	interacts with(1)	1
+Tat	892	interacts with(1)	1
+Tat	896	interacts with(1)	1
+Tat	898	binds(1)	1
+Tat	905	binds(1)	1
+Tat	915	interacts with(1)	1
+Tat	916	interacts with(1)	1
+Tat	917	interacts with(1)	1
+Tat	919	interacts with(1)	1
+Tat	940	interacts with(1)	1
+Tat	952	associates with(1)	1
+Tat	983	interacts with(1)	1
+Tat	990	interacts with(1)	1
+Tat	1019	interacts with(1)	1
+Tat	1020	interacts with(1)	1
+Tat	1024	interacts with(1)	1
+Tat	1027	interacts with(1)	1
+Tat	1050	interacts with(1)	1
+Tat	1054	interacts with(1)	1
+Tat	1173	interacts with(1)	1
+Tat	1175	interacts with(1)	1
+Tat	1232	binds(1)	1
+Tat	1268	interacts with(1)	1
+Tat	1432	interacts with(1)	1
+Tat	1627	interacts with(1)	1
+Tat	1660	interacts with(1)	1
+Tat	1803	binds(1)	1
+Tat	1808	interacts with(1)	1
+Tat	1910	interacts with(1)	1
+Tat	1917	interacts with(1)	1
+Tat	1950	interacts with(1)	1
+Tat	1958	binds(1)	1
+Tat	1965	interacts with(1)	1
+Tat	1968	interacts with(1)	1
+Tat	2010	interacts with(1)	1
+Tat	2201	interacts with(1)	1
+Tat	2247	interacts with(1)	1
+Tat	2272	interacts with(1)	1
+Tat	2316	interacts with(1)	1
+Tat	2317	interacts with(1)	1
+Tat	2321	binds(1)	1
+Tat	2521	interacts with(1)	1
+Tat	2597	interacts with(1)	1
+Tat	2629	interacts with(1)	1
+Tat	2736	binds(1)	1
+Tat	2885	binds(1)	1
+Tat	2896	binds(1)	1
+Tat	2907	binds(1)	1
+Tat	2911	interacts with(1)	1
+Tat	2960	interacts with(1)	1
+Tat	2961	interacts with(1)	1
+Tat	2962	interacts with(1)	1
+Tat	2977	interacts with(1)	1
+Tat	2982	interacts with(1)	1
+Tat	2983	interacts with(1)	1
+Tat	3012	binds(1)	1
+Tat	3013	binds(1)	1
+Tat	3014	binds(1)	1
+Tat	3015	binds(1)	1
+Tat	3017	binds(1)	1
+Tat	3018	binds(1)	1
+Tat	3021	binds(1)	1
+Tat	3065	interacts with(1)	1
+Tat	3066	interacts with(1)	1
+Tat	3159	interacts with(1)	1
+Tat	3185	complexes with(1)	1
+Tat	3303	interacts with(1)	1
+Tat	3312	interacts with(1)	1
+Tat	3339	interacts with(1)	1
+Tat	3383	interacts with(1)	1
+Tat	3439	interacts with(1)	1
+Tat	3440	interacts with(1)	1
+Tat	3441	interacts with(1)	1
+Tat	3442	interacts with(1)	1
+Tat	3443	interacts with(1)	1
+Tat	3444	interacts with(1)	1
+Tat	3445	interacts with(1)	1
+Tat	3446	interacts with(1)	1
+Tat	3447	interacts with(1)	1
+Tat	3448	interacts with(1)	1
+Tat	3449	interacts with(1)	1
+Tat	3451	interacts with(1)	1
+Tat	3452	interacts with(1)	1
+Tat	3456	interacts with(1)	1
+Tat	3487	binds(1)	1
+Tat	3565	interacts with(1)	1
+Tat	3575	interacts with(1)	1
+Tat	3608	interacts with(1)	1
+Tat	3659	binds(1)	1
+Tat	3689	interacts with(1)	1
+Tat	3691	interacts with(1)	1
+Tat	3708	interacts with(1)	1
+Tat	3709	interacts with(1)	1
+Tat	3710	interacts with(1)	1
+Tat	3717	interacts with(1)	1
+Tat	3718	interacts with(1)	1
+Tat	3832	interacts with(1)	1
+Tat	3842	binds(1)	1
+Tat	3843	binds(1)	1
+Tat	3920	associates with(1)	1
+Tat	3930	interacts with(1)	1
+Tat	3932	interacts with(1)	1
+Tat	4000	binds(1)	1
+Tat	4001	binds(1)	1
+Tat	4137	interacts with(1)	1
+Tat	4172	interacts with(1)	1
+Tat	4175	interacts with(1)	1
+Tat	4176	interacts with(1)	1
+Tat	4193	ubiquitinated by(1)	1
+Tat	4205	interacts with(1)	1
+Tat	4300	complexes with(1)	1
+Tat	4318	interacts with(1)	1
+Tat	4609	associates with(1)	1
+Tat	4628	interacts with(1)	1
+Tat	4670	interacts with(1)	1
+Tat	4673	interacts with(1)	1
+Tat	4676	interacts with(1)	1
+Tat	4772	interacts with(1)	1
+Tat	4775	interacts with(1)	1
+Tat	4776	interacts with(1)	1
+Tat	4780	interacts with(1)	1
+Tat	4842	interacts with(1)	1
+Tat	4843	interacts with(1)	1
+Tat	4846	interacts with(1)	1
+Tat	4853	interacts with(1)	1
+Tat	4904	binds(1)	1
+Tat	4926	interacts with(1)	1
+Tat	4927	interacts with(1)	1
+Tat	4928	interacts with(1)	1
+Tat	4938	interacts with(1)	1
+Tat	4939	interacts with(1)	1
+Tat	4940	interacts with(1)	1
+Tat	4988	interacts with(1)	1
+Tat	5058	interacts with(1)	1
+Tat	5093	interacts with(1)	1
+Tat	5094	interacts with(1)	1
+Tat	5111	interacts with(1)	1
+Tat	5132	interacts with(1)	1
+Tat	5141	interacts with(1)	1
+Tat	5142	interacts with(1)	1
+Tat	5143	interacts with(1)	1
+Tat	5144	interacts with(1)	1
+Tat	5168	interacts with(1)	1
+Tat	5359	interacts with(1)	1
+Tat	5426	interacts with(1)	1
+Tat	5451	binds(1)	1
+Tat	5511	binds(1)	1
+Tat	5553	binds(1)	1
+Tat	5562	interacts with(1)	1
+Tat	5563	interacts with(1)	1
+Tat	5564	interacts with(1)	1
+Tat	5578	phosphorylated by(1)	1
+Tat	5579	phosphorylated by(1)	1
+Tat	5580	phosphorylated by(1)	1
+Tat	5581	phosphorylated by(1)	1
+Tat	5582	phosphorylated by(1)	1
+Tat	5583	phosphorylated by(1)	1
+Tat	5584	phosphorylated by(1)	1
+Tat	5587	phosphorylated by(1)	1
+Tat	5590	phosphorylated by(1)	1
+Tat	5592	interacts with(1)	1
+Tat	5603	interacts with(1)	1
+Tat	5606	interacts with(1)	1
+Tat	5682	interacts with(1)	1
+Tat	5684	interacts with(1)	1
+Tat	5686	interacts with(1)	1
+Tat	5692	interacts with(1)	1
+Tat	5698	interacts with(1)	1
+Tat	5700	interacts with(1)	1
+Tat	5701	interacts with(1)	1
+Tat	5702	interacts with(1)	1
+Tat	5706	interacts with(1)	1
+Tat	5707	interacts with(1)	1
+Tat	5708	interacts with(1)	1
+Tat	5709	interacts with(1)	1
+Tat	5710	interacts with(1)	1
+Tat	5711	interacts with(1)	1
+Tat	5713	interacts with(1)	1
+Tat	5714	interacts with(1)	1
+Tat	5715	interacts with(1)	1
+Tat	5716	interacts with(1)	1
+Tat	5717	interacts with(1)	1
+Tat	5718	interacts with(1)	1
+Tat	5719	interacts with(1)	1
+Tat	5720	interacts with(1)	1
+Tat	5721	interacts with(1)	1
+Tat	5724	interacts with(1)	1
+Tat	5747	phosphorylates(1)	1
+Tat	5788	interacts with(1)	1
+Tat	5818	interacts with(1)	1
+Tat	5888	interacts with(1)	1
+Tat	5901	interacts with(1)	1
+Tat	5903	interacts with(1)	1
+Tat	5905	interacts with(1)	1
+Tat	5928	interacts with(1)	1
+Tat	5931	interacts with(1)	1
+Tat	5934	binds(1)	1
+Tat	5966	interacts with(1)	1
+Tat	5981	interacts with(1)	1
+Tat	5982	interacts with(1)	1
+Tat	5983	interacts with(1)	1
+Tat	5984	interacts with(1)	1
+Tat	5985	interacts with(1)	1
+Tat	6117	interacts with(1)	1
+Tat	6122	interacts with(1)	1
+Tat	6390	binds(1)	1
+Tat	6426	interacts with(1)	1
+Tat	6427	interacts with(1)	1
+Tat	6601	interacts with(1)	1
+Tat	6602	interacts with(1)	1
+Tat	6626	interacts with(1)	1
+Tat	6627	interacts with(1)	1
+Tat	6670	interacts with(1)	1
+Tat	6671	interacts with(1)	1
+Tat	6711	interacts with(1)	1
+Tat	6741	interacts with(1)	1
+Tat	6749	interacts with(1)	1
+Tat	6778	interacts with(1)	1
+Tat	6853	interacts with(1)	1
+Tat	6895	binds(1)	1
+Tat	6917	interacts with(1)	1
+Tat	6919	interacts with(1)	1
+Tat	6920	interacts with(1)	1
+Tat	6924	interacts with(1)	1
+Tat	7025	interacts with(1)	1
+Tat	7037	interacts with(1)	1
+Tat	7040	interacts with(1)	1
+Tat	7057	binds(1)	1
+Tat	7067	binds(1)	1
+Tat	7076	interacts with(1)	1
+Tat	7077	interacts with(1)	1
+Tat	7112	interacts with(1)	1
+Tat	7153	interacts with(1)	1
+Tat	7155	binds(1)	1
+Tat	7161	binds(1)	1
+Tat	7220	interacts with(1)	1
+Tat	7277	binds(1)	1
+Tat	7278	binds(1)	1
+Tat	7280	binds(1)	1
+Tat	7314	ubiquitinated by(1)	1
+Tat	7316	ubiquitinated by(1)	1
+Tat	7317	ubiquitinated by(1)	1
+Tat	7321	ubiquitinated by(1)	1
+Tat	7469	associates with(1)	1
+Tat	7520	interacts with(1)	1
+Tat	7528	interacts with(1)	1
+Tat	7846	binds(1)	1
+Tat	7852	binds(1)	1
+Tat	7936	associates with(1)	1
+Tat	8087	interacts with(1)	1
+Tat	8091	interacts with(1)	1
+Tat	8237	interacts with(1)	1
+Tat	8290	binds(1)	1
+Tat	8294	binds(1)	1
+Tat	8329	binds(1)	1
+Tat	8330	binds(1)	1
+Tat	8331	binds(1)	1
+Tat	8332	binds(1)	1
+Tat	8334	binds(1)	1
+Tat	8335	binds(1)	1
+Tat	8336	binds(1)	1
+Tat	8339	binds(1)	1
+Tat	8340	binds(1)	1
+Tat	8341	binds(1)	1
+Tat	8342	binds(1)	1
+Tat	8343	binds(1)	1
+Tat	8344	binds(1)	1
+Tat	8345	binds(1)	1
+Tat	8346	binds(1)	1
+Tat	8347	binds(1)	1
+Tat	8348	binds(1)	1
+Tat	8350	binds(1)	1
+Tat	8351	binds(1)	1
+Tat	8352	binds(1)	1
+Tat	8353	binds(1)	1
+Tat	8354	binds(1)	1
+Tat	8355	binds(1)	1
+Tat	8356	binds(1)	1
+Tat	8357	binds(1)	1
+Tat	8358	binds(1)	1
+Tat	8359	binds(1)	1
+Tat	8360	binds(1)	1
+Tat	8361	binds(1)	1
+Tat	8362	binds(1)	1
+Tat	8363	binds(1)	1
+Tat	8364	binds(1)	1
+Tat	8365	binds(1)	1
+Tat	8366	binds(1)	1
+Tat	8367	binds(1)	1
+Tat	8368	binds(1)	1
+Tat	8369	binds(1)	1
+Tat	8370	binds(1)	1
+Tat	8467	interacts with(1)	1
+Tat	8575	binds(1)	1
+Tat	8607	interacts with(1)	1
+Tat	8621	interacts with(1)	1
+Tat	8655	interacts with(1)	1
+Tat	8732	binds(1)	1
+Tat	8805	binds(1)	1
+Tat	8878	interacts with(1)	1
+Tat	8894	interacts with(1)	1
+Tat	8900	interacts with(1)	1
+Tat	8932	interacts with(1)	1
+Tat	8968	binds(1)	1
+Tat	8969	binds(1)	1
+Tat	8970	binds(1)	1
+Tat	9031	interacts with(1)	1
+Tat	9126	interacts with(1)	1
+Tat	9150	binds(1)	1
+Tat	9188	interacts with(1)	1
+Tat	9282	binds(1)	1
+Tat	9412	interacts with(1)	1
+Tat	9491	interacts with(1)	1
+Tat	9513	interacts with(1)	1
+Tat	9555	binds(1)	1
+Tat	9688	interacts with(1)	1
+Tat	9739	interacts with(1)	1
+Tat	9782	interacts with(1)	1
+Tat	9861	interacts with(1)	1
+Tat	9869	methylated by(1)	1
+Tat	9879	interacts with(1)	1
+Tat	9918	interacts with(1)	1
+Tat	9972	interacts with(1)	1
+Tat	9982	binds(1)	1
+Tat	10001	binds(1)	1
+Tat	10013	interacts with(1)	1
+Tat	10018	interacts with(1)	1
+Tat	10051	interacts with(1)	1
+Tat	10135	interacts with(1)	1
+Tat	10146	interacts with(1)	1
+Tat	10197	interacts with(1)	1
+Tat	10216	binds(1)	1
+Tat	10284	interacts with(1)	1
+Tat	10320	interacts with(1)	1
+Tat	10360	interacts with(1)	1
+Tat	10376	binds(1)	1
+Tat	10381	binds(1)	1
+Tat	10382	binds(1)	1
+Tat	10383	binds(1)	1
+Tat	10394	binds(1)	1
+Tat	10399	interacts with(1)	1
+Tat	10432	interacts with(1)	1
+Tat	10521	interacts with(1)	1
+Tat	10537	ubiquitinated by(1)	1
+Tat	10575	interacts with(1)	1
+Tat	10592	interacts with(1)	1
+Tat	10594	interacts with(1)	1
+Tat	10855	interacts with(1)	1
+Tat	10856	interacts with(1)	1
+Tat	10923	binds(1)	1
+Tat	10929	interacts with(1)	1
+Tat	11091	interacts with(1)	1
+Tat	11198	interacts with(1)	1
+Tat	11337	interacts with(1)	1
+Tat	22954	binds(1)	1
+Tat	23028	modified by(1)	1
+Tat	23047	interacts with(1)	1
+Tat	23165	interacts with(1)	1
+Tat	23198	interacts with(1)	1
+Tat	23244	interacts with(1)	1
+Tat	23397	interacts with(1)	1
+Tat	23405	interacts with(1)	1
+Tat	23435	interacts with(1)	1
+Tat	23512	interacts with(1)	1
+Tat	23524	interacts with(1)	1
+Tat	23621	interacts with(1)	1
+Tat	23643	interacts with(1)	1
+Tat	23683	phosphorylated by(1)	1
+Tat	25825	interacts with(1)	1
+Tat	25920	associates with(1)	1
+Tat	25940	interacts with(1)	1
+Tat	25942	interacts with(1)	1
+Tat	26092	interacts with(1)	1
+Tat	26273	interacts with(1)	1
+Tat	26986	interacts with(1)	1
+Tat	27336	associates with(1)	1
+Tat	29101	interacts with(1)	1
+Tat	30827	interacts with(1)	1
+Tat	51193	interacts with(1)	1
+Tat	51341	binds(1)	1
+Tat	51474	interacts with(1)	1
+Tat	51497	associates with(1)	1
+Tat	51692	interacts with(1)	1
+Tat	51807	binds(1)	1
+Tat	54205	interacts with(1)	1
+Tat	54623	complexes with(1)	1
+Tat	54815	interacts with(1)	1
+Tat	54876	interacts with(1)	1
+Tat	55506	binds(1)	1
+Tat	55536	interacts with(1)	1
+Tat	55766	binds(1)	1
+Tat	57634	interacts with(1)	1
+Tat	58155	interacts with(1)	1
+Tat	63893	interacts with(1)	1
+Tat	64710	interacts with(1)	1
+Tat	64919	binds(1)	1
+Tat	79902	interacts with(1)	1
+Tat	80829	interacts with(1)	1
+Tat	81027	binds(1)	1
+Tat	83740	binds(1)	1
+Tat	83852	associates with(1)	1
+Tat	84324	interacts with(1)	1
+Tat	84617	binds(1)	1
+Tat	84790	binds(1)	1
+Tat	84823	binds(1)	1
+Tat	85235	binds(1)	1
+Tat	85236	binds(1)	1
+Tat	92815	binds(1)	1
+Tat	94239	binds(1)	1
+Tat	116443	interacts with(1)	1
+Tat	116444	interacts with(1)	1
+Tat	121504	binds(1)	1
+Tat	124790	interacts with(1)	1
+Tat	126961	binds(1)	1
+Tat	128312	binds(1)	1
+Tat	163033	interacts with(1)	1
+Tat	196528	binds(1)	1
+Tat	221613	binds(1)	1
+Tat	255626	binds(1)	1
+Tat	284695	interacts with(1)	1
+Tat	317772	binds(1)	1
+Tat	347688	binds(1)	1
+Tat	653361	interacts with(1)	1
+Vif	196	interacts with(1)	1
+Vif	790	interacts with(1)	1
+Vif	908	interacts with(1)	1
+Vif	920	interacts with(1)	1
+Vif	1025	interacts with(1)	1
+Vif	1642	interacts with(1)	1
+Vif	2194	interacts with(1)	1
+Vif	2547	binds(1)	1
+Vif	2618	interacts with(1)	1
+Vif	2874	interacts with(1)	1
+Vif	3030	interacts with(1)	1
+Vif	3055	interacts with(1)	1
+Vif	3123	interacts with(1)	1
+Vif	3300	interacts with(1)	1
+Vif	3301	interacts with(1)	1
+Vif	3303	interacts with(1)	1
+Vif	3308	interacts with(1)	1
+Vif	3312	interacts with(1)	1
+Vif	3315	interacts with(1)	1
+Vif	3320	interacts with(1)	1
+Vif	3329	interacts with(1)	1
+Vif	3581	interacts with(1)	1
+Vif	3832	interacts with(1)	1
+Vif	4131	interacts with(1)	1
+Vif	4548	interacts with(1)	1
+Vif	4666	interacts with(1)	1
+Vif	4734	binds(1)	1
+Vif	4898	interacts with(1)	1
+Vif	5198	interacts with(1)	1
+Vif	5300	interacts with(1)	1
+Vif	5430	interacts with(1)	1
+Vif	5431	interacts with(1)	1
+Vif	5478	binds(1)	1
+Vif	5525	binds(1)	1
+Vif	5594	phosphorylated by(1)	1
+Vif	5595	phosphorylated by(1)	1
+Vif	5682	interacts with(1)	1
+Vif	5683	interacts with(1)	1
+Vif	5684	interacts with(1)	1
+Vif	5685	interacts with(1)	1
+Vif	5686	interacts with(1)	1
+Vif	5687	interacts with(1)	1
+Vif	5688	interacts with(1)	1
+Vif	5689	interacts with(1)	1
+Vif	5690	interacts with(1)	1
+Vif	5691	interacts with(1)	1
+Vif	5692	interacts with(1)	1
+Vif	5693	interacts with(1)	1
+Vif	5694	interacts with(1)	1
+Vif	5695	interacts with(1)	1
+Vif	5696	interacts with(1)	1
+Vif	5698	interacts with(1)	1
+Vif	5699	interacts with(1)	1
+Vif	5700	interacts with(1)	1
+Vif	5701	interacts with(1)	1
+Vif	5702	interacts with(1)	1
+Vif	5704	interacts with(1)	1
+Vif	5705	interacts with(1)	1
+Vif	5706	interacts with(1)	1
+Vif	5707	interacts with(1)	1
+Vif	5708	interacts with(1)	1
+Vif	5709	interacts with(1)	1
+Vif	5710	interacts with(1)	1
+Vif	5711	interacts with(1)	1
+Vif	5713	interacts with(1)	1
+Vif	5714	interacts with(1)	1
+Vif	5715	interacts with(1)	1
+Vif	5716	interacts with(1)	1
+Vif	5717	interacts with(1)	1
+Vif	5718	interacts with(1)	1
+Vif	5719	interacts with(1)	1
+Vif	5720	interacts with(1)	1
+Vif	5721	interacts with(1)	1
+Vif	6059	associates with(1)	1
+Vif	6303	binds(1)	1
+Vif	6950	interacts with(1)	1
+Vif	7037	interacts with(1)	1
+Vif	7157	binds(1)	1
+Vif	7203	interacts with(1)	1
+Vif	7266	interacts with(1)	1
+Vif	8266	interacts with(1)	1
+Vif	8451	interacts with(1)	1
+Vif	8453	interacts with(1)	1
+Vif	8841	interacts with(1)	1
+Vif	8878	interacts with(1)	1
+Vif	9131	interacts with(1)	1
+Vif	9491	interacts with(1)	1
+Vif	9611	interacts with(1)	1
+Vif	9859	interacts with(1)	1
+Vif	9861	interacts with(1)	1
+Vif	10075	interacts with(1)	1
+Vif	10273	interacts with(1)	1
+Vif	10294	interacts with(1)	1
+Vif	10574	interacts with(1)	1
+Vif	10575	interacts with(1)	1
+Vif	10576	interacts with(1)	1
+Vif	10694	interacts with(1)	1
+Vif	11180	interacts with(1)	1
+Vif	22806	interacts with(1)	1
+Vif	22948	interacts with(1)	1
+Vif	23192	interacts with(1)	1
+Vif	23198	interacts with(1)	1
+Vif	23304	interacts with(1)	1
+Vif	25902	interacts with(1)	1
+Vif	26284	interacts with(1)	1
+Vif	26993	interacts with(1)	1
+Vif	29110	interacts with(1)	1
+Vif	54901	interacts with(1)	1
+Vif	55083	interacts with(1)	1
+Vif	55626	interacts with(1)	1
+Vif	55699	interacts with(1)	1
+Vif	56243	interacts with(1)	1
+Vif	57805	interacts with(1)	1
+Vif	79718	interacts with(1)	1
+Vif	79803	interacts with(1)	1
+Vif	80344	interacts with(1)	1
+Vif	83737	binds(1)	1
+Vif	84938	interacts with(1)	1
+Vif	84971	interacts with(1)	1
+Vif	115201	interacts with(1)	1
+Vif	146206	interacts with(1)	1
+Vif	162394	interacts with(1)	1
+Vpr	598	interacts with(1)	1
+Vpr	904	binds(1)	1
+Vpr	1025	interacts with(1)	1
+Vpr	1026	interacts with(1)	1
+Vpr	1234	interacts with(1)	1
+Vpr	1312	interacts with(1)	1
+Vpr	1387	binds(1)	1
+Vpr	1781	interacts with(1)	1
+Vpr	2067	complexes with(1)	1
+Vpr	2072	complexes with(1)	1
+Vpr	2670	interacts with(1)	1
+Vpr	2873	interacts with(1)	1
+Vpr	2959	binds(1)	1
+Vpr	3014	interacts with(1)	1
+Vpr	3065	binds(1)	1
+Vpr	3106	interacts with(1)	1
+Vpr	3107	interacts with(1)	1
+Vpr	3304	interacts with(1)	1
+Vpr	3306	interacts with(1)	1
+Vpr	3308	interacts with(1)	1
+Vpr	3309	interacts with(1)	1
+Vpr	3310	interacts with(1)	1
+Vpr	3312	interacts with(1)	1
+Vpr	3313	interacts with(1)	1
+Vpr	3837	interacts with(1)	1
+Vpr	3840	binds(1)	1
+Vpr	3842	interacts with(1)	1
+Vpr	3843	interacts with(1)	1
+Vpr	4170	interacts with(1)	1
+Vpr	4728	interacts with(1)	1
+Vpr	4790	interacts with(1)	1
+Vpr	5347	interacts with(1)	1
+Vpr	5467	interacts with(1)	1
+Vpr	5515	binds(1)	1
+Vpr	5516	binds(1)	1
+Vpr	5519	binds(1)	1
+Vpr	5520	binds(1)	1
+Vpr	5521	binds(1)	1
+Vpr	5523	binds(1)	1
+Vpr	5524	binds(1)	1
+Vpr	5525	binds(1)	1
+Vpr	5526	binds(1)	1
+Vpr	5527	binds(1)	1
+Vpr	5528	binds(1)	1
+Vpr	5529	binds(1)	1
+Vpr	5562	phosphorylated by(1)	1
+Vpr	5563	phosphorylated by(1)	1
+Vpr	5564	phosphorylated by(1)	1
+Vpr	5565	phosphorylated by(1)	1
+Vpr	5567	phosphorylated by(1)	1
+Vpr	5568	phosphorylated by(1)	1
+Vpr	5571	phosphorylated by(1)	1
+Vpr	5573	phosphorylated by(1)	1
+Vpr	5575	phosphorylated by(1)	1
+Vpr	5576	phosphorylated by(1)	1
+Vpr	5577	phosphorylated by(1)	1
+Vpr	5708	interacts with(1)	1
+Vpr	5710	interacts with(1)	1
+Vpr	5825	interacts with(1)	1
+Vpr	6117	interacts with(1)	1
+Vpr	6118	complexes with(1)	1
+Vpr	6596	binds(1)	1
+Vpr	6638	interacts with(1)	1
+Vpr	6885	interacts with(1)	1
+Vpr	6908	binds(1)	1
+Vpr	6993	interacts with(1)	1
+Vpr	7158	interacts with(1)	1
+Vpr	7259	interacts with(1)	1
+Vpr	7289	interacts with(1)	1
+Vpr	7314	complexes with(1)	1
+Vpr	7316	complexes with(1)	1
+Vpr	7417	interacts with(1)	1
+Vpr	7419	interacts with(1)	1
+Vpr	7534	interacts with(1)	1
+Vpr	7841	interacts with(1)	1
+Vpr	8467	binds(1)	1
+Vpr	8487	interacts with(1)	1
+Vpr	8533	interacts with(1)	1
+Vpr	8540	interacts with(1)	1
+Vpr	8834	interacts with(1)	1
+Vpr	8841	binds(1)	1
+Vpr	9131	interacts with(1)	1
+Vpr	9219	interacts with(1)	1
+Vpr	9318	interacts with(1)	1
+Vpr	9782	interacts with(1)	1
+Vpr	9859	interacts with(1)	1
+Vpr	9972	interacts with(1)	1
+Vpr	10410	interacts with(1)	1
+Vpr	10581	interacts with(1)	1
+Vpr	10728	interacts with(1)	1
+Vpr	10920	interacts with(1)	1
+Vpr	10987	interacts with(1)	1
+Vpr	11218	interacts with(1)	1
+Vpr	22919	interacts with(1)	1
+Vpr	23304	complexes with(1)	1
+Vpr	23327	interacts with(1)	1
+Vpr	23333	interacts with(1)	1
+Vpr	23352	complexes with(1)	1
+Vpr	23405	complexes with(1)	1
+Vpr	23461	interacts with(1)	1
+Vpr	23583	complexes with(1)	1
+Vpr	23788	interacts with(1)	1
+Vpr	26057	interacts with(1)	1
+Vpr	29110	interacts with(1)	1
+Vpr	50628	interacts with(1)	1
+Vpr	50717	interacts with(1)	1
+Vpr	51138	interacts with(1)	1
+Vpr	51143	interacts with(1)	1
+Vpr	51422	phosphorylated by(1)	1
+Vpr	53371	binds(1)	1
+Vpr	54882	interacts with(1)	1
+Vpr	54958	interacts with(1)	1
+Vpr	57003	interacts with(1)	1
+Vpr	57379	interacts with(1)	1
+Vpr	64083	interacts with(1)	1
+Vpr	79016	interacts with(1)	1
+Vpr	79760	interacts with(1)	1
+Vpr	79833	interacts with(1)	1
+Vpr	80344	interacts with(1)	1
+Vpr	84619	complexes with(1)	1
+Vpr	84717	interacts with(1)	1
+Vpr	88455	interacts with(1)	1
+Vpr	91452	interacts with(1)	1
+Vpr	128710	interacts with(1)	1
+Vpr	130507	complexes with(1)	1
+Vpr	147991	interacts with(1)	1
+Vpr	257397	interacts with(1)	1
+Vpu	160	interacts with(1)	1
+Vpu	162	binds(1)	1
+Vpu	355	interacts with(1)	1
+Vpu	490	interacts with(1)	1
+Vpu	506	interacts with(1)	1
+Vpu	513	interacts with(1)	1
+Vpu	515	interacts with(1)	1
+Vpu	522	interacts with(1)	1
+Vpu	539	interacts with(1)	1
+Vpu	915	interacts with(1)	1
+Vpu	916	interacts with(1)	1
+Vpu	917	interacts with(1)	1
+Vpu	919	interacts with(1)	1
+Vpu	972	interacts with(1)	1
+Vpu	999	interacts with(1)	1
+Vpu	1456	binds(1)	1
+Vpu	1499	interacts with(1)	1
+Vpu	2181	interacts with(1)	1
+Vpu	2214	interacts with(1)	1
+Vpu	2932	binds(1)	1
+Vpu	3030	interacts with(1)	1
+Vpu	3032	interacts with(1)	1
+Vpu	3384	interacts with(1)	1
+Vpu	3439	interacts with(1)	1
+Vpu	3440	interacts with(1)	1
+Vpu	3441	interacts with(1)	1
+Vpu	3442	interacts with(1)	1
+Vpu	3443	interacts with(1)	1
+Vpu	3444	interacts with(1)	1
+Vpu	3445	interacts with(1)	1
+Vpu	3446	interacts with(1)	1
+Vpu	3447	interacts with(1)	1
+Vpu	3448	interacts with(1)	1
+Vpu	3449	interacts with(1)	1
+Vpu	3451	interacts with(1)	1
+Vpu	3452	interacts with(1)	1
+Vpu	4478	interacts with(1)	1
+Vpu	4738	interacts with(1)	1
+Vpu	5347	binds(1)	1
+Vpu	5515	dephosphorylated by(1)	1
+Vpu	5516	dephosphorylated by(1)	1
+Vpu	5518	dephosphorylated by(1)	1
+Vpu	5529	interacts with(1)	1
+Vpu	5586	binds(1)	1
+Vpu	5591	interacts with(1)	1
+Vpu	5902	interacts with(1)	1
+Vpu	5940	interacts with(1)	1
+Vpu	6500	interacts with(1)	1
+Vpu	6790	binds(1)	1
+Vpu	7040	interacts with(1)	1
+Vpu	7042	interacts with(1)	1
+Vpu	7043	interacts with(1)	1
+Vpu	7046	interacts with(1)	1
+Vpu	7048	interacts with(1)	1
+Vpu	7049	interacts with(1)	1
+Vpu	7514	interacts with(1)	1
+Vpu	8454	interacts with(1)	1
+Vpu	8506	interacts with(1)	1
+Vpu	8879	interacts with(1)	1
+Vpu	9238	interacts with(1)	1
+Vpu	9252	binds(1)	1
+Vpu	9702	interacts with(1)	1
+Vpu	10067	interacts with(1)	1
+Vpu	10113	interacts with(1)	1
+Vpu	10128	interacts with(1)	1
+Vpu	10313	interacts with(1)	1
+Vpu	10476	interacts with(1)	1
+Vpu	10564	interacts with(1)	1
+Vpu	10565	interacts with(1)	1
+Vpu	10728	interacts with(1)	1
+Vpu	10999	interacts with(1)	1
+Vpu	23310	interacts with(1)	1
+Vpu	23617	binds(1)	1
+Vpu	23644	interacts with(1)	1
+Vpu	25814	interacts with(1)	1
+Vpu	26973	interacts with(1)	1
+Vpu	29956	interacts with(1)	1
+Vpu	51144	interacts with(1)	1
+Vpu	51701	binds(1)	1
+Vpu	55210	interacts with(1)	1
+Vpu	55681	binds(1)	1
+Vpu	55705	interacts with(1)	1
+Vpu	57142	interacts with(1)	1
+Vpu	57510	interacts with(1)	1
+Vpu	57674	interacts with(1)	1
+Vpu	64328	interacts with(1)	1
+Vpu	64786	interacts with(1)	1
+Vpu	81892	interacts with(1)	1
+Vpu	83858	interacts with(1)	1
+Vpu	90809	interacts with(1)	1
+Vpu	201931	interacts with(1)	1
+Vpu	221955	interacts with(1)	1
